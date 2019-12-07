@@ -32,6 +32,7 @@
 
     <name>PGP keys map to maven artifacts</name>
     <description>This project contains PGP keys map to maven artifacts which should be used to signed</description>
+    <url>${project.scm.url}</url>
     <inceptionYear>2019</inceptionYear>
 
     <licenses>
