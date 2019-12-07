@@ -1,0 +1,39 @@
+#
+# Copyright 2019 Slawomir Jaranowski
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#     http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+#
+
+# no signature for this version
+junit:junit:(,4.8)              =
+
+# it is sub key of 0x58E79B6ABC762159DC0B1591164BD2247B936711
+# https://github.com/s4u/pgpverify-maven-plugin/issues/30
+junit:junit:[4.8,)              = 0xD4C89EA4AAF455FD88B22087EFE8086F9E93774E
+
+org.apache.maven.plugins        = \
+                                  0x6A814B1F869C2BBEAB7CB7271A2A1C94BDE89688, \
+                                  0xAE9E53FC28FF2AB1012273D0BF1518E0160788A2, \
+                                  0xB02137D875D833D9B23392ECAE5A7FB608A0221C, \
+                                  0xF254B35617DC255D9344BCFA873A8E86B4372146, \
+                                  0xFA77DCFEF2EE6EB2DEBEDD2C012579464D01C06A
+
+org.hamcrest:hamcrest-core      = 0x4DB1A49729B053CAF015CEE9A6ADFC93EF34893E
+
+org.jacoco:jacoco-maven-plugin  = 0xA413F67D71BEEC23ADD0CE0ACB43338E060CF9FA
+
+org.simplify4u.*                = 0x6636274B2E8BEA9D15A61143F8484389379ACEAC
+
+org.sonatype.plugins            = 0x2BCBDD0F23EA1CAFCC11D4860374CF2E8DD1BDFD
+
+
