@@ -22,15 +22,20 @@ junit:junit:(,4.8)              =
 junit:junit:[4.8,)              = 0xD4C89EA4AAF455FD88B22087EFE8086F9E93774E
 
 org.apache.maven.plugins        = \
+                                  0x522CA055B326A636D833EF6A0551FD3684FCBBB7, \
                                   0x6A814B1F869C2BBEAB7CB7271A2A1C94BDE89688, \
                                   0xAE9E53FC28FF2AB1012273D0BF1518E0160788A2, \
                                   0xB02137D875D833D9B23392ECAE5A7FB608A0221C, \
                                   0xF254B35617DC255D9344BCFA873A8E86B4372146, \
                                   0xFA77DCFEF2EE6EB2DEBEDD2C012579464D01C06A
 
-org.hamcrest:hamcrest-core      = 0x4DB1A49729B053CAF015CEE9A6ADFC93EF34893E
+org.apache.felix                = 0xA4DED8965C2E1C818217CB91CE2B7FF675D78E92
 
-org.jacoco:jacoco-maven-plugin  = 0xA413F67D71BEEC23ADD0CE0ACB43338E060CF9FA
+com.beust                       = 0x67497E9D680CE8E95BD6B8F85AD66315FC018797
+
+org.hamcrest                    = 0x4DB1A49729B053CAF015CEE9A6ADFC93EF34893E
+
+org.jacoco                      = 0xA413F67D71BEEC23ADD0CE0ACB43338E060CF9FA
 
 org.simplify4u.*                = 0x6636274B2E8BEA9D15A61143F8484389379ACEAC
 
@@ -38,4 +43,4 @@ org.slf4j                       = 0x475F3B8E59E6E63AA78067482C7B12F2A511E325
 
 org.sonatype.plugins            = 0x2BCBDD0F23EA1CAFCC11D4860374CF2E8DD1BDFD
 
-
+org.testng                      = 0xDCBA03381EF6C89096ACD985AC5EC74981F9CDA6
