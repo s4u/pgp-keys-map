@@ -22,11 +22,22 @@ junit:junit:(,4.8)              =
 junit:junit:[4.8,)              = 0xD4C89EA4AAF455FD88B22087EFE8086F9E93774E
 
 org.apache.maven.plugins        = \
+                                  0x0CDE80149711EB46DFF17AE421A24B3F8B0F594A, \
+                                  0x341EE4BF9F5CFFFF954201660A3939A4C560DD8B, \
                                   0x522CA055B326A636D833EF6A0551FD3684FCBBB7, \
                                   0x6A814B1F869C2BBEAB7CB7271A2A1C94BDE89688, \
+                                  0x6C4982557FD21F69E64E08863B58205B9D7013A9, \
+                                  0x6BDACA2C0493CCA133B372D09C4F7E9D98B1CC53, \
+                                  0x849FB4F1AF3D17CDE4DE5E710704ADDF1D821345, \
                                   0xAE9E53FC28FF2AB1012273D0BF1518E0160788A2, \
                                   0xB02137D875D833D9B23392ECAE5A7FB608A0221C, \
+                                  0xB920D295BF0E61CB4CF0896C33CD6733AF5EC452, \
+                                  0xBBE7232D7991050B54C8EA0ADC08637CA615D22C, \
+                                  0xC345986F0FD384669C5919E6A5F094FD3961DF05, \
+                                  0xC739CE4075D9F0F0DED13A7D39BE51A1084C9113, \
+                                  0xC870735180244047DA600FDEC171A58398EEC284, \
                                   0xF254B35617DC255D9344BCFA873A8E86B4372146, \
+                                  0xF4C53F3061834D885726D258AC2D56EAF0E309FF, \
                                   0xFA77DCFEF2EE6EB2DEBEDD2C012579464D01C06A
 
 org.apache.felix                = 0xA4DED8965C2E1C818217CB91CE2B7FF675D78E92
