@@ -14,6 +14,10 @@
 # limitations under the License.
 #
 
+aopalliance:aopalliance         =
+
+classworlds:classworlds         =
+
 com.beust                       = 0x67497E9D680CE8E95BD6B8F85AD66315FC018797
 
 com.github.spotbugs:spotbugs-maven-plugin = 0x3B9CD44BEEDFBDFABA22717BEEA8F6DF3031CD02
@@ -23,11 +27,23 @@ com.google.code.findbugs        = 0x7616EB882DAF57A11477AAF559A252FB1199D873
 com.google.errorprone:*:(,2.3.3]= 0xE77417AC194160A3FABD04969A259C7EE636C5ED
 com.google.errorprone:*:[2.3.4,)= 0x7615AD56144DF2376F49D98B1669C4BB543E0445
 
+com.google.*                    = 0x694621A7227D8D5289699830ABE9F3126BB741C1
+
 com.pholser                     = 0x517B94F8D0A46317A28D8AB30DA8A5EC02D11EAD
+
+commons-io:commons-io           = \
+                                  0x2DB4F1EF0FA761ECC4EA935C86FDC7E2A11262CB, \
+                                  0x6BDACA2C0493CCA133B372D09C4F7E9D98B1CC53
 
 edu.berkeley.cs.jqf             = 0x07665A503E191C320F29C6C8E7C8ECE8FE1536DC
 
 info.picocli                    = 0x8756C4F765C9AC3CB6B85D62379CE192D401AB61
+
+javax.annotation:jsr250-api     =
+
+javax.enterprise                = 0xB1FC0E1FA329669191F8306F5BCEE695141E6086
+
+javax.inject:javax.inject
 
 junit:junit:(,4.8)              =
 # it is sub key of 0x58E79B6ABC762159DC0B1591164BD2247B936711
@@ -38,15 +54,20 @@ ognl                            = 0x8926173648953916A0A4F290F721C545D0CAA2E3
 
 org.antlr                       =
 
-org.apache.commons:commons-lang3:(,3.6] = 0xCD5464315F0B98C77E6E8ECD9DAADC1C9FCC82D0
-org.apache.commons:commons-lang3:[3.7]  = 0x2DB4F1EF0FA761ECC4EA935C86FDC7E2A11262CB
-org.apache.commons:commons-lang3:[3.8,) = 0xB6E73D84EA4FCC47166087253FAAD2CD5ECBB314
-org.apache.commons              = 0xB6E73D84EA4FCC47166087253FAAD2CD5ECBB314
+org.apache.commons              = \
+                                  0x2DB4F1EF0FA761ECC4EA935C86FDC7E2A11262CB, \
+                                  0xB6E73D84EA4FCC47166087253FAAD2CD5ECBB314, \
+                                  0xCD5464315F0B98C77E6E8ECD9DAADC1C9FCC82D0
 
 org.apache.felix                = 0xA4DED8965C2E1C818217CB91CE2B7FF675D78E92
 
-org.apache.maven.plugins        = \
+org.apache.maven.plugin-testing = 0x503BFAAE645286D11EC18181F704B943ED330E1B
+
+org.apache.maven                = 0x042B29E928995B9DB963C636C7CA19B7B620D787
+
+org.apache.maven.*              = \
                                   0x0CDE80149711EB46DFF17AE421A24B3F8B0F594A, \
+                                  0x190D5A957FF22273E601F7A7C92C5FEC70161C62, \
                                   0x341EE4BF9F5CFFFF954201660A3939A4C560DD8B, \
                                   0x522CA055B326A636D833EF6A0551FD3684FCBBB7, \
                                   0x6A814B1F869C2BBEAB7CB7271A2A1C94BDE89688, \
@@ -64,9 +85,19 @@ org.apache.maven.plugins        = \
                                   0xF4C53F3061834D885726D258AC2D56EAF0E309FF, \
                                   0xFA77DCFEF2EE6EB2DEBEDD2C012579464D01C06A
 
+
 org.bouncycastle                = 0x08F0AAB4D0C1A4BDDE340765B341DDB020FCB6AB
 
-org.codehaus.mojo:versions-maven-plugin = 0xF254B35617DC255D9344BCFA873A8E86B4372146
+org.codehaus.plexus:plexus-container-default:(,1.5.2) =
+
+org.codehaus.*             = \
+                                  0x47063E8BA7A6450E4A52E7AE466CAED6E0747D50, \
+                                  0xB02137D875D833D9B23392ECAE5A7FB608A0221C, \
+                                  0xF254B35617DC255D9344BCFA873A8E86B4372146, \
+                                  0xFA77DCFEF2EE6EB2DEBEDD2C012579464D01C06A, \
+                                  0xFB11D4BB7B244678337AAD8BC7BF26D0BB617866
+
+org.eclipse.sisu                = 0xCF17E92C9FFA55316B5DB83901D734EE5EE9C3F8
 
 org.hamcrest                    = 0x4DB1A49729B053CAF015CEE9A6ADFC93EF34893E
 
@@ -80,11 +111,13 @@ org.mockito                     = 0xCC4483CD6A3EB2939B948667A1B4460D8BA7B9AF
 
 org.ow2.asm                     =
 
+org.simplify4u                  = 0x6636274B2E8BEA9D15A61143F8484389379ACEAC
 org.simplify4u.*                = 0x6636274B2E8BEA9D15A61143F8484389379ACEAC
 
 org.slf4j                       = 0x475F3B8E59E6E63AA78067482C7B12F2A511E325
 
-org.sonatype.plugins            = 0x2BCBDD0F23EA1CAFCC11D4860374CF2E8DD1BDFD
+org.sonatype.*                  = 0x2BCBDD0F23EA1CAFCC11D4860374CF2E8DD1BDFD, \
+                                  0x9FFED7A118D45A44E4A1E47130E6F80434A72A7F
 
 org.testng                      = 0xDCBA03381EF6C89096ACD985AC5EC74981F9CDA6
 
