@@ -26,18 +26,6 @@ Especially you can help, when:
             <pgp-keys-map.version>2019.12</pgp-keys-map.version>
         </properties>
 
-        <dependencies>
-            <dependency>
-                <!-- because plugin dependencies aren't verified, 
-                     we should add this in order to also check keys map -->
-                <groupId>org.simplify4u</groupId>
-                <artifactId>pgp-keys-map</artifactId>
-                <version>${pgp-keys-map.version}</version>
-                <scope>runtime</scope>
-                <optional>true</optional>
-            </dependency>
-        </dependencies>
-
         ...
         <build>
             <!-- To define the plugin version in your parent POM -->
