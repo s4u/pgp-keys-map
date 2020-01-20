@@ -54,6 +54,7 @@
 
     <modules>
         <module>org-apache-maven-plugins-test</module>
+        <module>org-springframework-test</module>
         <module>pgp-keys-map-test1</module>
         <module>pgp-keys-map-test2</module>
         <module>pgp-keys-map-test3</module>
@@ -154,6 +155,16 @@
                         </execution>
                         <execution>
                             <id>default-report-integration</id>
+                            <phase>none</phase>
+                        </execution>
+                    </executions>
+                </plugin>
+                <plugin>
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-enforcer-plugin</artifactId>
+                    <executions>
+                        <execution>
+                            <id>enforcer</id>
                             <phase>none</phase>
                         </execution>
                     </executions>
