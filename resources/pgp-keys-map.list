@@ -16,9 +16,14 @@
 
 aopalliance:aopalliance         =
 
+ch.qos.logback                  = 0x475F3B8E59E6E63AA78067482C7B12F2A511E325
+
 classworlds:classworlds         =
 
 com.beust                       = 0x67497E9D680CE8E95BD6B8F85AD66315FC018797
+
+com.fasterxml                   = 0x6214760097DC5CFAD0175AC2C9FBAA83A8753994
+com.fasterxml.*                 = 0x6214760097DC5CFAD0175AC2C9FBAA83A8753994
 
 com.github.spotbugs:spotbugs-maven-plugin = 0x3B9CD44BEEDFBDFABA22717BEEA8F6DF3031CD02
 
@@ -29,7 +34,11 @@ com.google.errorprone:*:[2.3.4,)= 0x7615AD56144DF2376F49D98B1669C4BB543E0445
 
 com.google.*                    = 0x694621A7227D8D5289699830ABE9F3126BB741C1
 
+com.jayway.jsonpath             = 0x41D266DB4427983A1A4AFB0C3684155E9365C30E
+
 com.pholser                     = 0x517B94F8D0A46317A28D8AB30DA8A5EC02D11EAD
+
+com.vaadin.external.google      = 0xCC57399D74CD7E4768ED6FA4CA62973FBF0451C0
 
 commons-io:commons-io           = \
                                   0x2DB4F1EF0FA761ECC4EA935C86FDC7E2A11262CB, \
@@ -39,16 +48,23 @@ edu.berkeley.cs.jqf             = 0x07665A503E191C320F29C6C8E7C8ECE8FE1536DC
 
 info.picocli                    = 0x8756C4F765C9AC3CB6B85D62379CE192D401AB61
 
+jakarta.activation              = 0xCAE38BC93D90B852D88465DD3A1959EEF8726006 # master key
+jakarta.annotation              = 0xF6CE460FDBE1AABD1A96456737ECFC571637667C # master key
+jakarta.validation              = 0x84E640DF8E94CB8CD2BEB9AE99059A5DDE1B175D # master key
+jakarta.xml.bind                = 0xDD46DEC275B1F230ACCE4EEB083891AD4774845A # master key
+
 javax.annotation:jsr250-api     =
 
 javax.enterprise                = 0xB1FC0E1FA329669191F8306F5BCEE695141E6086
 
-javax.inject:javax.inject
+javax.inject:javax.inject       =
 
 junit:junit:(,4.8)              =
-# it is sub key of 0x58E79B6ABC762159DC0B1591164BD2247B936711
-# https://github.com/s4u/pgpverify-maven-plugin/issues/30
-junit:junit:[4.8,)              = 0xD4C89EA4AAF455FD88B22087EFE8086F9E93774E
+junit:junit:[4.8,)              = 0x58E79B6ABC762159DC0B1591164BD2247B936711 # master key
+
+net.bytebuddy                   = 0xF42B96B8648B5C4A1C43A62FBB2914C1FA0811C3
+
+net.minidev                     = 0x2F39E2A1EB9BC4E78F403B22F6BC09712C8DF6EC
 
 ognl                            = 0x8926173648953916A0A4F290F721C545D0CAA2E3
 
@@ -60,6 +76,8 @@ org.apache.commons              = \
                                   0xCD5464315F0B98C77E6E8ECD9DAADC1C9FCC82D0
 
 org.apache.felix                = 0xA4DED8965C2E1C818217CB91CE2B7FF675D78E92
+
+org.apache.logging.log4j        = 0x53C935821AA6A755BD337DB53595395EB3D8E1BA
 
 org.apache.maven.plugin-testing = 0x503BFAAE645286D11EC18181F704B943ED330E1B
 
@@ -85,6 +103,11 @@ org.apache.maven.*              = \
                                   0xF4C53F3061834D885726D258AC2D56EAF0E309FF, \
                                   0xFA77DCFEF2EE6EB2DEBEDD2C012579464D01C06A
 
+org.apache.tomcat.embed         = 0xA9C5DF4D22E99998D9875A5110C01C5A2F6059E7
+
+org.apiguardian                 = 0xFF6E2C001948C5F2F38B0CC385911F425EC61B51
+
+org.assertj                     = 0xA778FDE933A96DDA827840D8E2B3D84202B812D9
 
 org.bouncycastle                = 0x08F0AAB4D0C1A4BDDE340765B341DDB020FCB6AB
 
@@ -99,7 +122,10 @@ org.codehaus.*             = \
 
 org.eclipse.sisu                = 0xCF17E92C9FFA55316B5DB83901D734EE5EE9C3F8
 
-org.hamcrest                    = 0x4DB1A49729B053CAF015CEE9A6ADFC93EF34893E
+org.hamcrest                    = 0x4DB1A49729B053CAF015CEE9A6ADFC93EF34893E, \
+                                  0xE3A9F95079E84CE201F7CF60BEDE11EAF1164480
+
+org.hibernate.validator:hibernate-validator:(,6.1.1.Final] =
 
 org.jacoco                      = 0xA413F67D71BEEC23ADD0CE0ACB43338E060CF9FA
 
@@ -107,19 +133,37 @@ org.javaruntype                 = 0x839323A4780D5BF9A6978970152888E10EF880B3
 
 org.javassist                   = 0x666A4692CE11B7B3F4EB7B3410066A9707090CF9
 
+org.jboss.logging:jboss-logging:(,3.4.1.Final] =
+
+org.junit.*                     = 0xFF6E2C001948C5F2F38B0CC385911F425EC61B51
+
 org.mockito                     = 0xCC4483CD6A3EB2939B948667A1B4460D8BA7B9AF
 
-org.ow2.asm                     =
+org.objenesis                   = 0xE85AED155021AF8A6C6B7A4A7C7D8456294423BA
+
+org.opentest4j                  = 0xFF6E2C001948C5F2F38B0CC385911F425EC61B51
+
+org.ow2.asm:*:[6.0,7.2)         =
+org.ow2.asm                     = 0xA5BD02B93E7A40482EB1D66A5F69AD087600B22C
 
 org.simplify4u                  = 0x6636274B2E8BEA9D15A61143F8484389379ACEAC
 org.simplify4u.*                = 0x6636274B2E8BEA9D15A61143F8484389379ACEAC
+
+org.skyscreamer                 = 0xC89074FC8BE681B7C7EAAB6E4C5EED3C53B75933
 
 org.slf4j                       = 0x475F3B8E59E6E63AA78067482C7B12F2A511E325
 
 org.sonatype.*                  = 0x2BCBDD0F23EA1CAFCC11D4860374CF2E8DD1BDFD, \
                                   0x9FFED7A118D45A44E4A1E47130E6F80434A72A7F
 
+org.springframework             = 0xE2ACB037933CDEAAB7BF77D49A2C7A98E457C53D
+org.springframework.*           = 0xE2ACB037933CDEAAB7BF77D49A2C7A98E457C53D
+
 org.testng                      = 0xDCBA03381EF6C89096ACD985AC5EC74981F9CDA6
+
+org.xmlunit                     = 0xCE8075A251547BEE249BC151A2115AE15F6B8B72
+
+org.yaml                        = 0x120D6F34E627ED3A772EBBFE55C7E5E701832382
 
 ru.vyarus                       = 0xD35AD4AED58AF7DBA740648243F63FDD328B612F
 
