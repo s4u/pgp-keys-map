@@ -60,7 +60,8 @@ javax.enterprise                = 0xB1FC0E1FA329669191F8306F5BCEE695141E6086
 javax.inject:javax.inject       =
 
 junit:junit:(,4.8)              =
-junit:junit:[4.8,)              = 0x58E79B6ABC762159DC0B1591164BD2247B936711 # master key
+junit:junit:[4.8,)              = 0x58E79B6ABC762159DC0B1591164BD2247B936711, \ # master key
+                                  0xFF6E2C001948C5F2F38B0CC385911F425EC61B51
 
 net.bytebuddy                   = 0xF42B96B8648B5C4A1C43A62FBB2914C1FA0811C3
 
