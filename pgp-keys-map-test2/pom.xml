@@ -46,6 +46,14 @@
             <version>[2.3.3]</version>
         </dependency>
         <dependency>
+            <groupId>com.google.code.findbugs</groupId>
+            <artifactId>jsr305</artifactId>
+            <!-- there aren't old version in metadata
+            https://repo1.maven.org/maven2/com/google/code/findbugs/jsr305/maven-metadata.xml
+            so range resolution not work -->
+            <version>2.0.1</version>
+        </dependency>
+        <dependency>
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-lang3</artifactId>
             <version>[3.7]</version>

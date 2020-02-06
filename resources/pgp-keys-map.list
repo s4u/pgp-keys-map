@@ -27,6 +27,7 @@ com.fasterxml.*                 = 0x6214760097DC5CFAD0175AC2C9FBAA83A8753994
 
 com.github.spotbugs:spotbugs-maven-plugin = 0x3B9CD44BEEDFBDFABA22717BEEA8F6DF3031CD02
 
+com.google.code.findbugs:jsr305:(,2.0.1] =
 com.google.code.findbugs        = 0x7616EB882DAF57A11477AAF559A252FB1199D873
 
 com.google.errorprone:*:(,2.3.3]= 0xE77417AC194160A3FABD04969A259C7EE636C5ED
