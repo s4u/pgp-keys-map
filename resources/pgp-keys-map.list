@@ -33,7 +33,10 @@ com.google.code.findbugs        = 0x7616EB882DAF57A11477AAF559A252FB1199D873
 com.google.errorprone:*:(,2.3.3]= 0xE77417AC194160A3FABD04969A259C7EE636C5ED
 com.google.errorprone:*:[2.3.4,)= 0x7615AD56144DF2376F49D98B1669C4BB543E0445
 
-com.google.*                    = 0x694621A7227D8D5289699830ABE9F3126BB741C1
+com.google.*                    = \
+                                  0x56ED3B4843DAACC79DE555557457CA33C3CE9E15, \ # master key
+                                  0xB801E2F8EF035068EC1139CC29579F18FA8FD93B, \
+                                  0xBDB5FA4FE719D787FB3D3197F6D4A1D411E9D1AE
 
 com.jayway.jsonpath             = 0x41D266DB4427983A1A4AFB0C3684155E9365C30E
 
@@ -112,6 +115,8 @@ org.apiguardian                 = 0xFF6E2C001948C5F2F38B0CC385911F425EC61B51
 org.assertj                     = 0xA778FDE933A96DDA827840D8E2B3D84202B812D9
 
 org.bouncycastle                = 0x08F0AAB4D0C1A4BDDE340765B341DDB020FCB6AB
+
+org.checkerframework            = 0x19BEAB2D799C020F17C69126B16698A4ADF4D638
 
 org.codehaus.plexus:plexus-container-default:(,1.5.2) =
 
