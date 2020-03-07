@@ -73,27 +73,7 @@
                 <plugin>
                     <groupId>org.simplify4u.plugins</groupId>
                     <artifactId>pgpverify-maven-plugin</artifactId>
-                    <version>1.6.0</version>
-                    <executions>
-                        <execution>
-                            <phase>verify</phase>
-                            <goals>
-                                <goal>check</goal>
-                            </goals>
-                        </execution>
-                    </executions>
-                    <configuration>
-                        <keysMapLocation>/pgp-keys-map.list</keysMapLocation>
-                        <strictNoSignature>true</strictNoSignature>
-                        <verifyPlugins>true</verifyPlugins>
-                    </configuration>
-                    <dependencies>
-                        <dependency>
-                            <groupId>org.simplify4u</groupId>
-                            <artifactId>pgp-keys-map</artifactId>
-                            <version>${project.version}</version>
-                        </dependency>
-                    </dependencies>
+                    <version>1.7.0-SNAPSHOT</version>
                 </plugin>
 
                 <!-- disable some plugins in this project -->
@@ -199,7 +179,7 @@
                 </configuration>
                 <executions>
                     <execution>
-                        <phase>package</phase>
+                        <phase>initialize</phase>
                         <goals>
                             <goal>single</goal>
                         </goals>
@@ -209,16 +189,36 @@
             <plugin>
                 <groupId>org.simplify4u.plugins</groupId>
                 <artifactId>pgpverify-maven-plugin</artifactId>
+                <executions>
+                    <execution>
+                        <phase>verify</phase>
+                        <goals>
+                            <goal>check</goal>
+                        </goals>
+                    </execution>
+                </executions>
+                <configuration>
+                    <keysMapLocation>/pgp-keys-map.list</keysMapLocation>
+                    <strictNoSignature>true</strictNoSignature>
+                    <verifyPlugins>true</verifyPlugins>
+                </configuration>
+                <dependencies>
+                    <dependency>
+                        <groupId>org.simplify4u</groupId>
+                        <artifactId>pgp-keys-map</artifactId>
+                        <version>${project.version}</version>
+                    </dependency>
+                </dependencies>
             </plugin>
 
             <!-- execute only in root - inherited = false -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-install-plugin</artifactId>
+                <inherited>false</inherited>
                 <executions>
                     <execution>
                         <id>default-install</id>
-                        <inherited>false</inherited>
                         <phase>install</phase>
                     </execution>
                 </executions>
@@ -227,12 +227,12 @@
                 <groupId>org.sonatype.plugins</groupId>
                 <artifactId>nexus-staging-maven-plugin</artifactId>
                 <extensions>false</extensions>
+                <inherited>false</inherited>
                 <configuration>
                     <skipLocalStaging>true</skipLocalStaging>
                 </configuration>
                 <executions>
                     <execution>
-                        <inherited>false</inherited>
                         <phase>deploy</phase>
                         <goals>
                             <goal>deploy</goal>
