@@ -20,6 +20,10 @@ ch.qos.logback                  = 0x475F3B8E59E6E63AA78067482C7B12F2A511E325
 
 classworlds:classworlds         =
 
+commons-codec                   = 0x2DB4F1EF0FA761ECC4EA935C86FDC7E2A11262CB
+
+commons-logging                 = 0x0CC641C3A62453AB390066C4A41F13C999945293
+
 com.beust                       = 0x67497E9D680CE8E95BD6B8F85AD66315FC018797
 
 com.fasterxml                   = 0x6214760097DC5CFAD0175AC2C9FBAA83A8753994
@@ -82,6 +86,8 @@ org.apache.commons              = \
                                   0xCD5464315F0B98C77E6E8ECD9DAADC1C9FCC82D0
 
 org.apache.felix                = 0xA4DED8965C2E1C818217CB91CE2B7FF675D78E92
+
+org.apache.httpcomponents       = 0x0785B3EFF60B1B1BEA94E0BB7C25280EAE63EBE5
 
 org.apache.logging.log4j        = 0x53C935821AA6A755BD337DB53595395EB3D8E1BA
 
