@@ -43,8 +43,8 @@ jobs:
       script:
         - ../utils/mvn-run.sh     clean verify
 
-    - name: "jdk13"
-      jdk: openjdk13
+    - name: "jdk14"
+      jdk: openjdk14
       script:
         - ../utils/mvn-run.sh     clean verify
 
