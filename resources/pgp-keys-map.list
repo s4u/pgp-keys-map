@@ -14,132 +14,445 @@
 # limitations under the License.
 #
 
-aopalliance:aopalliance         =
+ant                             = noSig
+
+antlr                           = noSig
+
+aopalliance                     = noSig
+
+avalon-framework                = noSig
+
+backport-util-concurrent        = noSig
+
+biz.aQute:bndlib:0.0.145        = noSig
+biz.aQute.bnd                   = 0x32D98FFD50617F6ED7E6ABD236FEECF06C2DA10B
+
+bsh                             = noSig
 
 ch.qos.logback                  = 0x475F3B8E59E6E63AA78067482C7B12F2A511E325
 
-classworlds:classworlds         =
+ch.ethz.ganymed                = noSig
 
-commons-codec                   = 0x2DB4F1EF0FA761ECC4EA935C86FDC7E2A11262CB
+classworlds                     = noSig
 
-commons-logging                 = 0x0CC641C3A62453AB390066C4A41F13C999945293
+commons-beanutils:*:(,1.7.0]    = noSig
+commons-beanutils               = \
+                                  0xD196A5E3E70732EEB2E5007F1861C322C56014B2, \
+                                  0xDDDEE87612E9FB95F5C8D91E411063A3A0FFD119, \
+                                  0xE8B2020BD8E1C9CAFD9288827C4504A4D75CF3DC
+
+commons-chain:*:1.1             = noSig
+commons-chain                   = \
+                                  0x6E13156C0EE653F0B984663AB95BBD3FA43C4492, \
+                                  0xD196A5E3E70732EEB2E5007F1861C322C56014B2
+
+commons-codec:*:(,1.3]          = noSig
+commons-codec                   = \
+                                  0x2DB4F1EF0FA761ECC4EA935C86FDC7E2A11262CB, \
+                                  0xB6E73D84EA4FCC47166087253FAAD2CD5 ECBB314
+
+commons-configuration           = 0xB6D7E70520C14104A03DDEBAF202CB82961C9460
+
+commons-collections:*:(,3.2]    = noSig
+commons-collections             = \
+                                  0x0CC641C3A62453AB390066C4A41F13C999945293, \
+                                  0xD196A5E3E70732EEB2E5007F1861C322C56014B2
+
+commons-cli:commons-cli:1.0     = noSig
+commons-cli                     = 0x636DE9055C4C75C7BD9830771241BC872C5E4EC0
+
+commons-digester:*:(,1.8]       = noSig
+commons-digester                = \
+                                  0x04582013F4F60CEB10AC621550BDCE2258812457, \
+                                  0xA9F885A21BA0EFB7D0991E6CCAF5EC5919FEA27D
+
+commons-lang:*:(,2.2]           = noSig
+commons-lang                    = \
+                                  0x636DE9055C4C75C7BD9830771241BC872C5E4EC0, \
+                                  0xD196A5E3E70732EEB2E5007F1861C322C56014B2
+
+commons-logging:*:(,1.1.0]      = noSig
+commons-logging                 = \
+                                  0x0CC641C3A62453AB390066C4A41F13C999945293, \
+                                  0xB920D295BF0E61CB4CF0896C33CD6733AF5EC452
+
+commons-httpclient:*:(,3.0.1]   = noSig
+commons-httpclient:commons-httpclient:pom:3.1 = noSig
+commons-httpclient              = 0x0785B3EFF60B1B1BEA94E0BB7C25280EAE63EBE5
+
+
+commons-io                      = \
+                                  0x2DB4F1EF0FA761ECC4EA935C86FDC7E2A11262CB, \
+                                  0x6BDACA2C0493CCA133B372D09C4F7E9D98B1CC53, \
+                                  0xCD5464315F0B98C77E6E8ECD9DAADC1C9FCC82D0, \
+                                  0xD196A5E3E70732EEB2E5007F1861C322C56014B2
+
+commons-validator:*:(,1.3.0]    = noSig
+commons-validator:*:pom:1.3.1   = noSig
+commons-validator               = \
+                                  0xCD5464315F0B98C77E6E8ECD9DAADC1C9FCC82D0, \
+                                  0xD196A5E3E70732EEB2E5007F1861C322C56014B2, \
+                                  0xD6F1BC78607808EC8E9F69437A8860944FAD5F62
 
 com.beust                       = 0x67497E9D680CE8E95BD6B8F85AD66315FC018797
 
-com.fasterxml                   = 0x6214760097DC5CFAD0175AC2C9FBAA83A8753994
-com.fasterxml.*                 = 0x6214760097DC5CFAD0175AC2C9FBAA83A8753994
+com.cenqua.clover               = noSig
 
-com.github.spotbugs:spotbugs-maven-plugin = 0x3B9CD44BEEDFBDFABA22717BEEA8F6DF3031CD02
+com.fasterxml.*                 = \
+                                  0x2A21DE22697E264345A764832D1F2506C6ECEDF4, \
+                                  0x6214760097DC5CFAD0175AC2C9FBAA83A8753994, \
+                                  0x064F04959CD99ACCC4DFB54C9CD8549ACF9BD0CE
 
-com.google.code.findbugs:jsr305:(,2.0.1] =
+com.github.spotbugs             = \
+                                  0x3B9CD44BEEDFBDFABA22717BEEA8F6DF3031CD02, \
+                                  0xEAD73BAFA397701858506C241756B920EECF0E90
+
+com.google.code.findbugs:jsr305:(,2.0.1] = noSig
 com.google.code.findbugs        = 0x7616EB882DAF57A11477AAF559A252FB1199D873
 
-com.google.errorprone:*:(,2.3.3]= 0xE77417AC194160A3FABD04969A259C7EE636C5ED
-com.google.errorprone:*:[2.3.4,)= 0x7615AD56144DF2376F49D98B1669C4BB543E0445
+com.googlecode.javaewah        = 0x015479E1055341431B4545AB72475FD306B9CAB7
+
+com.google.errorprone           = \
+                                  0x7615AD56144DF2376F49D98B1669C4BB543E0445, \
+                                  0xE77417AC194160A3FABD04969A259C7EE636C5ED
+
+com.google.collections:google-collections:1.0 = noSig
 
 com.google.*                    = \
                                   0x1616273079FE63E31C938F10F0DF21D1D0A3C384, \
-                                  0x56ED3B4843DAACC79DE555557457CA33C3CE9E15, \ # master key
+                                  0x56ED3B4843DAACC79DE555557457CA33C3CE9E15, \
+                                  0xAFCC4C7594D09E2182C60E0F7A01B0F236E5430F, \
                                   0xB801E2F8EF035068EC1139CC29579F18FA8FD93B, \
-                                  0xBDB5FA4FE719D787FB3D3197F6D4A1D411E9D1AE
+                                  0xBDB5FA4FE719D787FB3D3197F6D4A1D411E9D1AE, \
+                                  0xAC6A8BC1BA5426F13D93060E806E7D417A281864, \
+                                  0x03F8609791A33A03CED8976A8DCCCDFAEFE2EFBD
+
+
+com.hp.hpl.jena                 = noSig
+
+com.intellij                    = 0x746B94E2EB774FD0BAD985DC53FBF61FE95B3726
+
+com.ibm.icu:icu4j:(,4.0.1]     = noSig
+com.ibm.icu                     = 0xCB3190CA7842439E57F3712E44CE7BF2825EA2CD
 
 com.jayway.jsonpath             = 0x41D266DB4427983A1A4AFB0C3684155E9365C30E
 
+com.jcraft:jsch:(,0.1.42]       = noSig
+com.jcraft                      = 0x34D6FF19930ADF43AC127792A50569C7CA7FA1F0
+
+com.lowagie                     = noSig
+
+com.mks.api                     = 0xF5FE3E099957FCC561BE34C2D9EB0830E9BFA161
+
 com.pholser                     = 0x517B94F8D0A46317A28D8AB30DA8A5EC02D11EAD
+
+com.puppycrawl.tools            = 0x06D34ED6FF73DE368A772A781063FE98BCECB758
+
+com.sun.jersey.*                = 0xF97C2E386E2C4EFC7C3F98EE2D910134368593F3
+
+com.sun.xml.bind                = noSig
+
+com.thoughtworks.*              = \
+                                  0x050A37A2E0577F4BAA095B52602EC18D20C4661C, \
+                                  0x31FAE244A81D64507B47182E1B2718089CE964B8, \
+                                  0xB02137D875D833D9B23392ECAE5A7FB608A0221C
 
 com.vaadin.external.google      = 0xCC57399D74CD7E4768ED6FA4CA62973FBF0451C0
 
-commons-io:commons-io           = \
-                                  0x2DB4F1EF0FA761ECC4EA935C86FDC7E2A11262CB, \
-                                  0x6BDACA2C0493CCA133B372D09C4F7E9D98B1CC53
+com.vladsch.flexmark            = 0x4008F9DFF7DBC968F35F9E712642156411CCE8B3
+
+dom4j:dom4j                     = noSig
+
+doxia:doxia-sink-api:1.0-alpha-4 = noSig
 
 edu.berkeley.cs.jqf             = 0x07665A503E191C320F29C6C8E7C8ECE8FE1536DC
 
+geronimo-spec                   = noSig
+
 info.picocli                    = 0x8756C4F765C9AC3CB6B85D62379CE192D401AB61
+
+isorelax                        = noSig
 
 jakarta.activation              = 0xCAE38BC93D90B852D88465DD3A1959EEF8726006 # master key
 jakarta.annotation              = 0xF6CE460FDBE1AABD1A96456737ECFC571637667C # master key
 jakarta.validation              = 0x84E640DF8E94CB8CD2BEB9AE99059A5DDE1B175D # master key
 jakarta.xml.bind                = 0xDD46DEC275B1F230ACCE4EEB083891AD4774845A # master key
 
-javax.annotation:jsr250-api     =
+javax.activation                = noSig
+
+javax.annotation                = noSig
 
 javax.enterprise                = 0xB1FC0E1FA329669191F8306F5BCEE695141E6086
 
-javax.inject:javax.inject       =
+javax.inject                    = noSig
 
-junit:junit:(,4.8)              =
-junit:junit:[4.8,)              = 0x58E79B6ABC762159DC0B1591164BD2247B936711, \ # master key
+javax.jdo:jdo2-api:(,2.0]       = noSig
+javax.jdo                       = 0xD3830A5B227A10D3B88BFE442D21AB6565461B79
+
+javax.mail                      = noSig
+
+javax.servlet:servlet-api:2.3   = noSig
+javax.servlet                   = 0x4F7E32D440EF90A83011A8FC6425559C47CC79C4
+
+javax.validation                = noSig
+javax.ws.rs                     = noSig
+
+javax.xml.bind                  = 0xB38E195D438D44A1A8D2D2203575E1C767076CA8
+
+jaxen:jaxen:(,1.1.1]            = noSig
+jaxen                           = 0x656A225FC79CE5CBBD7DD5BFA7F5ED0FA05D64B7
+
+jsch                            = noSig
+
+jline                           = noSig
+
+joda-time                       = 0xB41089A2DA79B0FA5810252872385FF0AF338D52
+
+jdom                            = noSig
+
+jtidy                           = noSig
+
+junit:junit:(,4.7]              = noSig
+junit                           = \
+                                  0x141F43790A926D1FCF1CACA0CD539A8AD3B33EF0, \
+                                  0x23885E64C64E981E4884834D7C535299C0F2C580, \
+                                  0x58E79B6ABC762159DC0B1591164BD2247B936711, \
+                                  0xAED3727A7DC070975D8C5009C7CB325467893CC4, \
                                   0xFF6E2C001948C5F2F38B0CC385911F425EC61B51
+
+log4j:log4j:(,1.2.14]           = noSig
+log4j                           = 0x9D23533896A9784703585B6286E02C5A42196CA8
+
+logkit                          = noSig
+
+nekohtml                        = noSig
 
 net.bytebuddy                   = 0xF42B96B8648B5C4A1C43A62FBB2914C1FA0811C3
 
+net.java.dev.javacc             = noSig
+
+net.java.dev.jna                = 0x47063E8BA7A6450E4A52E7AE466CAED6E0747D50
+
+net.java.dev.stax-utils         = noSig
+
+net.jcip                        = noSig
+
 net.minidev                     = 0x2F39E2A1EB9BC4E78F403B22F6BC09712C8DF6EC
 
+net.sf.jtidy                    = 0x4F752A9878E937049EF3FBA7D4012DDA1F1F0F82
+
+net.sf.saxon                    = 0xD9AA7402BA75F78720D975211D185615D0A84648
+
+net.sourceforge.jchardet        = noSig
+net.sourceforge.saxon           = noSig
+
+net.sourceforge.pmd             = 0x912E716EF6D98746F8EEB4D182DE7BE82166E84E
+
+msv                             = noSig
+
+ognl:ognl:(,3.0]                = noSig
 ognl                            = 0x8926173648953916A0A4F290F721C545D0CAA2E3
 
-org.antlr                       =
+org.antlr:*:(,3.3]              = noSig
+org.antlr                       = 0xD54A395B5CF3F86EB45F6E426B1B008864323B92
+
+org.apache.ant                  = \
+                                  0x06A228AAB83A18A8DF7B84B08614D6AB265B4C63, \
+                                  0x8DA70C00DF7AF1B0D2F9DC74DDBCC1270A29D081, \
+                                  0x0BADE59B0EC24E68C03CA4815EFAD9FE82A7FBCD
+
+org.apache.avalon.framework:avalon-framework-api:jar:4.3.1 = badSig
+
+org.apache.avalon.framework     = 0x9F8E89E5DDF1B6D534F8AA94D0ACAD776E6D31C6
+
+org.apache.bcel                 = 0x2DB4F1EF0FA761ECC4EA935C86FDC7E2A11262CB
 
 org.apache.commons              = \
                                   0x2DB4F1EF0FA761ECC4EA935C86FDC7E2A11262CB, \
+                                  0x636DE9055C4C75C7BD9830771241BC872C5E4EC0, \
                                   0xB6E73D84EA4FCC47166087253FAAD2CD5ECBB314, \
-                                  0xCD5464315F0B98C77E6E8ECD9DAADC1C9FCC82D0
+                                  0xCD5464315F0B98C77E6E8ECD9DAADC1C9FCC82D0, \
+                                  0xCE8075A251547BEE249BC151A2115AE15F6B8B72
 
-org.apache.felix                = 0xA4DED8965C2E1C818217CB91CE2B7FF675D78E92
+org.apache.cxf                  = 0x51B52DC5DD452F92BE342CC2858FC4C4F43856A3
+
+org.apache.felix                = \
+                                  0xA4DED8965C2E1C818217CB91CE2B7FF675D78E92, \
+                                  0xDE35B0D7C01E70F492DD39891AE23E5B33C8561D, \
+                                  0xEA23DB1360D9029481E7F2EFECDFEA3CB4493B94
+
+org.apache.geronimo.javamail    = 0x77AB21FC04DE7624C54BA92FFFD9790960ABD773
+org.apache.geronimo.specs       = 0x223D3A74B068ECA354DC385CE126833F9CF64915
 
 org.apache.httpcomponents       = 0x0785B3EFF60B1B1BEA94E0BB7C25280EAE63EBE5
 
+org.apache.ivy                  = 0x7B8E57E91F116BECF9ACE6AF37A0E062971731FB
+
+org.apache.jackrabbit           = 0xEAA526B91DD83BA3E1B9636FA730529CA355A63E
+
 org.apache.logging.log4j        = 0x53C935821AA6A755BD337DB53595395EB3D8E1BA
 
-org.apache.maven.plugin-testing = 0x503BFAAE645286D11EC18181F704B943ED330E1B
-
-org.apache.maven                = 0x042B29E928995B9DB963C636C7CA19B7B620D787
+org.apache.maven.wagon:*:1.0-beta-2 = noSig
 
 org.apache.maven.*              = \
                                   0x0CDE80149711EB46DFF17AE421A24B3F8B0F594A, \
                                   0x190D5A957FF22273E601F7A7C92C5FEC70161C62, \
+                                  0x31FAE244A81D64507B47182E1B2718089CE964B8, \
                                   0x341EE4BF9F5CFFFF954201660A3939A4C560DD8B, \
+                                  0x34D924503BAF25291978F7C54F9BDB78DB596386, \
+                                  0x429E6335123A642267EF0CDB8F0FABD30F353251, \
+                                  0x47063E8BA7A6450E4A52E7AE466CAED6E0747D50, \
+                                  0x042B29E928995B9DB963C636C7CA19B7B620D787, \
+                                  0x503BFAAE645286D11EC18181F704B943ED330E1B, \
                                   0x522CA055B326A636D833EF6A0551FD3684FCBBB7, \
                                   0x6A814B1F869C2BBEAB7CB7271A2A1C94BDE89688, \
                                   0x6C4982557FD21F69E64E08863B58205B9D7013A9, \
                                   0x6BDACA2C0493CCA133B372D09C4F7E9D98B1CC53, \
+                                  0x6E13156C0EE653F0B984663AB95BBD3FA43C4492, \
+                                  0x7C9CFAF9C409737872FE044AF397D776F65C0178, \
                                   0x849FB4F1AF3D17CDE4DE5E710704ADDF1D821345, \
+                                  0x998AF0E2B935996F5CEBD56B9B1FDA9F3C062231, \
+                                  0x9FFED7A118D45A44E4A1E47130E6F80434A72A7F, \
                                   0xAE9E53FC28FF2AB1012273D0BF1518E0160788A2, \
                                   0xB02137D875D833D9B23392ECAE5A7FB608A0221C, \
                                   0xB920D295BF0E61CB4CF0896C33CD6733AF5EC452, \
+                                  0xBA926F64CA647B6D853A38672E2010F8A7FF4A41, \
                                   0xBBE7232D7991050B54C8EA0ADC08637CA615D22C, \
                                   0xC345986F0FD384669C5919E6A5F094FD3961DF05, \
                                   0xC739CE4075D9F0F0DED13A7D39BE51A1084C9113, \
                                   0xC870735180244047DA600FDEC171A58398EEC284, \
                                   0xF254B35617DC255D9344BCFA873A8E86B4372146, \
                                   0xF4C53F3061834D885726D258AC2D56EAF0E309FF, \
-                                  0xFA77DCFEF2EE6EB2DEBEDD2C012579464D01C06A
+                                  0xFA77DCFEF2EE6EB2DEBEDD2C012579464D01C06A, \
+                                  0xFB11D4BB7B244678337AAD8BC7BF26D0BB617866
+
+
+org.apache.struts               = 0xCE4460D20B66C7E1687475BAD388AD829F3E96F7
+
+org.apache.struts:struts-core:pom:1.3.8   = badSig
+org.apache.struts:struts-taglib:pom:1.3.8 = badSig
+org.apache.struts:struts-tiles:pom:1.3.8  = badSig
 
 org.apache.tomcat.embed         = 0xA9C5DF4D22E99998D9875A5110C01C5A2F6059E7
+
+org.apache.velocity:velocity:1.5 = noSig
+org.apache.velocity             = 0x7B9751FC3F01F134F476464CD0EB627D4885CED1
+
+org.apache.ws.commons           = 0x69AFC3E565D7C4FFC6B0C733612333A3DE240A64
+
+org.apache.ws.xmlschema         = 0x51B52DC5DD452F92BE342CC2858FC4C4F43856A3
+
+org.apache.xbean                = 0x223D3A74B068ECA354DC385CE126833F9CF64915
+
+org.apache.xmlgraphics:batik-*:jar:1.7 = badSig
+#org.apache.xmlgraphics:batik-awt-util:jar:1.7 = badSig
+#org.apache.xmlgraphics:batik-bridge:jar:1.7 = badSig
+#org.apache.xmlgraphics:batik-css:jar:1.7 = badSig
+#org.apache.xmlgraphics:batik-dom:jar:1.7 = badSig
+#org.apache.xmlgraphics:batik-ext:jar:1.7 = badSig
+#org.apache.xmlgraphics:batik-extension:jar:1.7 = badSig
+#org.apache.xmlgraphics:batik-gvt:jar:1.7 = badSig
+#org.apache.xmlgraphics:batik-parser:jar:1.7 = badSig
+#org.apache.xmlgraphics:batik-script:jar:1.7 = badSig
+#org.apache.xmlgraphics:batik-svg-dom:jar:1.7 = badSig
+#org.apache.xmlgraphics:batik-svggen:jar:1.7 = badSig
+#org.apache.xmlgraphics:batik-transcoder:jar:1.7 = badSig
+#org.apache.xmlgraphics:batik-util:jar:1.7 = badSig
+#org.apache.xmlgraphics:batik-xml:jar:1.7 = badSig
+
+org.apache.xmlgraphics          = \
+                                  0x6BDACA2C0493CCA133B372D09C4F7E9D98B1CC53, \
+                                  0x7FFB2D270C4DE3113518D09DE3E4404FCC31AE97, \
+                                  0xAB6638CE472A499B3959ADA2F989A2E5C93C5700
+
+org.apache.xmlrpc               = 0x69AFC3E565D7C4FFC6B0C733612333A3DE240A64
+
 
 org.apiguardian                 = 0xFF6E2C001948C5F2F38B0CC385911F425EC61B51
 
 org.assertj                     = 0xA778FDE933A96DDA827840D8E2B3D84202B812D9
 
+org.beanshell                   = noSig
+
 org.bouncycastle                = 0x08F0AAB4D0C1A4BDDE340765B341DDB020FCB6AB
 
 org.checkerframework            = 0x19BEAB2D799C020F17C69126B16698A4ADF4D638
 
-org.codehaus.plexus:plexus-container-default:(,1.5.2) =
 
-org.codehaus.*             = \
+org.codehaus.groovy:groovy-all:(,2.2.1] = noSig
+org.codehaus.groovy             = 0x7FAA0F2206DE228F0DB01AD741321490758AAD6F
+
+org.codehaus.jackson = noSig
+
+
+org.codehaus.plexus:plexus-archiver:1.0-alpha-3 = noSig
+org.codehaus.plexus:plexus-container-default:(,1.5.2] = noSig
+org.codehaus.plexus:plexus-classworlds:1.2-alpha-7 = noSig
+org.codehaus.plexus:plexus-compiler-api:1.5.2 = noSig
+org.codehaus.plexus:plexus-component-api:1.0-alpha-20 = noSig
+org.codehaus.plexus:plexus-digest:1.0 = noSig
+org.codehaus.plexus:plexus-formica:1.0-beta-13 = noSig
+org.codehaus.plexus:plexus-i18n = noSig
+org.codehaus.plexus:plexus-interactivity-api = noSig
+org.codehaus.plexus:plexus-interactivity-jline:1.0-alpha-5 = noSig
+org.codehaus.plexus:plexus-interpolation = noSig
+org.codehaus.plexus:plexus-io:2.7.1 = noSig
+org.codehaus.plexus:plexus-jdo2:1.0-alpha-8 = noSig
+org.codehaus.plexus:plexus-mail-sender-api:1.0-alpha-7 = noSig
+org.codehaus.plexus:plexus-mail-sender-javamail:1.0-alpha-7 = noSig
+org.codehaus.plexus:plexus-mail-sender-simple:1.0-alpha-7 = noSig
+org.codehaus.plexus:plexus-resources:1.0-alpha-4 = noSig
+org.codehaus.plexus:plexus-utils:(,2.0.2] = noSig
+org.codehaus.plexus:plexus-velocity:(,1.1.8] = noSig
+
+org.codehaus.woodstox:woodstox-core-asl:(,4.1.4] = noSig
+org.codehaus.woodstox:stax2-api:(,3.1.1] = noSig
+
+org.codehaus.*                  = \
+                                  0x190D5A957FF22273E601F7A7C92C5FEC70161C62, \
+                                  0x250EC75D1D52E967CE132C548B0378A57CD8E243, \
                                   0x47063E8BA7A6450E4A52E7AE466CAED6E0747D50, \
+                                  0x6A814B1F869C2BBEAB7CB7271A2A1C94BDE89688, \
+                                  0x849FB4F1AF3D17CDE4DE5E710704ADDF1D821345, \
+                                  0x906E5E684729C006267DDD4B105DE36038D8C6C5, \
+                                  0xAE9E53FC28FF2AB1012273D0BF1518E0160788A2, \
                                   0xB02137D875D833D9B23392ECAE5A7FB608A0221C, \
+                                  0xB920D295BF0E61CB4CF0896C33CD6733AF5EC452, \
+                                  0xBA926F64CA647B6D853A38672E2010F8A7FF4A41, \
                                   0xF254B35617DC255D9344BCFA873A8E86B4372146, \
+                                  0xF404C15F367293CCCC0AF7B244146BCAA1F1E051, \
                                   0xFA77DCFEF2EE6EB2DEBEDD2C012579464D01C06A, \
                                   0xFB11D4BB7B244678337AAD8BC7BF26D0BB617866
 
+org.dom4j                       = 0x8F9A3C6D105B9F57844A721D79E193516BE7998F
+
+org.easymock                    = 0xE85AED155021AF8A6C6B7A4A7C7D8456294423BA
+
+org.eclipse.aether              = \
+                                  0x503BFAAE645286D11EC18181F704B943ED330E1B, \
+                                  0xBA926F64CA647B6D853A38672E2010F8A7FF4A41, \
+                                  0xFB11D4BB7B244678337AAD8BC7BF26D0BB617866
+
+org.eclipse.core:resources:3.3.0-v20070604 = noSig
+
+org.eclipse.jgit                = 0x7C669810892CBD3148FA92995B05CCDE140C2876
+
+org.eclipse.jetty               = 0x5989BAF76217B843D66BE55B2D0E1FB8FE4B68B4
+
 org.eclipse.sisu                = 0xCF17E92C9FFA55316B5DB83901D734EE5EE9C3F8
 
-org.hamcrest                    = 0x4DB1A49729B053CAF015CEE9A6ADFC93EF34893E, \
+org.eclipse.mylyn.github        = 0xE1812B73F4E57524C27259EFE50638B3056D2AF3
+
+org.fusesource.hawtbuf          = 0xE5B8247AF8A619A28F90FDFC9FF25980F5BA7E4F
+
+org.hamcrest:hamcrest-core:1.1  = noSig
+org.hamcrest                    = \
+                                  0x4DB1A49729B053CAF015CEE9A6ADFC93EF34893E, \
                                   0xE3A9F95079E84CE201F7CF60BEDE11EAF1164480
 
-org.hibernate.validator:hibernate-validator:(,6.1.1.Final] =
+org.hibernate.validator:hibernate-validator:(,6.1.1.Final] = noSig
+
+org.iq80.snappy                 = 0x9E93DB1192CEE3D3B581AABB37E9D58EA4598641
 
 org.jacoco                      = 0xA413F67D71BEEC23ADD0CE0ACB43338E060CF9FA
 
@@ -147,37 +460,96 @@ org.javaruntype                 = 0x839323A4780D5BF9A6978970152888E10EF880B3
 
 org.javassist                   = 0x666A4692CE11B7B3F4EB7B3410066A9707090CF9
 
-org.jboss.logging:jboss-logging:(,3.4.1.Final] =
+org.jdom:jdom:1.1               = noSig
+org.jdom                        = 0x5897253BEA3046AEEA95A067E93671C7272B7B3F
+
+org.jboss.logging:jboss-logging:(,3.4.1.Final] = noSig
+
+org.jsoup                       = 0xF3184BCD55F4D016E30D4C9BF42E87F9665015C9
 
 org.junit.*                     = 0xFF6E2C001948C5F2F38B0CC385911F425EC61B51
 
 org.mockito                     = 0xCC4483CD6A3EB2939B948667A1B4460D8BA7B9AF
 
+org.mozilla                     = 0xEA0B70B5050192C98CFA7E4F3F36885C24DF4B75
+
+org.netbeans.lib                = noSig
+
+org.nibor.autolink              = 0x624B96CEB9896889C97B258F7DC3076FE22D4F88
+
 org.objenesis                   = 0xE85AED155021AF8A6C6B7A4A7C7D8456294423BA
 
 org.opentest4j                  = 0xFF6E2C001948C5F2F38B0CC385911F425EC61B51
 
-org.ow2.asm:*:[6.0,7.2)         =
+org.osgi:org.osgi.compendium    = noSig
+
+org.osgi                        = 0x1AF010D408C1852AB6EFD4B651CDB4A9DAAC1CBC
+
+org.parboiled                   = 0x4BC63FB0B94CC4133EE21C949339BFE6A3BCCE65
+
+org.pegdown                     = 0x3F103DC095ED9F871823EB92DFC9AD09D6418136
+
+org.ow2.asm:*:[6.0,7.2)         = noSig
 org.ow2.asm                     = 0xA5BD02B93E7A40482EB1D66A5F69AD087600B22C
 
-org.simplify4u                  = 0x6636274B2E8BEA9D15A61143F8484389379ACEAC
 org.simplify4u.*                = 0x6636274B2E8BEA9D15A61143F8484389379ACEAC
 
 org.skyscreamer                 = 0xC89074FC8BE681B7C7EAAB6E4C5EED3C53B75933
 
+org.slf4j:*:(,1.6.4]            = noSig
 org.slf4j                       = 0x475F3B8E59E6E63AA78067482C7B12F2A511E325
 
-org.sonatype.*                  = 0x2BCBDD0F23EA1CAFCC11D4860374CF2E8DD1BDFD, \
-                                  0x9FFED7A118D45A44E4A1E47130E6F80434A72A7F
+org.sonatype.plexus             = noSig
 
-org.springframework             = 0xE2ACB037933CDEAAB7BF77D49A2C7A98E457C53D
+org.sonatype.*                  = \
+                                  0x2BCBDD0F23EA1CAFCC11D4860374CF2E8DD1BDFD, \
+                                  0x9FFED7A118D45A44E4A1E47130E6F80434A72A7F, \
+                                  0xBA926F64CA647B6D853A38672E2010F8A7FF4A41
+
 org.springframework.*           = 0xE2ACB037933CDEAAB7BF77D49A2C7A98E457C53D
 
 org.testng                      = 0xDCBA03381EF6C89096ACD985AC5EC74981F9CDA6
+
+org.tukaani                     = 0x3690C240CE51B4670D30AD1C38EE757D69184620
+
+org.vafer                       = 0x3909C28792327FAD38100EAF04633A577C200941
 
 org.xmlunit                     = 0xCE8075A251547BEE249BC151A2115AE15F6B8B72
 
 org.yaml                        = 0x120D6F34E627ED3A772EBBFE55C7E5E701832382
 
+oro                             = noSig
+
+plexus                          = noSig
+regexp                          = noSig
+
+relaxngDatatype                 = noSig
+
+rome                            = 0x69859CF50A3C1EB40A90D5FD2D6641C6AF88103E
+
 ru.vyarus                       = 0xD35AD4AED58AF7DBA740648243F63FDD328B612F
+
+saxpath                         = noSig
+
+sslext                          = noSig
+
+stax                            = noSig
+
+velocity                        = noSig
+
+wsdl4j                          = noSig
+
+xalan:xalan:jar:2.7.0           = noSig
+xalan:xalan                     = 0x44FBDBBC1A00FE414F1C1873586654072EAD6677
+
+xerces:xercesImpl:(0,2.9.1]     = noSig
+xerces                          = 0x6E13156C0EE653F0B984663AB95BBD3FA43C4492
+
+xml-apis                        = noSig
+
+xmlpull                         = noSig
+
+xmlunit                         = 0xCE8075A251547BEE249BC151A2115AE15F6B8B72
+
+xpp3                            = noSig
 
