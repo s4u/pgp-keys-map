@@ -49,7 +49,7 @@ commons-chain                   = \
 commons-codec:*:(,1.3]          = noSig
 commons-codec                   = \
                                   0x2DB4F1EF0FA761ECC4EA935C86FDC7E2A11262CB, \
-                                  0xB6E73D84EA4FCC47166087253FAAD2CD5 ECBB314
+                                  0xB6E73D84EA4FCC47166087253FAAD2CD5ECBB314
 
 commons-configuration           = 0xB6D7E70520C14104A03DDEBAF202CB82961C9460
 
@@ -251,7 +251,7 @@ net.sourceforge.pmd             = 0x912E716EF6D98746F8EEB4D182DE7BE82166E84E
 msv                             = noSig
 
 ognl:ognl:(,3.0]                = noSig
-ognl                            = 0x8926173648953916A0A4F290F721C545D0CAA2E3
+ognl                            = 0xE157EEB8D208EEB23F5723AC06F21382801CEF5F
 
 org.antlr:*:(,3.3]              = noSig
 org.antlr                       = 0xD54A395B5CF3F86EB45F6E426B1B008864323B92

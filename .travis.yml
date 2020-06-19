@@ -27,25 +27,25 @@ jobs:
     - name: "jdk8"
       jdk: openjdk8
       script:
-        - ../utils/mvn-run.sh     clean verify
+        - ../utils/mvn-run.sh     clean verify | tee build.log && ./test-not-used-keys.sh
 
     - name: "jdk11"
       jdk: openjdk11
       script:
-        - ../utils/mvn-run.sh     clean verify
+        - ../utils/mvn-run.sh     clean verify | tee build.log && ./test-not-used-keys.sh
 
     - name: "jdk14"
       jdk: openjdk14
       script: >-
-        ../utils/mvn-push.sh    clean deploy  &&
+        ( ../utils/mvn-push.sh    clean deploy  &&
         ../utils/mvn-pr.sh      clean verify  &&
-        ../utils/mvn-sonar.sh   sonar:sonar
+        ../utils/mvn-sonar.sh   sonar:sonar ) | tee build.log && ./test-not-used-keys.sh
       if: repo = "s4u/pgp-keys-map"
 
     - name: "jdk14 - forks"
       jdk: openjdk14
       script:
-        - ../utils/mvn-run.sh     clean verify
+        - ../utils/mvn-run.sh     clean verify | tee build.log && ./test-not-used-keys.sh
       if: repo != "s4u/pgp-keys-map"
 
 cache:
