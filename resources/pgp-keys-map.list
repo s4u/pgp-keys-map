@@ -98,6 +98,8 @@ com.beust                       = 0x67497E9D680CE8E95BD6B8F85AD66315FC018797
 
 com.cenqua.clover               = noSig
 
+com.fasterxml.jackson.core:jackson-databind:jar:2.11.0 = badSig
+
 com.fasterxml.*                 = \
                                   0x2A21DE22697E264345A764832D1F2506C6ECEDF4, \
                                   0x6214760097DC5CFAD0175AC2C9FBAA83A8753994, \
