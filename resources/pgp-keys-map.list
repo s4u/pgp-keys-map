@@ -179,7 +179,8 @@ jakarta.annotation              = 0xF6CE460FDBE1AABD1A96456737ECFC571637667C # m
 jakarta.validation              = 0x84E640DF8E94CB8CD2BEB9AE99059A5DDE1B175D # master key
 jakarta.xml.bind                = 0xDD46DEC275B1F230ACCE4EEB083891AD4774845A # master key
 
-javax.activation                = noSig
+javax.activation:activation     = noSig
+javax.activation                = 0x4F7E32D440EF90A83011A8FC6425559C47CC79C4
 
 javax.annotation                = noSig
 
@@ -198,7 +199,9 @@ javax.servlet                   = 0x4F7E32D440EF90A83011A8FC6425559C47CC79C4
 javax.validation                = noSig
 javax.ws.rs                     = noSig
 
-javax.xml.bind                  = 0xB38E195D438D44A1A8D2D2203575E1C767076CA8
+javax.xml.bind                  = \
+                                  0x70CD19BFD9F6C330027D6F260315BFB7970A144F, \
+                                  0xB38E195D438D44A1A8D2D2203575E1C767076CA8
 
 jaxen:jaxen:(,1.1.1]            = noSig
 jaxen                           = 0x656A225FC79CE5CBBD7DD5BFA7F5ED0FA05D64B7
