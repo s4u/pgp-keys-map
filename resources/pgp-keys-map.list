@@ -99,6 +99,8 @@ com.beust                       = 0x67497E9D680CE8E95BD6B8F85AD66315FC018797
 
 com.cenqua.clover               = noSig
 
+com.fasterxml.jackson.core:jackson-databind:jar:2.11.0 = badSig
+
 com.fasterxml.*                 = \
                                   0x2A21DE22697E264345A764832D1F2506C6ECEDF4, \
                                   0x6214760097DC5CFAD0175AC2C9FBAA83A8753994, \
@@ -231,7 +233,9 @@ logkit                          = noSig
 
 nekohtml                        = noSig
 
-net.bytebuddy                   = 0xF42B96B8648B5C4A1C43A62FBB2914C1FA0811C3
+net.bytebuddy                   = \
+                                  0xB4AC8CDC141AF0AE468D16921DA784CCB5C46DD5, \
+                                  0xF42B96B8648B5C4A1C43A62FBB2914C1FA0811C3
 
 net.java.dev.javacc             = noSig
 
@@ -374,7 +378,9 @@ org.apache.xmlrpc               = 0x69AFC3E565D7C4FFC6B0C733612333A3DE240A64
 
 org.apiguardian                 = 0xFF6E2C001948C5F2F38B0CC385911F425EC61B51
 
-org.assertj                     = 0xA778FDE933A96DDA827840D8E2B3D84202B812D9
+org.assertj                     = \
+                                  0x77993D3295698C46912E83984B2277C6358670EE, \
+                                  0xA778FDE933A96DDA827840D8E2B3D84202B812D9
 
 org.beanshell                   = noSig
 
@@ -448,6 +454,8 @@ org.eclipse.sisu                = 0xCF17E92C9FFA55316B5DB83901D734EE5EE9C3F8
 org.eclipse.mylyn.github        = 0xE1812B73F4E57524C27259EFE50638B3056D2AF3
 
 org.fusesource.hawtbuf          = 0xE5B8247AF8A619A28F90FDFC9FF25980F5BA7E4F
+
+org.glassfish                   = 0x7AA34304FF173025AA394C7C2C026998703FFA67
 
 org.hamcrest:hamcrest-core:1.1  = noSig
 org.hamcrest                    = \
