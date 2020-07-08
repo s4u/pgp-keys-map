@@ -34,7 +34,7 @@ Especially you can help, when:
                     <plugin>
                         <groupId>org.simplify4u.plugins</groupId>
                         <artifactId>pgpverify-maven-plugin</artifactId>
-                        <version>1.6.0</version>
+                        <version>1.9.0</version>
                         <executions>
                             <execution>
                                 <goals>
@@ -44,8 +44,9 @@ Especially you can help, when:
                         </executions>
                         <configuration>
                             <keysMapLocation>/pgp-keys-map.list</keysMapLocation>
-                            <strictNoSignature>true</strictNoSignature>
                             <verifyPlugins>true</verifyPlugins>
+                            <verifyPluginDependencies>true</verifyPluginDependencies>
+                            <verifyAtypical>true</verifyAtypical>
                         </configuration>
                         <dependencies>
                             <dependency>

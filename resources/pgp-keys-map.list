@@ -174,6 +174,10 @@ geronimo-spec                   = noSig
 
 info.picocli                    = 0x8756C4F765C9AC3CB6B85D62379CE192D401AB61
 
+io.github.resilience4j          = 0x8756C4F765C9AC3CB6B85D62379CE192D401AB61
+
+io.vavr                         = 0x1D339B6A68AE2E8DAEDA65D5276962CA56E73C81
+
 isorelax                        = noSig
 
 jakarta.activation              = 0xCAE38BC93D90B852D88465DD3A1959EEF8726006 # master key

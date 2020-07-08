@@ -73,7 +73,7 @@
                 <plugin>
                     <groupId>org.simplify4u.plugins</groupId>
                     <artifactId>pgpverify-maven-plugin</artifactId>
-                    <version>1.9.0-SNAPSHOT</version>
+                    <version>1.9.0</version>
                 </plugin>
 
                 <!-- disable some plugins in this project -->
@@ -200,7 +200,6 @@
                 <configuration>
                     <pgpKeyServer>hkps://hkps.pool.sks-keyservers.net,hkps://keyserver.ubuntu.com</pgpKeyServer>
                     <keysMapLocation>/pgp-keys-map.list</keysMapLocation>
-                    <strictNoSignature>true</strictNoSignature>
                     <verifyPlugins>true</verifyPlugins>
                     <verifyPluginDependencies>true</verifyPluginDependencies>
                     <verifyAtypical>true</verifyAtypical>
