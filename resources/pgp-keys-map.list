@@ -127,6 +127,7 @@ com.google.*                    = \
                                   0xAFCC4C7594D09E2182C60E0F7A01B0F236E5430F, \
                                   0xB801E2F8EF035068EC1139CC29579F18FA8FD93B, \
                                   0xBDB5FA4FE719D787FB3D3197F6D4A1D411E9D1AE, \
+                                  0xBDC48EDEC8DE14B04EEEDCB000ECB0B904931A76, \
                                   0xAC6A8BC1BA5426F13D93060E806E7D417A281864, \
                                   0x03F8609791A33A03CED8976A8DCCCDFAEFE2EFBD
 
@@ -455,7 +456,8 @@ org.eclipse.jgit                = 0x7C669810892CBD3148FA92995B05CCDE140C2876
 
 org.eclipse.jetty               = 0x5989BAF76217B843D66BE55B2D0E1FB8FE4B68B4
 
-org.eclipse.sisu                = 0xCF17E92C9FFA55316B5DB83901D734EE5EE9C3F8
+# version (,0.0.0],[0.0.0,) is workaround for https://github.com/s4u/pgpverify-maven-plugin/issues/135
+org.eclipse.sisu:*:(,0.0.0],[0.0.0,) = 0xCF17E92C9FFA55316B5DB83901D734EE5EE9C3F8
 
 org.eclipse.mylyn.github        = 0xE1812B73F4E57524C27259EFE50638B3056D2AF3
 
@@ -522,7 +524,9 @@ org.sonatype.plexus             = noSig
 org.sonatype.*                  = \
                                   0x2BCBDD0F23EA1CAFCC11D4860374CF2E8DD1BDFD, \
                                   0x9FFED7A118D45A44E4A1E47130E6F80434A72A7F, \
-                                  0xBA926F64CA647B6D853A38672E2010F8A7FF4A41
+                                  0xBA926F64CA647B6D853A38672E2010F8A7FF4A41, \
+                                  0xE78AA45938D10249E08CC1C752E6585E0102B84D
+
 
 org.springframework.*           = 0xE2ACB037933CDEAAB7BF77D49A2C7A98E457C53D
 
