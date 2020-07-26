@@ -302,7 +302,9 @@ org.apache.geronimo.specs       = 0x223D3A74B068ECA354DC385CE126833F9CF64915
 
 org.apache.httpcomponents       = 0x0785B3EFF60B1B1BEA94E0BB7C25280EAE63EBE5
 
-org.apache.ivy                  = 0x7B8E57E91F116BECF9ACE6AF37A0E062971731FB
+org.apache.ivy                  = \
+                                  0x8DA70C00DF7AF1B0D2F9DC74DDBCC1270A29D081, \
+                                  0x7B8E57E91F116BECF9ACE6AF37A0E062971731FB
 
 org.apache.jackrabbit           = 0xEAA526B91DD83BA3E1B9636FA730529CA355A63E
 
@@ -482,7 +484,9 @@ org.javaruntype                 = 0x839323A4780D5BF9A6978970152888E10EF880B3
 org.javassist                   = 0x666A4692CE11B7B3F4EB7B3410066A9707090CF9
 
 org.jdom:jdom:1.1               = noSig
-org.jdom                        = 0x5897253BEA3046AEEA95A067E93671C7272B7B3F
+org.jdom                        = \
+                                  0x5897253BEA3046AEEA95A067E93671C7272B7B3F, \
+                                  0x9A4555C237785CA8A6DC1FE58799AF90C06EFBBD
 
 org.jboss.logging:jboss-logging:(,3.4.1.Final] = noSig
 
