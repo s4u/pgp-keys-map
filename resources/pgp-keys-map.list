@@ -20,6 +20,8 @@ antlr                           = noSig
 
 aopalliance                     = noSig
 
+asm:asm                         = noSig
+
 avalon-framework                = noSig
 
 backport-util-concurrent        = noSig
