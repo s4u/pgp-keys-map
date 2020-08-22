@@ -101,12 +101,11 @@ com.beust                       = 0x67497E9D680CE8E95BD6B8F85AD66315FC018797
 
 com.cenqua.clover               = noSig
 
-com.fasterxml.jackson.core:jackson-databind:jar:2.11.0 = badSig
-
 com.fasterxml.*                 = \
                                   0x2A21DE22697E264345A764832D1F2506C6ECEDF4, \
                                   0x6214760097DC5CFAD0175AC2C9FBAA83A8753994, \
-                                  0x064F04959CD99ACCC4DFB54C9CD8549ACF9BD0CE
+                                  0x064F04959CD99ACCC4DFB54C9CD8549ACF9BD0CE, \
+                                  0x8A10792983023D5D14C93B488D7F1BEC1E2ECAE7
 
 com.github.spotbugs             = \
                                   0x3B9CD44BEEDFBDFABA22717BEEA8F6DF3031CD02, \
