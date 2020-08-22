@@ -72,6 +72,19 @@
                     <artifactId>pgpverify-maven-plugin</artifactId>
                     <version>1.9.0</version>
                 </plugin>
+                <plugin>
+                    <!-- must be run before pgpverify-maven-plugin, so change phase -->
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-gpg-plugin</artifactId>
+                    <executions>
+                        <execution>
+                            <phase>package</phase>
+                            <goals>
+                                <goal>sign</goal>
+                            </goals>
+                        </execution>
+                    </executions>
+                </plugin>
 
                 <!-- disable some plugins in this project -->
                 <plugin>
