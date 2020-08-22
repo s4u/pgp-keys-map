@@ -21,11 +21,6 @@ Especially you can help, when:
 # Usage
 
     <project>
-
-        <properties>
-            <pgp-keys-map.version>2019.12</pgp-keys-map.version>
-        </properties>
-
         ...
         <build>
             <!-- To define the plugin version in your parent POM -->
@@ -52,7 +47,7 @@ Especially you can help, when:
                             <dependency>
                                 <groupId>org.simplify4u</groupId>
                                 <artifactId>pgp-keys-map</artifactId>
-                                <version>${pgp-keys-map.version}</version>
+                                <version>2020.08</version>
                             </dependency>
                         </dependencies>
                     </plugin>
