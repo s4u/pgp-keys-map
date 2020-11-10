@@ -1,5 +1,5 @@
 # PGP keys map to maven artifacts
-[![Build Status](https://travis-ci.com/s4u/pgp-keys-map.svg?branch=master)](https://travis-ci.com/s4u/pgp-keys-map)
+[![Build](https://github.com/s4u/pgp-keys-map/workflows/Build/badge.svg)](https://github.com/s4u/pgp-keys-map/actions?query=workflow%3ABuild)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=org.simplify4u%3Apgp-keys-map&metric=alert_status)](https://sonarcloud.io/dashboard?id=org.simplify4u%3Apgp-keys-map)
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=org.simplify4u%3Apgp-keys-map&metric=ncloc)](https://sonarcloud.io/dashboard?id=org.simplify4u%3Apgp-keys-map)
 
