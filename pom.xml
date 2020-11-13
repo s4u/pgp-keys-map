@@ -52,6 +52,7 @@
 
     <modules>
         <module>org-apache-maven-plugins-test</module>
+        <module>org-codehaus-mojo-test</module>
         <module>org-springframework-test</module>
         <module>pgp-keys-map-test1</module>
         <module>pgp-keys-map-test2</module>
