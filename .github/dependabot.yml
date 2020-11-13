@@ -4,12 +4,16 @@ updates:
     directory: "/org-apache-maven-plugins-test/"
     schedule:
       interval: daily
-      time: '09:09'
     open-pull-requests-limit: 10
 
   - package-ecosystem: maven
     directory: "/org-springframework-test/"
     schedule:
       interval: daily
-      time: '09:09'
+    open-pull-requests-limit: 10
+
+  - package-ecosystem: maven
+    directory: "/org-codehaus-mojo-test/"
+    schedule:
+      interval: daily
     open-pull-requests-limit: 10
