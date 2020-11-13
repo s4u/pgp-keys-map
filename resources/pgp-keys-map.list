@@ -534,7 +534,9 @@ org.sonatype.*                  = \
                                   0xE78AA45938D10249E08CC1C752E6585E0102B84D
 
 
-org.springframework.*           = 0xE2ACB037933CDEAAB7BF77D49A2C7A98E457C53D
+org.springframework.*           = \
+                                  0x8756C4F765C9AC3CB6B85D62379CE192D401AB61, \
+                                  0xE2ACB037933CDEAAB7BF77D49A2C7A98E457C53D
 
 org.testng                      = 0xDCBA03381EF6C89096ACD985AC5EC74981F9CDA6
 
