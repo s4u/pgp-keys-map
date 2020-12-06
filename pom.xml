@@ -214,6 +214,7 @@
                     <verifyPlugins>true</verifyPlugins>
                     <verifyPluginDependencies>true</verifyPluginDependencies>
                     <verifyAtypical>true</verifyAtypical>
+                    <pgpKeyServerLoadBalance>false</pgpKeyServerLoadBalance>
                 </configuration>
                 <dependencies>
                     <dependency>
