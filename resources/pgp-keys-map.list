@@ -572,7 +572,9 @@ org.pegdown                     = 0x3F103DC095ED9F871823EB92DFC9AD09D6418136
 org.ow2.asm:*:[6.0,7.2)         = noSig
 org.ow2.asm                     = 0xA5BD02B93E7A40482EB1D66A5F69AD087600B22C
 
-org.simplify4u.*                = 0x6636274B2E8BEA9D15A61143F8484389379ACEAC
+org.simplify4u.*                = \
+                                  0x57EB3F12030A57BAA31CAAD5BE3E2A5CB80794EE, \
+                                  0x6636274B2E8BEA9D15A61143F8484389379ACEAC
 
 org.skyscreamer                 = 0xC89074FC8BE681B7C7EAAB6E4C5EED3C53B75933
 
