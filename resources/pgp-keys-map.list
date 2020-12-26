@@ -121,7 +121,8 @@ com.googlecode.javaewah        = 0x015479E1055341431B4545AB72475FD306B9CAB7
 
 com.google.errorprone           = \
                                   0x7615AD56144DF2376F49D98B1669C4BB543E0445, \
-                                  0xE77417AC194160A3FABD04969A259C7EE636C5ED
+                                  0xE77417AC194160A3FABD04969A259C7EE636C5ED, \
+                                  0xF05E5F90E43E837F9DD8C781BF935C771A8474F8
 
 com.google.collections:google-collections:1.0 = noSig
 
