@@ -396,20 +396,6 @@ org.apache.ws.xmlschema         = 0x51B52DC5DD452F92BE342CC2858FC4C4F43856A3
 org.apache.xbean                = 0x223D3A74B068ECA354DC385CE126833F9CF64915
 
 org.apache.xmlgraphics:batik-*:jar:1.7 = badSig
-#org.apache.xmlgraphics:batik-awt-util:jar:1.7 = badSig
-#org.apache.xmlgraphics:batik-bridge:jar:1.7 = badSig
-#org.apache.xmlgraphics:batik-css:jar:1.7 = badSig
-#org.apache.xmlgraphics:batik-dom:jar:1.7 = badSig
-#org.apache.xmlgraphics:batik-ext:jar:1.7 = badSig
-#org.apache.xmlgraphics:batik-extension:jar:1.7 = badSig
-#org.apache.xmlgraphics:batik-gvt:jar:1.7 = badSig
-#org.apache.xmlgraphics:batik-parser:jar:1.7 = badSig
-#org.apache.xmlgraphics:batik-script:jar:1.7 = badSig
-#org.apache.xmlgraphics:batik-svg-dom:jar:1.7 = badSig
-#org.apache.xmlgraphics:batik-svggen:jar:1.7 = badSig
-#org.apache.xmlgraphics:batik-transcoder:jar:1.7 = badSig
-#org.apache.xmlgraphics:batik-util:jar:1.7 = badSig
-#org.apache.xmlgraphics:batik-xml:jar:1.7 = badSig
 
 org.apache.xmlgraphics          = \
                                   0x6BDACA2C0493CCA133B372D09C4F7E9D98B1CC53, \

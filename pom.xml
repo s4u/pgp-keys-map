@@ -21,7 +21,7 @@
     <parent>
         <artifactId>parent</artifactId>
         <groupId>org.simplify4u</groupId>
-        <version>2.7.1</version>
+        <version>2.8.0</version>
     </parent>
 
     <artifactId>pgp-keys-map</artifactId>
@@ -46,6 +46,7 @@
             <id>sjaranowski</id>
             <name>Slawomir Jaranowski</name>
             <email>s.jaranowski@gmail.com</email>
+            <url>https://github.com/slawekjaranowski</url>
             <timezone>Europe/Warsaw</timezone>
         </developer>
     </developers>
@@ -75,7 +76,7 @@
                 <plugin>
                     <groupId>org.simplify4u.plugins</groupId>
                     <artifactId>pgpverify-maven-plugin</artifactId>
-                    <version>1.10.0</version>
+                    <version>1.10.1</version>
                 </plugin>
 
                 <!-- disable some plugins in this project -->
@@ -152,11 +153,10 @@
                     </executions>
                 </plugin>
                 <plugin>
-                    <groupId>org.apache.maven.plugins</groupId>
-                    <artifactId>maven-gpg-plugin</artifactId>
+                    <groupId>org.simplify4u.plugins</groupId>
+                    <artifactId>sign-maven-plugin</artifactId>
                     <executions>
                         <execution>
-                            <id>default</id>
                             <phase>none</phase>
                         </execution>
                     </executions>
@@ -195,6 +195,16 @@
                         <goals>
                             <goal>single</goal>
                         </goals>
+                    </execution>
+                </executions>
+            </plugin>
+            <plugin>
+                <groupId>org.simplify4u.plugins</groupId>
+                <artifactId>sign-maven-plugin</artifactId>
+                <inherited>false</inherited>
+                <executions>
+                    <execution>
+                        <phase>verify</phase>
                     </execution>
                 </executions>
             </plugin>
@@ -256,27 +266,4 @@
             </plugin>
         </plugins>
     </build>
-
-    <profiles>
-        <profile>
-            <id>release</id>
-            <build>
-                <plugins>
-                    <plugin>
-                        <groupId>org.apache.maven.plugins</groupId>
-                        <artifactId>maven-gpg-plugin</artifactId>
-                        <inherited>false</inherited>
-                        <executions>
-                            <execution>
-                                <phase>package</phase>
-                                <goals>
-                                    <goal>sign</goal>
-                                </goals>
-                            </execution>
-                        </executions>
-                    </plugin>
-                </plugins>
-            </build>
-        </profile>
-    </profiles>
 </project>
