@@ -30,7 +30,7 @@ Especially you can help, when:
                     <plugin>
                         <groupId>org.simplify4u.plugins</groupId>
                         <artifactId>pgpverify-maven-plugin</artifactId>
-                        <version>1.9.0</version>
+                        <version>1.10.1</version>
                         <executions>
                             <execution>
                                 <goals>
