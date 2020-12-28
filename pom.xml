@@ -25,7 +25,7 @@
     </parent>
 
     <artifactId>pgp-keys-map</artifactId>
-    <version>2020.11.18-SNAPSHOT</version>
+    <version>2020.12</version>
     <packaging>pom</packaging>
 
     <name>PGP keys map to maven artifacts</name>
@@ -53,7 +53,7 @@
         <connection>scm:git:git@github.com:s4u/pgp-keys-map.git</connection>
         <developerConnection>${project.scm.connection}</developerConnection>
         <url>https://github.com/s4u/pgp-keys-map</url>
-        <tag>HEAD</tag>
+        <tag>v2020.12</tag>
     </scm>
 
     <properties>
