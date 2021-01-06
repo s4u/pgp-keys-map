@@ -74,6 +74,7 @@
     <properties>
         <maven.site.skip>true</maven.site.skip>
         <scmpublish.skipDeploy>true</scmpublish.skipDeploy>
+        <project.build.outputTimestamp>2021-01-06T00:00:00Z</project.build.outputTimestamp>
     </properties>
 
     <build>
@@ -256,11 +257,7 @@
             <plugin>
                 <groupId>org.sonatype.plugins</groupId>
                 <artifactId>nexus-staging-maven-plugin</artifactId>
-                <extensions>false</extensions>
                 <inherited>false</inherited>
-                <configuration>
-                    <skipLocalStaging>true</skipLocalStaging>
-                </configuration>
                 <executions>
                     <execution>
                         <phase>deploy</phase>
