@@ -1,6 +1,12 @@
 version: 2
 updates:
   - package-ecosystem: maven
+    directory: "/pgp-keys-map-test1"
+    schedule:
+      interval: daily
+    open-pull-requests-limit: 10
+
+  - package-ecosystem: maven
     directory: "/org-apache-maven-plugins-test/"
     schedule:
       interval: daily
