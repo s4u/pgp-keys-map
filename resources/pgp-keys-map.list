@@ -584,7 +584,9 @@ org.springframework.*           = \
                                   0x8756C4F765C9AC3CB6B85D62379CE192D401AB61, \
                                   0xE2ACB037933CDEAAB7BF77D49A2C7A98E457C53D
 
-org.testng                      = 0xDCBA03381EF6C89096ACD985AC5EC74981F9CDA6
+org.testng                      = \
+                                  0x7CD52B5A8295137C88FB5748DDDAFA7674E54418, \
+                                  0xDCBA03381EF6C89096ACD985AC5EC74981F9CDA6
 
 org.tukaani                     = 0x3690C240CE51B4670D30AD1C38EE757D69184620
 
