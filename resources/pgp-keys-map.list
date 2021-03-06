@@ -100,7 +100,8 @@ commons-validator               = \
 
 com.beust                       = \
                                   0x324E460B9DB8F4515F3EAED9930C5B1EA41B1AA1, \
-                                  0x67497E9D680CE8E95BD6B8F85AD66315FC018797
+                                  0x67497E9D680CE8E95BD6B8F85AD66315FC018797, \
+                                  0xC70B844F002F21F6D2B9C87522E44AC0622B91C3
 
 com.cenqua.clover               = noSig
 
