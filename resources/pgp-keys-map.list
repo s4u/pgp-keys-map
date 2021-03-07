@@ -111,6 +111,8 @@ com.fasterxml.*                 = \
                                   0x064F04959CD99ACCC4DFB54C9CD8549ACF9BD0CE, \
                                   0x8A10792983023D5D14C93B488D7F1BEC1E2ECAE7
 
+com.github.javaparser           = 0x8756C4F765C9AC3CB6B85D62379CE192D401AB61
+
 com.github.spotbugs             = \
                                   0x3B9CD44BEEDFBDFABA22717BEEA8F6DF3031CD02, \
                                   0xEAD73BAFA397701858506C241756B920EECF0E90
