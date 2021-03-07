@@ -244,7 +244,9 @@ javax.xml.bind                  = \
 javax.xml.stream                = noSig
 
 jaxen:jaxen:(,1.1.1]            = noSig
-jaxen                           = 0x656A225FC79CE5CBBD7DD5BFA7F5ED0FA05D64B7
+jaxen                           = \
+                                  0x656A225FC79CE5CBBD7DD5BFA7F5ED0FA05D64B7, \
+                                  0xCA491704D613780D2BEE00F2C6FC46EB51CF569C
 
 jsch                            = noSig
 
