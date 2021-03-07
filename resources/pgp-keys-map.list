@@ -113,6 +113,7 @@ com.fasterxml.*                 = \
 
 com.github.spotbugs             = \
                                   0x3B9CD44BEEDFBDFABA22717BEEA8F6DF3031CD02, \
+                                  0x9857C388D7D1D9D031274CD0A5DEF5A76F94A471, \
                                   0xEAD73BAFA397701858506C241756B920EECF0E90
 
 com.google.code.findbugs:jsr305:(,2.0.1] = noSig
