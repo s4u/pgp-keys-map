@@ -1,17 +1,17 @@
-# PGP keys map to maven artifacts
+# PGP key maps to maven artifacts
 [![Build](https://github.com/s4u/pgp-keys-map/workflows/Build/badge.svg)](https://github.com/s4u/pgp-keys-map/actions?query=workflow%3ABuild)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.simplify4u/pgp-keys-map/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.simplify4u/pgp-keys-map)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=org.simplify4u%3Apgp-keys-map&metric=alert_status)](https://sonarcloud.io/dashboard?id=org.simplify4u%3Apgp-keys-map)
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=org.simplify4u%3Apgp-keys-map&metric=ncloc)](https://sonarcloud.io/dashboard?id=org.simplify4u%3Apgp-keys-map)
 
-This project contains PGP keys map to maven artifacts which should be used to signed.
+This project contains PGP key maps to maven artifacts which should be used to sign them.
 
 # Contributing
 
-We need help of any other people (the more the better) to build **credible** keys map,
+We need help of any other people (the more the better) to build **credible** key maps,
 so your contribution is welcome.
 
-Especially you can help, when:
+You are especially welcome to help when:
  - you want to add more artifacts / plugins
  - you find wrong key mapping
  - you verify pull request
