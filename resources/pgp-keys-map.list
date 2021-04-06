@@ -124,6 +124,7 @@ com.google.code.findbugs        = 0x7616EB882DAF57A11477AAF559A252FB1199D873
 com.googlecode.javaewah        = 0x015479E1055341431B4545AB72475FD306B9CAB7
 
 com.google.errorprone           = \
+                                  0x56053CEDBA17E065DE7FB97BEBA8E97B15086E24, \
                                   0x7615AD56144DF2376F49D98B1669C4BB543E0445, \
                                   0xE77417AC194160A3FABD04969A259C7EE636C5ED, \
                                   0xF05E5F90E43E837F9DD8C781BF935C771A8474F8
