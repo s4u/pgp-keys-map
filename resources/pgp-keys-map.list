@@ -158,7 +158,9 @@ com.lowagie                     = noSig
 
 com.mks.api                     = 0xF5FE3E099957FCC561BE34C2D9EB0830E9BFA161
 
-com.pholser                     = 0x517B94F8D0A46317A28D8AB30DA8A5EC02D11EAD
+com.pholser                     = \
+                                  0x517B94F8D0A46317A28D8AB30DA8A5EC02D11EAD, \
+                                  0x92F6B50F73DF09039114B367DED1E9914638F44D
 
 com.puppycrawl.tools            = 0x06D34ED6FF73DE368A772A781063FE98BCECB758
 
