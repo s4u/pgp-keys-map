@@ -398,7 +398,9 @@ org.apache.struts:struts-tiles:pom:1.3.8  = badSig
 org.apache.tomcat.embed         = 0xA9C5DF4D22E99998D9875A5110C01C5A2F6059E7
 
 org.apache.velocity:velocity:1.5 = noSig
-org.apache.velocity             = 0x7B9751FC3F01F134F476464CD0EB627D4885CED1
+org.apache.velocity             = \
+                                  0x7B9751FC3F01F134F476464CD0EB627D4885CED1, \
+                                  0xCE4439C1BEF3DA83B1832F9DBEFEEF227A98B809
 
 org.apache.ws.commons           = 0x69AFC3E565D7C4FFC6B0C733612333A3DE240A64
 
