@@ -372,6 +372,7 @@ org.apache.maven.*              = \
                                   0x6BDACA2C0493CCA133B372D09C4F7E9D98B1CC53, \
                                   0x6E13156C0EE653F0B984663AB95BBD3FA43C4492, \
                                   0x7C9CFAF9C409737872FE044AF397D776F65C0178, \
+                                  0x82C9EC0E52C47A936A849E0113D979595E6D01E1, \
                                   0x849FB4F1AF3D17CDE4DE5E710704ADDF1D821345, \
                                   0x998AF0E2B935996F5CEBD56B9B1FDA9F3C062231, \
                                   0x9FFED7A118D45A44E4A1E47130E6F80434A72A7F, \
@@ -383,6 +384,7 @@ org.apache.maven.*              = \
                                   0xC345986F0FD384669C5919E6A5F094FD3961DF05, \
                                   0xC739CE4075D9F0F0DED13A7D39BE51A1084C9113, \
                                   0xC870735180244047DA600FDEC171A58398EEC284, \
+                                  0xCA491704D613780D2BEE00F2C6FC46EB51CF569C, \
                                   0xF254B35617DC255D9344BCFA873A8E86B4372146, \
                                   0xF4C53F3061834D885726D258AC2D56EAF0E309FF, \
                                   0xFA77DCFEF2EE6EB2DEBEDD2C012579464D01C06A, \
