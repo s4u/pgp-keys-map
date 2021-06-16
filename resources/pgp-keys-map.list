@@ -425,7 +425,8 @@ org.apiguardian                 = 0xFF6E2C001948C5F2F38B0CC385911F425EC61B51
 
 org.assertj                     = \
                                   0x77993D3295698C46912E83984B2277C6358670EE, \
-                                  0xA778FDE933A96DDA827840D8E2B3D84202B812D9
+                                  0xA778FDE933A96DDA827840D8E2B3D84202B812D9, \
+                                  0xBE685132AFD2740D9095F9040CC0B712FEE75827
 
 org.beanshell                   = noSig
 
