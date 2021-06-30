@@ -83,7 +83,7 @@
                 <plugin>
                     <groupId>org.simplify4u.plugins</groupId>
                     <artifactId>pgpverify-maven-plugin</artifactId>
-                    <version>1.13.0</version>
+                    <version>1.14.0</version>
                 </plugin>
 
                 <!-- disable some plugins in this project -->
@@ -218,8 +218,6 @@
                     <verifyPlugins>true</verifyPlugins>
                     <verifyPluginDependencies>true</verifyPluginDependencies>
                     <verifyAtypical>true</verifyAtypical>
-                    <pgpKeyServer>https://keyserver.ubuntu.com, https://keys.openpgp.org</pgpKeyServer>
-                    <pgpKeyServerLoadBalance>false</pgpKeyServerLoadBalance>
                 </configuration>
                 <dependencies>
                     <dependency>
