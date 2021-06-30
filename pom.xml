@@ -218,6 +218,7 @@
                     <verifyPlugins>true</verifyPlugins>
                     <verifyPluginDependencies>true</verifyPluginDependencies>
                     <verifyAtypical>true</verifyAtypical>
+                    <pgpKeyServer>https://keyserver.ubuntu.com, https://keys.openpgp.org</pgpKeyServer>
                     <pgpKeyServerLoadBalance>false</pgpKeyServerLoadBalance>
                 </configuration>
                 <dependencies>
