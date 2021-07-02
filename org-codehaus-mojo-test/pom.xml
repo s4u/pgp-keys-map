@@ -20,7 +20,7 @@
     <parent>
         <artifactId>pgp-keys-map</artifactId>
         <groupId>org.simplify4u</groupId>
-        <version>2021.06.18-SNAPSHOT</version>
+        <version>2021.07.02</version>
     </parent>
 
     <artifactId>org-codehaus-mojo-test</artifactId>
