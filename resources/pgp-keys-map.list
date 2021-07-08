@@ -98,6 +98,11 @@ commons-validator               = \
                                   0xD196A5E3E70732EEB2E5007F1861C322C56014B2, \
                                   0xD6F1BC78607808EC8E9F69437A8860944FAD5F62
 
+com.aoapps                      = 0x3FF945C37048D113E997AEC7CE70AA9A5BD10E01
+com.aoapps.platform             = 0x3FF945C37048D113E997AEC7CE70AA9A5BD10E01
+
+com.aoindustries                = 0x3FF945C37048D113E997AEC7CE70AA9A5BD10E01
+
 com.beust                       = \
                                   0x324E460B9DB8F4515F3EAED9930C5B1EA41B1AA1, \
                                   0x67497E9D680CE8E95BD6B8F85AD66315FC018797, \
@@ -162,7 +167,11 @@ com.pholser                     = \
                                   0x517B94F8D0A46317A28D8AB30DA8A5EC02D11EAD, \
                                   0x92F6B50F73DF09039114B367DED1E9914638F44D
 
+com.pragmatickm                 = 0x3FF945C37048D113E997AEC7CE70AA9A5BD10E01
+
 com.puppycrawl.tools            = 0x06D34ED6FF73DE368A772A781063FE98BCECB758
+
+com.semanticcms                 = 0x3FF945C37048D113E997AEC7CE70AA9A5BD10E01
 
 com.sun.xml.fastinfoset         = 0x06A4D15D9FA796BA5DECF592CE8B1D1D2530EDC5
 
