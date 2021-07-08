@@ -645,6 +645,8 @@ ru.vyarus                       = 0xD35AD4AED58AF7DBA740648243F63FDD328B612F
 
 saxpath                         = noSig
 
+slide                           = noSig
+
 sslext                          = noSig
 
 stax                            = noSig
