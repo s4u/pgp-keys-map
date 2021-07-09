@@ -670,6 +670,8 @@ xalan:xalan                     = 0x44FBDBBC1A00FE414F1C1873586654072EAD6677
 xerces:xercesImpl:(0,2.9.1]     = noSig
 xerces                          = 0x6E13156C0EE653F0B984663AB95BBD3FA43C4492
 
+xml-apis:xml-apis:pom:1.3.03    = 0x6E13156C0EE653F0B984663AB95BBD3FA43C4492
+xml-apis:xml-apis:1.4.01        = 0x2DB4F1EF0FA761ECC4EA935C86FDC7E2A11262CB
 xml-apis                        = noSig
 
 xmlpull                         = noSig
