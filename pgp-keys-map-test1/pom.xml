@@ -74,6 +74,11 @@
             <type>pom</type>
         </dependency>
         <dependency>
+            <groupId>de.zeigermann.xml</groupId>
+            <artifactId>xml-im-exporter</artifactId>
+            <version>[1.1]</version>
+        </dependency>
+        <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <version>[4.13.2]</version>
@@ -178,13 +183,6 @@
             <groupId>slide</groupId>
             <artifactId>slide-webdavlib</artifactId>
             <version>[2.1]</version>
-            <exclusions>
-                <!-- de.zeigermann.xml:xml-im-exporter is not yet in pgp-keys-map -->
-                <exclusion>
-                    <groupId>de.zeigermann.xml</groupId>
-                    <artifactId>xml-im-exporter</artifactId>
-                </exclusion>
-            </exclusions>
         </dependency>
     </dependencies>
 
