@@ -99,6 +99,13 @@
             <version>[3.3.0]</version>
         </dependency>
         <dependency>
+            <groupId>org.ostermiller</groupId>
+            <artifactId>utils</artifactId>
+            <!-- Cannot use "[1.07.00]" due to missing maven-metadata.xml at
+                 https://repo1.maven.org/maven2/org/ostermiller/utils/ -->
+            <version>1.07.00</version>
+        </dependency>
+        <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-api</artifactId>
             <version>[1.7.31]</version>
