@@ -212,6 +212,8 @@ doxia:doxia-sink-api:1.0-alpha-4 = noSig
 
 edu.berkeley.cs.jqf             = 0x07665A503E191C320F29C6C8E7C8ECE8FE1536DC
 
+eu.medsea.mimeutil:mime-util    = noSig
+
 geronimo-spec                   = noSig
 
 info.picocli                    = 0x8756C4F765C9AC3CB6B85D62379CE192D401AB61
