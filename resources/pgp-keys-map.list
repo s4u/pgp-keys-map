@@ -312,6 +312,7 @@ net.sf.jtidy                    = 0x4F752A9878E937049EF3FBA7D4012DDA1F1F0F82
 
 net.sf.saxon                    = 0xD9AA7402BA75F78720D975211D185615D0A84648
 
+net.sourceforge.barbecue:barbecue = noSig
 net.sourceforge.jchardet        = noSig
 net.sourceforge.saxon           = noSig
 
