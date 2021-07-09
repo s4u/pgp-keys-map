@@ -594,6 +594,8 @@ org.osgi:org.osgi.compendium    = noSig
 
 org.osgi                        = 0x1AF010D408C1852AB6EFD4B651CDB4A9DAAC1CBC
 
+org.ostermiller:utils           = noSig
+
 org.parboiled                   = 0x4BC63FB0B94CC4133EE21C949339BFE6A3BCCE65
 
 org.pegdown                     = 0x3F103DC095ED9F871823EB92DFC9AD09D6418136
