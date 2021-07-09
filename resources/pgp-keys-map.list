@@ -653,6 +653,8 @@ sslext                          = noSig
 
 stax                            = noSig
 
+taglibs                         = noSig
+
 velocity                        = noSig
 
 wsdl4j                          = noSig
