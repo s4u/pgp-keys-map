@@ -204,6 +204,8 @@ com.vaadin.external.google      = 0xCC57399D74CD7E4768ED6FA4CA62973FBF0451C0
 
 com.vladsch.flexmark            = 0x4008F9DFF7DBC968F35F9E712642156411CCE8B3
 
+de.zeigermann.xml:xml-im-exporter:1.1 = noSig
+
 dom4j:dom4j                     = noSig
 
 doxia:doxia-sink-api:1.0-alpha-4 = noSig
