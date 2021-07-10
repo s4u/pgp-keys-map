@@ -16,6 +16,8 @@
 
 ant                             = noSig
 
+ant-contrib                     = noSig
+
 antlr                           = noSig
 
 aopalliance                     = noSig

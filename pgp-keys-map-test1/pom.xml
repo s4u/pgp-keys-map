@@ -29,6 +29,18 @@
 
     <dependencies>
         <dependency>
+            <groupId>ant-contrib</groupId>
+            <artifactId>ant-contrib</artifactId>
+            <!-- Cannot use "[1.0b3]" due to incomplete maven-metadata.xml at
+                 https://repo1.maven.org/maven2/ant-contrib/ant-contrib/maven-metadata.xml -->
+            <version>1.0b3</version>
+        </dependency>
+        <dependency>
+            <groupId>ant-contrib</groupId>
+            <artifactId>cpptasks</artifactId>
+            <version>[1.0b5]</version>
+        </dependency>
+        <dependency>
             <groupId>commons-io</groupId>
             <artifactId>commons-io</artifactId>
             <version>[2.10.0]</version>
