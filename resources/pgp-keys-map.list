@@ -273,6 +273,8 @@ jaxen                           = \
                                   0x656A225FC79CE5CBBD7DD5BFA7F5ED0FA05D64B7, \
                                   0xCA491704D613780D2BEE00F2C6FC46EB51CF569C
 
+jgraph                          = noSig
+
 jsch                            = noSig
 
 jline                           = noSig
