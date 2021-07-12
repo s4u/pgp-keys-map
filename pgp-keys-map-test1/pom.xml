@@ -177,7 +177,7 @@
             <!-- In versions 2.0.2 and below, nothing is signed -->
             <groupId>org.codehaus.plexus</groupId>
             <artifactId>plexus-utils</artifactId>
-            <version>[2.0.2]</version>
+            <version>[3.3.0]</version>
             <type>pom</type>
         </dependency>
         <dependency>
