@@ -464,7 +464,9 @@ org.checkerframework            = 0x19BEAB2D799C020F17C69126B16698A4ADF4D638
 
 
 org.codehaus.groovy:groovy-all:(,2.2.1] = noSig
-org.codehaus.groovy             = 0x7FAA0F2206DE228F0DB01AD741321490758AAD6F
+org.codehaus.groovy             = \
+                                  0x34441E504A937F43EB0DAEF96A65176A0FB1CD0B, \
+                                  0x7FAA0F2206DE228F0DB01AD741321490758AAD6F
 
 org.codehaus.jackson = noSig
 
