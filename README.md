@@ -18,6 +18,8 @@ Especially you can help, when:
  - you are author who publish something to maven central - let us know about your key
  - star / watch project
  - share knowledge about project in any way
+ - give a star for project
+ - follow us on Twitter
 
 # Usage
 
@@ -30,7 +32,7 @@ Especially you can help, when:
                     <plugin>
                         <groupId>org.simplify4u.plugins</groupId>
                         <artifactId>pgpverify-maven-plugin</artifactId>
-                        <version>1.11.0</version>
+                        <version>1.14.0</version>
                         <executions>
                             <execution>
                                 <goals>
