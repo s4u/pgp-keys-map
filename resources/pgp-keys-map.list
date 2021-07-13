@@ -212,6 +212,8 @@ com.yworks                      = 0xF5B2464C77784BC252CA10B75420D536C1EC35CE
 
 de.zeigermann.xml:xml-im-exporter:1.1 = noSig
 
+dnsjava:dnsjava                 = 0xE06A36F67D8C1BD13F1F278D0CA7139CBC7026F9
+
 dom4j:dom4j                     = noSig
 
 doxia:doxia-sink-api:1.0-alpha-4 = noSig
