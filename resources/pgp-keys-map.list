@@ -208,6 +208,8 @@ com.vaadin.external.google      = 0xCC57399D74CD7E4768ED6FA4CA62973FBF0451C0
 
 com.vladsch.flexmark            = 0x4008F9DFF7DBC968F35F9E712642156411CCE8B3
 
+com.yworks                      = 0xF5B2464C77784BC252CA10B75420D536C1EC35CE
+
 de.zeigermann.xml:xml-im-exporter:1.1 = noSig
 
 dom4j:dom4j                     = noSig
