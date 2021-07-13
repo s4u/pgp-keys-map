@@ -264,7 +264,12 @@ javax.servlet:servlet-api:2.3   = noSig
 javax.servlet                   = 0x4F7E32D440EF90A83011A8FC6425559C47CC79C4
 
 javax.validation                = noSig
-javax.ws.rs                     = noSig
+
+javax.ws.rs:javax.ws.rs-api:(,2.1]   = 0x4F7E32D440EF90A83011A8FC6425559C47CC79C4
+javax.ws.rs:javax.ws.rs-api:[2.1.1,) = 0x4BD9AEC34B75BE14431C8878160A876EB62C9DBE
+
+javax.ws.rs:jsr311-api:1.1-ea   = 0x69859CF50A3C1EB40A90D5FD2D6641C6AF88103E
+javax.ws.rs:jsr311-api          = noSig
 
 javax.xml.bind                  = \
                                   0x70CD19BFD9F6C330027D6F260315BFB7970A144F, \
