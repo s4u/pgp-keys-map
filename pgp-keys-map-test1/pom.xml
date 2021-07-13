@@ -217,6 +217,21 @@
             <version>[1.7.31]</version>
         </dependency>
         <dependency>
+            <groupId>org.sonatype.goodies</groupId>
+            <artifactId>package-url-java</artifactId>
+            <version>[1.2.0]</version>
+        </dependency>
+        <dependency>
+            <groupId>org.sonatype.ossindex</groupId>
+            <artifactId>ossindex-service-api</artifactId>
+            <version>[1.7.0]</version>
+        </dependency>
+        <dependency>
+            <groupId>org.sonatype.ossindex.maven</groupId>
+            <artifactId>ossindex-maven-plugin</artifactId>
+            <version>[3.1.0]</version>
+        </dependency>
+        <dependency>
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
             <version>[7.4.0]</version>
