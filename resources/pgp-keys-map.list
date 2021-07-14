@@ -322,6 +322,8 @@ log4j                           = 0x9D23533896A9784703585B6286E02C5A42196CA8
 
 logkit                          = noSig
 
+mysql:mysql-connector-java      = 0xA4A9406876FCBD3C456770C88C718D3B5072E1F5
+
 nekohtml                        = noSig
 
 net.bytebuddy                   = \

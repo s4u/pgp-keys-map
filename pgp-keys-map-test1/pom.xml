@@ -61,11 +61,6 @@
             <artifactId>noc-monitor-portmon</artifactId>
             <version>[1.1.0]</version>
             <exclusions>
-                <!-- mysql:mysql-connector-java is not yet in pgp-keys-map -->
-                <exclusion>
-                    <groupId>mysql</groupId>
-                    <artifactId>mysql-connector-java</artifactId>
-                </exclusion>
                 <!-- org.postgresql:postgresql is not yet in pgp-keys-map -->
                 <exclusion>
                     <groupId>org.postgresql</groupId>
@@ -202,6 +197,11 @@
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <version>[4.13.2]</version>
+        </dependency>
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+            <version>[8.0.25]</version>
         </dependency>
         <dependency>
             <groupId>net.java.dev.jna</groupId>
