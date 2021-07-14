@@ -99,6 +99,16 @@
             <version>[2.0.1]</version>
         </dependency>
         <dependency>
+            <groupId>com.trilead</groupId>
+            <artifactId>trilead-ssh2</artifactId>
+            <version>[1.0.0-build222]</version>
+        </dependency>
+        <dependency>
+            <groupId>com.trilead</groupId>
+            <artifactId>trilead-ssh2-osgi</artifactId>
+            <version>[1.0.0-build215]</version>
+        </dependency>
+        <dependency>
             <groupId>com.sun.mail</groupId>
             <artifactId>javax.mail</artifactId>
             <version>[1.6.2]</version>
@@ -107,6 +117,11 @@
             <groupId>com.zaxxer</groupId>
             <artifactId>SparseBitSet</artifactId>
             <version>[1.2]</version>
+        </dependency>
+        <dependency>
+            <groupId>de.regnis.q.sequence</groupId>
+            <artifactId>sequence-library</artifactId>
+            <version>[1.0.4]</version>
         </dependency>
         <dependency>
             <groupId>de.rototor.pdfbox</groupId>
@@ -469,6 +484,16 @@
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
             <version>[7.4.0]</version>
+        </dependency>
+        <dependency>
+            <groupId>org.tmatesoft.sqljet</groupId>
+            <artifactId>sqljet</artifactId>
+            <version>[1.1.14]</version>
+        </dependency>
+        <dependency>
+            <groupId>org.tmatesoft.svnkit</groupId>
+            <artifactId>svnkit</artifactId>
+            <version>[1.10.3]</version>
         </dependency>
         <dependency>
             <groupId>org.bouncycastle</groupId>

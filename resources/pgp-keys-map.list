@@ -212,6 +212,8 @@ com.sun.xml.messaging.saaj      = 0xB506C29E4B7EF88CE0F0E6D3A7C6AFD280CA7CF0
 
 com.sun.xml.ws                  = 0xB506C29E4B7EF88CE0F0E6D3A7C6AFD280CA7CF0
 
+com.trilead                     = 0x4D90040F09023A4A74DF2F54ABAAE54F37E6F8E1
+
 com.thoughtworks.*              = \
                                   0x050A37A2E0577F4BAA095B52602EC18D20C4661C, \
                                   0x31FAE244A81D64507B47182E1B2718089CE964B8, \
@@ -224,6 +226,8 @@ com.vladsch.flexmark            = 0x4008F9DFF7DBC968F35F9E712642156411CCE8B3
 com.yworks                      = 0xF5B2464C77784BC252CA10B75420D536C1EC35CE
 
 com.zaxxer:SparseBitSet         = 0x9579802DC3E15DE9C389239FC0D48A119CE7EE7B
+
+de.regnis.q.sequence            = 0x4D90040F09023A4A74DF2F54ABAAE54F37E6F8E1
 
 de.rototor.pdfbox               = 0x8608E5C5E09DCCE835B50BCD1158D77CDB3A70BB
 
@@ -745,6 +749,14 @@ org.swinglabs.swingx            = 0x335189B9470DEC927660267824193FC03304997D
 org.testng                      = \
                                   0x7CD52B5A8295137C88FB5748DDDAFA7674E54418, \
                                   0xDCBA03381EF6C89096ACD985AC5EC74981F9CDA6
+
+org.tmatesoft.sqljet:sqljet:(,1.0.4] = noSig
+org.tmatesoft:svn                    = noSig
+org.tmatesoft:svnkit                 = noSig
+org.tmatesoft.svnkit:svnkit:(,1.3.5] = noSig
+org.tmatesoft.svnkit:svnkit-javahl   = noSig
+org.tmatesoft.svnkit:trilead-ssh2    = noSig
+org.tmatesoft.*                 = 0x4D90040F09023A4A74DF2F54ABAAE54F37E6F8E1
 
 org.tukaani                     = 0x3690C240CE51B4670D30AD1C38EE757D69184620
 
