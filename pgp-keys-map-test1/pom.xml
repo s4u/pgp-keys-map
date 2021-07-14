@@ -236,6 +236,11 @@
             <version>1.5-beta1</version>
         </dependency>
         <dependency>
+            <groupId>org.apache.axis2</groupId>
+            <artifactId>axis2-aar-maven-plugin</artifactId>
+            <version>[1.7.9]</version>
+        </dependency>
+        <dependency>
             <groupId>org.apache.httpcomponents</groupId>
             <artifactId>httpclient</artifactId>
             <version>[4.5.13]</version>
