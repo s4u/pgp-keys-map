@@ -67,6 +67,11 @@
             <version>[3.17.3]</version>
         </dependency>
         <dependency>
+            <groupId>com.hynnet</groupId>
+            <artifactId>jacob</artifactId>
+            <version>[1.18]</version>
+        </dependency>
+        <dependency>
             <groupId>com.pragmatickm</groupId>
             <artifactId>pragmatickm-parent</artifactId>
             <version>[1.10.2]</version>
