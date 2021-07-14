@@ -199,6 +199,16 @@
             <version>[4.13.2]</version>
         </dependency>
         <dependency>
+            <groupId>net.java.dev.jna</groupId>
+            <artifactId>jna</artifactId>
+            <version>[5.8.0]</version>
+        </dependency>
+        <dependency>
+            <groupId>net.java.dev.jna</groupId>
+            <artifactId>platform</artifactId>
+            <version>[3.5.2]</version>
+        </dependency>
+        <dependency>
             <groupId>net.sourceforge.barbecue</groupId>
             <artifactId>barbecue</artifactId>
             <!-- Cannot use "[1.5-beta1]" due to missing maven-metadata.xml at
