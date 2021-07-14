@@ -321,7 +321,10 @@ net.bytebuddy                   = \
 
 net.java.dev.javacc             = noSig
 
-net.java.dev.jna                = 0x47063E8BA7A6450E4A52E7AE466CAED6E0747D50
+net.java.dev.jna                = \
+                                  0x47063E8BA7A6450E4A52E7AE466CAED6E0747D50, \
+                                  0x78DA3333F653B1C54A938BE24DB7BC57DFDBCEA4, \
+                                  0xFA7929F83AD44C4590F6CC6815C71C0A4E0B8EDD
 
 net.java.dev.stax-utils         = noSig
 
