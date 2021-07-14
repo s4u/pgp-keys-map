@@ -722,8 +722,15 @@ velocity                        = noSig
 
 wsdl4j                          = noSig
 
+xalan:serializer:2.7.1          = noSig
+xalan:serializer:[2.7.2,)       = 0xE5B8247AF8A619A28F90FDFC9FF25980F5BA7E4F
+
+xalan:xalan:(,2.6.0]            = noSig
 xalan:xalan:jar:2.7.0           = noSig
-xalan:xalan                     = 0x44FBDBBC1A00FE414F1C1873586654072EAD6677
+xalan:xalan:jar:sources:2.7.0   = noSig
+xalan:xalan:2.7.0               = 0x44FBDBBC1A00FE414F1C1873586654072EAD6677
+xalan:xalan:2.7.1               = noSig
+xalan:xalan:[2.7.2,)            = 0xE5B8247AF8A619A28F90FDFC9FF25980F5BA7E4F
 
 xerces:xercesImpl:(0,2.9.1]     = noSig
 xerces                          = 0x6E13156C0EE653F0B984663AB95BBD3FA43C4492
