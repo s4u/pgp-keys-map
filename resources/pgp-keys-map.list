@@ -319,6 +319,7 @@ junit:junit:(,4.7]              = noSig
 junit                           = \
                                   0x141F43790A926D1FCF1CACA0CD539A8AD3B33EF0, \
                                   0x23885E64C64E981E4884834D7C535299C0F2C580, \
+                                  0x4103F9A48267E62CE33EB33788AA1FEE831A7E89, \
                                   0x58E79B6ABC762159DC0B1591164BD2247B936711, \
                                   0xAED3727A7DC070975D8C5009C7CB325467893CC4, \
                                   0xFF6E2C001948C5F2F38B0CC385911F425EC61B51
