@@ -257,7 +257,13 @@ isorelax                        = noSig
 jakarta.activation              = 0xCAE38BC93D90B852D88465DD3A1959EEF8726006 # master key
 jakarta.annotation              = 0xF6CE460FDBE1AABD1A96456737ECFC571637667C # master key
 
+jakarta.el                      = 0x7AA34304FF173025AA394C7C2C026998703FFA67
+
 jakarta.jws                     = 0xCB3B6379F3D113FA3D7CB45F2776BC4F5165A5EB
+
+jakarta.servlet                 = 0xAFEDF1B56323F5291EC3ED2E260E672C0D78E9B0
+
+jakarta.servlet.jsp.jstl        = 0x7BE1BB0B4DE4CFB872E90E51296863EC7506AB74
 
 jakarta.transaction             = 0x1A2A6D7F079CF627566ABD869B26CED3E3BA51C3
 
@@ -617,6 +623,9 @@ org.glassfish.ha                = 0x5D5E2FA03AA30ED092A50117FD8776B8DA948C3D
 org.glassfish.jaxb              = 0x06A4D15D9FA796BA5DECF592CE8B1D1D2530EDC5
 
 org.glassfish.pfl               = 0x98B8EC91D603095B68BB257D5E06B3EFC614EB37
+
+org.glassfish.web:jakarta.servlet.jsp.jstl = \
+                                  0x7BE1BB0B4DE4CFB872E90E51296863EC7506AB74
 
 org.hamcrest:hamcrest-core:1.1  = noSig
 org.hamcrest                    = \
