@@ -480,6 +480,7 @@ org.apache.xbean                = 0x223D3A74B068ECA354DC385CE126833F9CF64915
 org.apache.xmlgraphics:batik-*:jar:1.7 = badSig
 
 org.apache.xmlgraphics          = \
+                                  0x5C9A30FF22B2C02F30261C305B93F1DF7CDB6DEA, \
                                   0x6BDACA2C0493CCA133B372D09C4F7E9D98B1CC53, \
                                   0x7FFB2D270C4DE3113518D09DE3E4404FCC31AE97, \
                                   0xAB6638CE472A499B3959ADA2F989A2E5C93C5700
