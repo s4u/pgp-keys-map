@@ -243,6 +243,8 @@ jakarta.annotation              = 0xF6CE460FDBE1AABD1A96456737ECFC571637667C # m
 
 jakarta.jws                     = 0xCB3B6379F3D113FA3D7CB45F2776BC4F5165A5EB
 
+jakarta.transaction             = 0x1A2A6D7F079CF627566ABD869B26CED3E3BA51C3
+
 jakarta.validation              = 0x84E640DF8E94CB8CD2BEB9AE99059A5DDE1B175D # master key
 jakarta.xml.bind                = 0xDD46DEC275B1F230ACCE4EEB083891AD4774845A # master key
 
