@@ -614,6 +614,9 @@ org.jvnet.staxex                = 0x06A4D15D9FA796BA5DECF592CE8B1D1D2530EDC5
 
 org.libreoffice                 = 0xC2839ECAD9408FBE9531C3E9F434A1EFAFEEAEA3
 
+org.lucee:xalan                 = 0x26BA3E8B6A185070F538B1C15C3F925A060D5930
+org.lucee:xalan-serializer      = 0x26BA3E8B6A185070F538B1C15C3F925A060D5930
+
 org.mockito                     = \
                                   0x147B691A19097624902F4EA9689CBE64F4BC997F, \
                                   0xCC4483CD6A3EB2939B948667A1B4460D8BA7B9AF
