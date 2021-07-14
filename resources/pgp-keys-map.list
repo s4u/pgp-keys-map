@@ -659,6 +659,9 @@ org.libreoffice                 = 0xC2839ECAD9408FBE9531C3E9F434A1EFAFEEAEA3
 org.lucee:xalan                 = 0x26BA3E8B6A185070F538B1C15C3F925A060D5930
 org.lucee:xalan-serializer      = 0x26BA3E8B6A185070F538B1C15C3F925A060D5930
 
+org.lz4:*:1.8.0                 = noKey # 0x55ABBEF06CF6277A23B1D3A21993B355097C8B5A not found in keyservers
+org.lz4                         = 0x55EC199CAA5FFDB20C4D825E1F318213E56E467A
+
 org.mockito                     = \
                                   0x147B691A19097624902F4EA9689CBE64F4BC997F, \
                                   0xCC4483CD6A3EB2939B948667A1B4460D8BA7B9AF
