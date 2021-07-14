@@ -241,6 +241,11 @@
             <version>[4.5.13]</version>
         </dependency>
         <dependency>
+            <groupId>org.apache.taglibs</groupId>
+            <artifactId>taglibs-standard-spec</artifactId>
+            <version>[1.2.5]</version>
+        </dependency>
+        <dependency>
             <groupId>org.apache.tomcat</groupId>
             <artifactId>tomcat-api</artifactId>
             <version>[10.1.0-M2]</version>
