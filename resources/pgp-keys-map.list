@@ -593,6 +593,8 @@ org.eclipse.aether              = \
 
 org.eclipse.core:resources:3.3.0-v20070604 = noSig
 
+org.eclipse.jdt:ecj             = 0x462E0F0FD51D11AB1FF74EC77AA1F762B414F87E
+
 org.eclipse.jdt.core.compiler   = 0x45DAD8AED069092BC7BE9843ECA081A9790D4FC4
 
 org.eclipse.jgit                = 0x7C669810892CBD3148FA92995B05CCDE140C2876
