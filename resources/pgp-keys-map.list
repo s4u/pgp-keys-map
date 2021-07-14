@@ -468,6 +468,8 @@ org.apache.maven.*              = \
 
 org.apache.pdfbox               = 0xA602970FE1BF5C9C8A9491B97A3C9FE21DFDBF44
 
+org.apache.poi                  = 0x24188560524400B142BE3386A93E1C4B26062CE3
+
 org.apache.struts               = 0xCE4460D20B66C7E1687475BAD388AD829F3E96F7
 
 org.apache.struts:struts-core:pom:1.3.8   = badSig
@@ -491,6 +493,9 @@ org.apache.ws.commons           = 0x69AFC3E565D7C4FFC6B0C733612333A3DE240A64
 org.apache.ws.xmlschema         = 0x51B52DC5DD452F92BE342CC2858FC4C4F43856A3
 
 org.apache.xbean                = 0x223D3A74B068ECA354DC385CE126833F9CF64915
+
+org.apache.xmlbeans:xmlbeans:[3.0.0,) = \
+                                  0x24188560524400B142BE3386A93E1C4B26062CE3
 
 org.apache.xmlgraphics:batik-*:jar:1.7 = badSig
 
