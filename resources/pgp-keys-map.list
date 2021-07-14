@@ -483,6 +483,8 @@ org.apache.tomcat.*             = \
                                   0x713DA88BE50911535FE716F5208B0AB1D63011C7, \
                                   0xA9C5DF4D22E99998D9875A5110C01C5A2F6059E7
 
+org.apache.tomcat.maven         = 0xF254B35617DC255D9344BCFA873A8E86B4372146
+
 org.apache.velocity:velocity:1.5 = noSig
 org.apache.velocity             = \
                                   0x7B9751FC3F01F134F476464CD0EB627D4885CED1, \
