@@ -619,6 +619,12 @@ org.eclipse.jgit                = 0x7C669810892CBD3148FA92995B05CCDE140C2876
 
 org.eclipse.jetty               = 0x5989BAF76217B843D66BE55B2D0E1FB8FE4B68B4
 
+org.eclipse.jetty.toolchain     = \
+                                  0x1A2D608BF6D37AEF12D53A4F37B0A85F5CE89B0C, \
+                                  0xF254B35617DC255D9344BCFA873A8E86B4372146
+
+org.eclipse.jetty.websocket     = 0x5989BAF76217B843D66BE55B2D0E1FB8FE4B68B4
+
 # version (,0.0.0],[0.0.0,) is workaround for https://github.com/s4u/pgpverify-maven-plugin/issues/135
 org.eclipse.sisu:*:(,0.0.0],[0.0.0,) = 0xCF17E92C9FFA55316B5DB83901D734EE5EE9C3F8
 
@@ -688,6 +694,8 @@ org.lz4                         = 0x55EC199CAA5FFDB20C4D825E1F318213E56E467A
 org.mockito                     = \
                                   0x147B691A19097624902F4EA9689CBE64F4BC997F, \
                                   0xCC4483CD6A3EB2939B948667A1B4460D8BA7B9AF
+
+org.mortbay.jasper              = 0x1A2D608BF6D37AEF12D53A4F37B0A85F5CE89B0C
 
 org.mozilla                     = 0xEA0B70B5050192C98CFA7E4F3F36885C24DF4B75
 
