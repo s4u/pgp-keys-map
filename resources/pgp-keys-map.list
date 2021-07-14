@@ -221,6 +221,8 @@ com.yworks                      = 0xF5B2464C77784BC252CA10B75420D536C1EC35CE
 
 com.zaxxer:SparseBitSet         = 0x9579802DC3E15DE9C389239FC0D48A119CE7EE7B
 
+de.rototor.pdfbox               = 0x8608E5C5E09DCCE835B50BCD1158D77CDB3A70BB
+
 de.zeigermann.xml:xml-im-exporter:1.1 = noSig
 
 dnsjava:dnsjava                 = 0xE06A36F67D8C1BD13F1F278D0CA7139CBC7026F9
