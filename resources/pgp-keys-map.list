@@ -369,8 +369,18 @@ msv                             = noSig
 ognl:ognl:(,3.0]                = noSig
 ognl                            = 0xE157EEB8D208EEB23F5723AC06F21382801CEF5F
 
-org.antlr:*:(,3.3]              = noSig
-org.antlr                       = 0xD54A395B5CF3F86EB45F6E426B1B008864323B92
+org.antlr:antlr:(,3.4-beta4]                  = noSig
+org.antlr:antlr-master:(,3.4-beta4]           = noSig
+org.antlr:antlr-runtime:(,3.4-beta4]          = noSig
+org.antlr:antlr3-maven-archetype:(,3.4-beta4] = noSig
+org.antlr:antlr3-maven-plugin:(,3.4-beta4]    = noSig
+org.antlr:gunit:(,3.4-beta4]                  = noSig
+org.antlr:maven-gunit-plugin:(,3.4-beta4]     = noSig
+org.antlr:stringtemplate                      = noSig
+org.antlr                       = \
+                                  0x842AFB86375D805422835BFD82B5574242C20D6F, \
+                                  0xB2D1AC7BE5A3EEB9773A49FE6EB9DE4D7E01B1E1, \
+                                  0xD54A395B5CF3F86EB45F6E426B1B008864323B92
 
 org.apache.ant                  = \
                                   0x06A228AAB83A18A8DF7B84B08614D6AB265B4C63, \
