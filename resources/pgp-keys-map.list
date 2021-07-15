@@ -159,6 +159,8 @@ com.google.*                    = \
 
 com.hp.hpl.jena                 = noSig
 
+com.hynnet:jacob                = 0x1E31CD81EFF9A0D43E59BA026D346B32FC3FC9CF
+
 com.intellij                    = 0x746B94E2EB774FD0BAD985DC53FBF61FE95B3726
 
 com.ibm.icu:icu4j:(,4.0.1]     = noSig
