@@ -430,7 +430,9 @@ org.apache.felix                = \
 org.apache.geronimo.javamail    = 0x77AB21FC04DE7624C54BA92FFFD9790960ABD773
 org.apache.geronimo.specs       = 0x223D3A74B068ECA354DC385CE126833F9CF64915
 
-org.apache.httpcomponents       = 0x0785B3EFF60B1B1BEA94E0BB7C25280EAE63EBE5
+org.apache.httpcomponents       = \
+                                  0x0785B3EFF60B1B1BEA94E0BB7C25280EAE63EBE5, \
+                                  0x2DB4F1EF0FA761ECC4EA935C86FDC7E2A11262CB
 
 org.apache.ivy                  = \
                                   0x8DA70C00DF7AF1B0D2F9DC74DDBCC1270A29D081, \
