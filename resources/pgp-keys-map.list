@@ -470,6 +470,8 @@ org.apache.pdfbox               = 0xA602970FE1BF5C9C8A9491B97A3C9FE21DFDBF44
 
 org.apache.poi                  = 0x24188560524400B142BE3386A93E1C4B26062CE3
 
+org.apache.santuario            = 0xDB45ECD19B97514F727105AE67BF80B10AD53983
+
 org.apache.struts               = 0xCE4460D20B66C7E1687475BAD388AD829F3E96F7
 
 org.apache.struts:struts-core:pom:1.3.8   = badSig
