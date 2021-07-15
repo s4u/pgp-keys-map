@@ -541,6 +541,9 @@ org.codehaus.groovy             = \
 org.codehaus.jackson = noSig
 
 
+org.codehaus.mojo:properties-maven-plugin = \
+                                  0xD433F9C895710DB8AB087FA6B7C3B43D18EAA8B7
+
 org.codehaus.plexus:plexus-archiver:[1.0-alpha-3,1.0-alpha-12] = noSig
 org.codehaus.plexus:plexus-container-default:(,1.5.2] = noSig
 org.codehaus.plexus:plexus-classworlds:(,2.2.2] = noSig
