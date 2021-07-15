@@ -431,7 +431,11 @@
         <dependency>
             <groupId>org.lz4</groupId>
             <artifactId>lz4-java</artifactId>
-            <version>[1.8.0]</version>
+            <!--
+                Avoid 1.8.0 that requires "noKey", since "noKey" currently fails builds when any keyserver is down:
+                https://github.com/s4u/pgpverify-maven-plugin/issues/305
+            -->
+            <version>(,1.8.0),(1.8.0,)</version>
         </dependency>
         <dependency>
             <groupId>org.ostermiller</groupId>
