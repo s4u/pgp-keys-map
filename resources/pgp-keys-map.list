@@ -130,6 +130,9 @@ com.github.virtuald             = 0x1D657819C1D8DE42D96881C1D5C6377EDE50786B
 com.google.code.findbugs:jsr305:(,2.0.1] = noSig
 com.google.code.findbugs        = 0x7616EB882DAF57A11477AAF559A252FB1199D873
 
+com.google.code.maven-scm-provider-svnjava = \
+                                  0xF254B35617DC255D9344BCFA873A8E86B4372146
+
 com.googlecode.javaewah        = 0x015479E1055341431B4545AB72475FD306B9CAB7
 
 com.google.errorprone:error_prone_annotations = \
