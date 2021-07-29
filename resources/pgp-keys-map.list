@@ -634,6 +634,7 @@ org.codehaus.plexus:plexus-utils:(,2.0.2] = noSig
 org.codehaus.plexus:plexus-velocity:(,1.1.8] = noSig
 
 org.codehaus.woodstox:woodstox-core-asl:(,4.1.4] = noSig
+org.codehaus.woodstox:woodstox-core-asl = 0x2A21DE22697E264345A764832D1F2506C6ECEDF4
 org.codehaus.woodstox:stax2-api:(,3.1.1] = noSig
 
 org.codehaus.*                  = \
