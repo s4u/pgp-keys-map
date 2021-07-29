@@ -362,6 +362,11 @@
             <version>[4.4.14]</version>
         </dependency>
         <dependency>
+            <groupId>org.apache.james</groupId>
+            <artifactId>apache-mime4j-core</artifactId>
+            <version>[0.8.5]</version>
+        </dependency>
+        <dependency>
             <groupId>org.apache.pdfbox</groupId>
             <artifactId>pdfbox</artifactId>
             <version>[3.0.0-RC1]</version>
