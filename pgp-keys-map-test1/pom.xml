@@ -110,6 +110,11 @@
             <version>[2.0.1]</version>
         </dependency>
         <dependency>
+            <groupId>com.sun.xml.bind</groupId>
+            <artifactId>jaxb-impl</artifactId>
+            <version>[3.0.2-b01]</version>
+        </dependency>
+        <dependency>
             <groupId>com.trilead</groupId>
             <artifactId>trilead-ssh2</artifactId>
             <version>[1.0.0-build222]</version>
