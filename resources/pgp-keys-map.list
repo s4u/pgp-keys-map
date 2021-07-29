@@ -856,7 +856,9 @@ taglibs                         = noSig
 
 velocity                        = noSig
 
-wsdl4j                          = noSig
+wsdl4j:wsdl4j:(,1.6.2]          = noSig
+wsdl4j:wsdl4j                   = 0xE0F0B2635D0423169D92664FFB633DE8F5CBAE6B
+wsdl4j:wsdl4j-qname             = noSig
 
 xalan:serializer:2.7.1          = noSig
 xalan:serializer:[2.7.2,)       = 0xE5B8247AF8A619A28F90FDFC9FF25980F5BA7E4F
