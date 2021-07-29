@@ -224,7 +224,9 @@ com.sun.xml.bind.external       = 0x06A4D15D9FA796BA5DECF592CE8B1D1D2530EDC5
 
 com.sun.xml.messaging.saaj      = 0xB506C29E4B7EF88CE0F0E6D3A7C6AFD280CA7CF0
 
-com.sun.xml.ws                  = 0xB506C29E4B7EF88CE0F0E6D3A7C6AFD280CA7CF0
+com.sun.xml.ws                  = \
+                                  0xB506C29E4B7EF88CE0F0E6D3A7C6AFD280CA7CF0, \
+                                  0xE74D86E924B8C8873BF13A6BDCFC3946615AC718
 
 com.trilead                     = 0x4D90040F09023A4A74DF2F54ABAAE54F37E6F8E1
 
