@@ -284,6 +284,8 @@ jakarta.xml.soap                = 0xCB3B6379F3D113FA3D7CB45F2776BC4F5165A5EB
 
 jakarta.xml.ws                  = 0xCB3B6379F3D113FA3D7CB45F2776BC4F5165A5EB
 
+jalopy                          = noSig
+
 javax.activation:activation     = noSig
 javax.activation                = 0x4F7E32D440EF90A83011A8FC6425559C47CC79C4
 
