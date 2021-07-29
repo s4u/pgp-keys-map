@@ -346,6 +346,9 @@ junit                           = \
                                   0xFF6E2C001948C5F2F38B0CC385911F425EC61B51
 
 log4j:log4j:(,1.2.14]           = noSig
+log4j:log4j:pom:1.2.15          = noSig
+log4j:log4j:1.2.15              = 0xA1A2B5546D4331B2A41E1C07BE16C95D2E114322
+log4j:log4j:1.2.16              = 0x28F5F55439C71A8F2B1E58C4D3EC499070C9C3D0
 log4j                           = 0x9D23533896A9784703585B6286E02C5A42196CA8
 
 logkit                          = noSig
