@@ -567,6 +567,10 @@ org.apache.woden                = 0x2D3C43AC36E5BCFC9696F996CE13E82AEE08B906
 
 org.apache.ws.commons           = 0x69AFC3E565D7C4FFC6B0C733612333A3DE240A64
 
+org.apache.ws.commons.axiom     = \
+                                  0x2D3C43AC36E5BCFC9696F996CE13E82AEE08B906, \
+                                  0x2DE77CF47E529C5357A38D7BD4E81F01116FFC04
+
 org.apache.ws.xmlschema         = \
                                   0x51B52DC5DD452F92BE342CC2858FC4C4F43856A3, \
                                   0xDB45ECD19B97514F727105AE67BF80B10AD53983
