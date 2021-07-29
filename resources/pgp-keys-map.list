@@ -446,7 +446,33 @@ org.apache.felix                = \
                                   0xEA23DB1360D9029481E7F2EFECDFEA3CB4493B94
 
 org.apache.geronimo.javamail    = 0x77AB21FC04DE7624C54BA92FFFD9790960ABD773
-org.apache.geronimo.specs       = 0x223D3A74B068ECA354DC385CE126833F9CF64915
+
+org.apache.geronimo.specs:geronimo-activation_1.0.2_spec:1.0 = noSig
+org.apache.geronimo.specs:geronimo-corba_2.3_spec:1.0 = noSig
+org.apache.geronimo.specs:geronimo-ejb_2.1_spec:1.0 = noSig
+org.apache.geronimo.specs:geronimo-j2ee-connector_1.5_spec:1.0 = noSig
+org.apache.geronimo.specs:geronimo-j2ee-deployment_1.1_spec:1.0 = noSig
+org.apache.geronimo.specs:geronimo-j2ee-jacc_1.0_spec:1.0 = noSig
+org.apache.geronimo.specs:geronimo-j2ee-management_1.0_spec:1.0 = noSig
+org.apache.geronimo.specs:geronimo-j2ee_1.4_spec:1.0 = noSig
+org.apache.geronimo.specs:geronimo-jacc_1.1_spec:1.0 = noSig
+org.apache.geronimo.specs:geronimo-javamail_1.3.1_spec:1.0 = noSig
+org.apache.geronimo.specs:geronimo-jaxr_1.0_spec:1.0 = noSig
+org.apache.geronimo.specs:geronimo-jaxrpc_1.1_spec:1.0 = noSig
+org.apache.geronimo.specs:geronimo-jms_1.1_spec:1.0 = noSig
+org.apache.geronimo.specs:geronimo-jsp_2.0_spec:1.0 = noSig
+org.apache.geronimo.specs:geronimo-jsp_2.1_spec:1.0 = noSig
+org.apache.geronimo.specs:geronimo-jta_1.0.1B_spec:1.0 = noSig
+org.apache.geronimo.specs:geronimo-qname_1.1_spec:1.0 = noSig
+org.apache.geronimo.specs:geronimo-saaj_1.1_spec:1.0 = noSig
+org.apache.geronimo.specs:geronimo-servlet_2.4_spec:1.0 = noSig
+org.apache.geronimo.specs:geronimo-servlet_2.5_spec:1.0 = noSig
+org.apache.geronimo.specs:geronimo-servlet_2.5_spec:1.1.1 = noSig
+org.apache.geronimo.specs:geronimo-stax-api_1.0_spec:1.0.1 = noSig
+org.apache.geronimo.specs       = \
+                                  0x223D3A74B068ECA354DC385CE126833F9CF64915, \
+                                  0x9056B710F1E332780DE7AF34CBAEBE39A46C4CA1, \
+                                  0xEA23DB1360D9029481E7F2EFECDFEA3CB4493B94
 
 org.apache.httpcomponents       = \
                                   0x0785B3EFF60B1B1BEA94E0BB7C25280EAE63EBE5, \
