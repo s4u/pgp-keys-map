@@ -207,9 +207,13 @@ com.sun.jersey.*                = 0xF97C2E386E2C4EFC7C3F98EE2D910134368593F3
 
 com.sun.xml.dtd-parser          = 0x06A4D15D9FA796BA5DECF592CE8B1D1D2530EDC5
 
-com.sun.xml.bind:jaxb-impl      = noSig
+com.sun.xml.bind:jaxb-impl:(,2.1.13] = noSig
+com.sun.xml.bind:jaxb-impl:pom:2.2 = noSig
+com.sun.xml.bind:jaxb-impl:[2.2.1,2.2.1.1] = noSig
 
-com.sun.xml.bind                = 0x06A4D15D9FA796BA5DECF592CE8B1D1D2530EDC5
+com.sun.xml.bind                = \
+                                  0x06A4D15D9FA796BA5DECF592CE8B1D1D2530EDC5, \
+                                  0x4F332021E20F59100C978257021E3BE573F727ED
 
 com.sun.xml.bind.external       = 0x06A4D15D9FA796BA5DECF592CE8B1D1D2530EDC5
 
