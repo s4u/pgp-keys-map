@@ -313,6 +313,7 @@ javax.ws.rs:jsr311-api          = noSig
 
 javax.xml.bind                  = \
                                   0x70CD19BFD9F6C330027D6F260315BFB7970A144F, \
+                                  0x7B5F40D24C57D2ECE51959315CD3EBC8E510EB66, \
                                   0xB38E195D438D44A1A8D2D2203575E1C767076CA8
 
 javax.xml.rpc                   = 0x4F7E32D440EF90A83011A8FC6425559C47CC79C4
