@@ -72,6 +72,7 @@
     </scm>
 
     <properties>
+        <maven.test.skip/>
         <maven.site.skip>true</maven.site.skip>
         <scmpublish.skipDeploy>true</scmpublish.skipDeploy>
         <project.build.outputTimestamp>2021-07-12T20:50:46Z</project.build.outputTimestamp>
@@ -218,6 +219,7 @@
                     <verifyPlugins>true</verifyPlugins>
                     <verifyPluginDependencies>true</verifyPluginDependencies>
                     <verifyAtypical>true</verifyAtypical>
+                    <skip>${maven.test.skip}</skip>
                 </configuration>
                 <dependencies>
                     <dependency>
