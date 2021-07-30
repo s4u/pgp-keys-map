@@ -497,14 +497,14 @@
             <!-- In versions 2.0.2 and below, nothing is signed -->
             <groupId>org.codehaus.plexus</groupId>
             <artifactId>plexus-utils</artifactId>
-            <version>[3.3.0]</version>
+            <version>[3.4.0]</version>
             <type>pom</type>
         </dependency>
         <dependency>
             <!-- In versions 2.0.3 and above, all artifacts are signed -->
             <groupId>org.codehaus.plexus</groupId>
             <artifactId>plexus-utils</artifactId>
-            <version>[3.3.0]</version>
+            <version>[3.4.0]</version>
         </dependency>
         <dependency>
             <groupId>org.codehaus.woodstox</groupId>
