@@ -457,6 +457,11 @@
             <version>[2.2.5]</version>
         </dependency>
         <dependency>
+            <groupId>org.apache.xbean</groupId>
+            <artifactId>xbean-reflect</artifactId>
+            <version>[4.20]</version>
+        </dependency>
+        <dependency>
             <groupId>org.apache.xmlbeans</groupId>
             <artifactId>xmlbeans</artifactId>
             <version>[5.0.1]</version>
