@@ -576,7 +576,10 @@ org.apache.ws.xmlschema         = \
                                   0x51B52DC5DD452F92BE342CC2858FC4C4F43856A3, \
                                   0xDB45ECD19B97514F727105AE67BF80B10AD53983
 
-org.apache.xbean                = 0x223D3A74B068ECA354DC385CE126833F9CF64915
+org.apache.xbean                = \
+                                  0x223D3A74B068ECA354DC385CE126833F9CF64915, \
+                                  0x82D8419BA697F0E7FB85916EE91287822FDB81B1, \
+                                  0xEA23DB1360D9029481E7F2EFECDFEA3CB4493B94
 
 org.apache.xmlbeans:*:(,2.6.0]  = 0x2AFAD8F5F972D31FB5358DF078BE85D9669C4AB5
 org.apache.xmlbeans:xmlbeans:[3.0.0,) = \
