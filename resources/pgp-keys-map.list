@@ -230,6 +230,7 @@ com.sun.xml.ws                  = \
 
 com.trilead                     = 0x4D90040F09023A4A74DF2F54ABAAE54F37E6F8E1
 
+com.thoughtworks.qdox:*:(,1.12] = noSig
 com.thoughtworks.*              = \
                                   0x050A37A2E0577F4BAA095B52602EC18D20C4661C, \
                                   0x31FAE244A81D64507B47182E1B2718089CE964B8, \
