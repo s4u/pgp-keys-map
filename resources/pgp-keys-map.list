@@ -748,6 +748,8 @@ org.jdom                        = \
 
 org.jboss.logging:jboss-logging:(,3.4.1.Final] = noSig
 
+org.jibx                        = 0x3B8193C7FCCD41A77F055B6D8F147D14613F136D
+
 org.json                        = 0xCDCAA216B086A7B603B638C5145D819475314D97
 
 org.jsoup                       = 0xF3184BCD55F4D016E30D4C9BF42E87F9665015C9
