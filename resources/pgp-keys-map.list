@@ -433,7 +433,9 @@ org.apache.avalon.framework     = 0x9F8E89E5DDF1B6D534F8AA94D0ACAD776E6D31C6
 
 org.apache.axis                 = 0xB7574789F5018690043E6DD9C212662E12F3E1DD
 
-org.apache.axis2                = 0x2D3C43AC36E5BCFC9696F996CE13E82AEE08B906
+org.apache.axis2                = \
+                                  0x2D3C43AC36E5BCFC9696F996CE13E82AEE08B906, \
+                                  0x2DE77CF47E529C5357A38D7BD4E81F01116FFC04
 
 org.apache.bcel                 = 0x2DB4F1EF0FA761ECC4EA935C86FDC7E2A11262CB
 
