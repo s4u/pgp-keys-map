@@ -105,6 +105,11 @@
             <type>pom</type>
         </dependency>
         <dependency>
+            <groupId>com.servlets</groupId>
+            <artifactId>cos</artifactId>
+            <version>[09May2002]</version>
+        </dependency>
+        <dependency>
             <groupId>com.stripe</groupId>
             <artifactId>stripe-java</artifactId>
             <version>[20.68.0]</version>
