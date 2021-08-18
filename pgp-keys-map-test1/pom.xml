@@ -715,7 +715,7 @@
         <dependency>
             <groupId>com.newmediaworks</groupId>
             <artifactId>nmw-oss-parent</artifactId>
-            <version>[1.14.0]</version>
+            <version>[1.14.1]</version>
             <type>pom</type>
         </dependency>
         <dependency>
