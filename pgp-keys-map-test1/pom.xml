@@ -606,7 +606,7 @@
         <dependency>
             <groupId>org.libreoffice</groupId>
             <artifactId>libreoffice</artifactId>
-            <version>[7.1.5]</version>
+            <version>[7.2.0]</version>
         </dependency>
         <dependency>
             <groupId>org.lucee</groupId>
