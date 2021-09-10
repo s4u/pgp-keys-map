@@ -122,7 +122,7 @@
         <dependency>
             <groupId>com.stripe</groupId>
             <artifactId>stripe-java</artifactId>
-            <version>[20.74.0]</version>
+            <version>[20.75.0]</version>
         </dependency>
         <dependency>
             <groupId>com.sun.activation</groupId>
