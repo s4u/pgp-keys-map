@@ -419,8 +419,10 @@ net.sourceforge.pmd             = \
 
 msv                             = noSig
 
-ognl:ognl:(,3.0]                = noSig
-ognl                            = 0xE157EEB8D208EEB23F5723AC06F21382801CEF5F
+ognl:ognl:(,2.7.3]              = noSig
+ognl:ognl:3.0                   = 0xA019F1D2A4C89ED86531141EF5587322DD8B8819
+ognl:ognl:3.1.12                = 0xE157EEB8D208EEB23F5723AC06F21382801CEF5F
+ognl:ognl:[3.0.1,)              = 0x0E008698344E62B90633B7C62841610663AFBB1F
 
 org.antlr:antlr:(,3.4-beta4]                  = noSig
 org.antlr:antlr-master:(,3.4-beta4]           = noSig
