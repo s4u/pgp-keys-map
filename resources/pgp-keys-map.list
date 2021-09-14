@@ -355,7 +355,11 @@ jgraph                          = noSig
 
 jsch                            = noSig
 
-jline                           = noSig
+jline:jline:(,0.9.94]           = noSig
+jline:jline:1.0                 = 0xC68C38E51FC511BE6E39D5BF068EC5F03836CB2E
+jline:jline:[2.6,)              = \
+                                  0x045B3D6AE9500CE0F930DFE48D948CAF35543C27, \
+                                  0xEA23DB1360D9029481E7F2EFECDFEA3CB4493B94
 
 joda-time                       = 0xB41089A2DA79B0FA5810252872385FF0AF338D52
 
