@@ -633,7 +633,9 @@ org.bouncycastle                = 0x08F0AAB4D0C1A4BDDE340765B341DDB020FCB6AB
 org.checkerframework            = 0x19BEAB2D799C020F17C69126B16698A4ADF4D638
 
 
-org.codehaus.gmaven.*           = 0x045B3D6AE9500CE0F930DFE48D948CAF35543C27
+org.codehaus.gmaven.*           = \
+                                  0x045B3D6AE9500CE0F930DFE48D948CAF35543C27, \
+                                  0x0DCF749D41A80E58041AAE1728F57F70167C0B3A
 
 org.codehaus.groovy:groovy-all:(,2.2.1] = noSig
 org.codehaus.groovy             = \
