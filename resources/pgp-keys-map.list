@@ -763,7 +763,13 @@ org.jfree:jfreechart            = 0x1A6782E4EBF49045C8040D1B93157E22A3A5461C
 
 org.javaruntype                 = 0x839323A4780D5BF9A6978970152888E10EF880B3
 
-org.javassist                   = 0x666A4692CE11B7B3F4EB7B3410066A9707090CF9
+javassist                       = noSig
+org.javassist:*:3.18.1-Beta1    = noSig
+org.javassist:*:3.22.0-CR2      = noSig
+org.javassist                   = \
+                                  0x666A4692CE11B7B3F4EB7B3410066A9707090CF9, \
+                                  0xE3E28CF9BAD6548DA332530069DA36AE31C5C4B3, \
+                                  0xE5C3B1929191DF06136CCB2B164779204E106A76
 
 org.jdom:jdom:1.1               = noSig
 org.jdom                        = \
