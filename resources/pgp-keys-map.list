@@ -731,6 +731,10 @@ org.eclipse.sisu:*:(,0.0.0],[0.0.0,) = 0xCF17E92C9FFA55316B5DB83901D734EE5EE9C3F
 
 org.eclipse.mylyn.github        = 0xE1812B73F4E57524C27259EFE50638B3056D2AF3
 
+org.freemarker:*:(,2.3.19]      = noSig
+org.freemarker:*:2.3.27-incubating = 0x04DE676E3FFFD9C2DD767C2FA25D65D27C13ADCE
+org.freemarker                  = 0x13AC2213964ABE1D1C147C0E1939A2520BAB1D90
+
 org.fusesource.hawtbuf          = 0xE5B8247AF8A619A28F90FDFC9FF25980F5BA7E4F
 
 org.glassfish                   = 0x7AA34304FF173025AA394C7C2C026998703FFA67
