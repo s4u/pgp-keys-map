@@ -21,7 +21,7 @@
     <parent>
         <artifactId>pgp-keys-map</artifactId>
         <groupId>org.simplify4u</groupId>
-        <version>2021.07.18-SNAPSHOT</version>
+        <version>2021.09.18</version>
     </parent>
 
     <artifactId>pgp-keys-map-test1</artifactId>
