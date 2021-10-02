@@ -328,7 +328,11 @@ javax.jws                       = 0x70CD19BFD9F6C330027D6F260315BFB7970A144F
 
 javax.mail                      = noSig
 
-javax.servlet:servlet-api:2.3   = noSig
+javax.servlet:jsp-api           = noSig
+javax.servlet:jstl              = noSig
+javax.servlet:servlet-api       = noSig
+javax.servlet:servlet-api:3.0-alpha-1 = 0x69859CF50A3C1EB40A90D5FD2D6641C6AF88103E
+javax.servlet:sip-api           = noSig
 javax.servlet                   = 0x4F7E32D440EF90A83011A8FC6425559C47CC79C4
 
 javax.transaction:javax.transaction-api:(,1.2] = 0x4F7E32D440EF90A83011A8FC6425559C47CC79C4
