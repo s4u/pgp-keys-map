@@ -350,6 +350,10 @@ javax.transaction:transaction-api:1.1-rev-1    = 0x69859CF50A3C1EB40A90D5FD2D664
 
 javax.validation                = noSig
 
+javax.websocket                 = \
+                                  0x4F7E32D440EF90A83011A8FC6425559C47CC79C4, \
+                                  0xF97C2E386E2C4EFC7C3F98EE2D910134368593F3
+
 javax.ws.rs:javax.ws.rs-api:(,2.1]   = 0x4F7E32D440EF90A83011A8FC6425559C47CC79C4
 javax.ws.rs:javax.ws.rs-api:[2.1.1,) = 0x4BD9AEC34B75BE14431C8878160A876EB62C9DBE
 
