@@ -313,6 +313,12 @@ javax.annotation                = noSig
 
 javax.enterprise                = 0xB1FC0E1FA329669191F8306F5BCEE695141E6086
 
+javax.el:el-api:1.0                     = noSig
+javax.el:el-api:[1.1,)                  = 0x69859CF50A3C1EB40A90D5FD2D6641C6AF88103E
+javax.el:javax.el-api:1.1.2             = 0x609ED37905811AF8DE6D5F218B57C0E09D80277B
+javax.el:javax.el-api:[2.2.1,3.0.1-b04] = 0x4F7E32D440EF90A83011A8FC6425559C47CC79C4
+javax.el:javax.el-api:[3.0.1-b06,)      = 0x03D580C97BB14418E1C9E922D3B7479720EE1AF8
+
 javax.inject                    = noSig
 
 javax.jdo:jdo2-api:(,2.0]       = noSig
