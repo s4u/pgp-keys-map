@@ -312,7 +312,8 @@ jalopy                          = noSig
 javax.activation:activation     = noSig
 javax.activation                = 0x4F7E32D440EF90A83011A8FC6425559C47CC79C4
 
-javax.annotation                = noSig
+javax.annotation:jsr250-api     = noSig
+javax.annotation                = 0x4F7E32D440EF90A83011A8FC6425559C47CC79C4
 
 javax.enterprise                = 0xB1FC0E1FA329669191F8306F5BCEE695141E6086
 
