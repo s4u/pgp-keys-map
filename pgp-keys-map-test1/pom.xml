@@ -624,6 +624,11 @@
             <version>[2.1.0]</version>
         </dependency>
         <dependency>
+            <groupId>org.codehaus.plexus</groupId>
+            <artifactId>plexus-sec-dispatcher</artifactId>
+            <version>[2.0]</version>
+        </dependency>
+        <dependency>
             <!-- In version 1.5.1, only sources are signed -->
             <groupId>org.codehaus.plexus</groupId>
             <artifactId>plexus-utils</artifactId>

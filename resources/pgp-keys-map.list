@@ -697,6 +697,7 @@ org.codehaus.plexus:plexus-mail-sender-api = noSig
 org.codehaus.plexus:plexus-mail-sender-javamail = noSig
 org.codehaus.plexus:plexus-mail-sender-simple = noSig
 org.codehaus.plexus:plexus-resources:[1.0-alpha-4,1.0-alpha-5] = noSig
+org.codehaus.plexus:plexus-sec-dispatcher = 0x2BE13D052E9AA567D657D9791FD507154FB9BA39
 org.codehaus.plexus:plexus-utils:jar:sources:1.5.1 = 0x69859CF50A3C1EB40A90D5FD2D6641C6AF88103E
 org.codehaus.plexus:plexus-utils:(,2.0.2] = noSig
 org.codehaus.plexus:plexus-velocity:(,1.1.8] = noSig
