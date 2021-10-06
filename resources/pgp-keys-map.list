@@ -160,7 +160,8 @@ com.google.googlejavaformat     = 0xE77417AC194160A3FABD04969A259C7EE636C5ED
 
 com.google.protobuf:protobuf-java = \
                                   0x696B6199A2A9D8C29CE78CC0D041CAD2E452550F, \
-                                  0xE7D86375B2E8A347EBCA8DA9C2E8DCFEA41DA422
+                                  0xE7D86375B2E8A347EBCA8DA9C2E8DCFEA41DA422, \
+                                  0xF1A51E051F527E0C8E24D54D4B1E11D5A4B91E89
 
 com.google.*                    = \
                                   0x1616273079FE63E31C938F10F0DF21D1D0A3C384, \
