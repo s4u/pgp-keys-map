@@ -124,6 +124,7 @@ com.fasterxml.*                 = \
                                   0x8A10792983023D5D14C93B488D7F1BEC1E2ECAE7
 
 com.github.javaparser           = \
+                                  0x253E8E4C6FB28D11748115C1249DEE8E2C07A0A2, \
                                   0x8756C4F765C9AC3CB6B85D62379CE192D401AB61, \
                                   0xA55830120AED177E1AA4F66A431B8F80403A7DC1
 
