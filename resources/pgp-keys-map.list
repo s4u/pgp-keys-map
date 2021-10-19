@@ -433,7 +433,9 @@ net.minidev                     = 0x2F39E2A1EB9BC4E78F403B22F6BC09712C8DF6EC
 
 net.sf.jtidy                    = 0x4F752A9878E937049EF3FBA7D4012DDA1F1F0F82
 
-net.sf.saxon                    = 0xD9AA7402BA75F78720D975211D185615D0A84648
+net.sf.saxon                    = \
+                                  0x4C5F68D09D42BA7FAC888DF9A929EA2321FDBF8F, \
+                                  0xD9AA7402BA75F78720D975211D185615D0A84648
 
 net.sourceforge.barbecue:barbecue = noSig
 net.sourceforge.jchardet        = noSig
