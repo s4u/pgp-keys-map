@@ -134,6 +134,8 @@ com.github.spotbugs             = \
                                   0x9857C388D7D1D9D031274CD0A5DEF5A76F94A471, \
                                   0xEAD73BAFA397701858506C241756B920EECF0E90
 
+com.github.spullara.mustache.java = 0xA22931805BEA371C4B607CD9CCC16740C5666D5A
+
 com.github.virtuald             = 0x1D657819C1D8DE42D96881C1D5C6377EDE50786B
 
 com.google.code.findbugs:jsr305:(,2.0.1] = noSig
