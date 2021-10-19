@@ -79,7 +79,7 @@
         </dependency>
         <dependency>
             <groupId>com.github.spullara.mustache.java</groupId>
-            <artifactId>mustache.java</artifactId>
+            <artifactId>compiler</artifactId>
             <version>[0.9.10]</version>
         </dependency>
         <dependency>
