@@ -287,7 +287,9 @@ io.github.resilience4j          = \
 
 io.reformanda.semper            = 0x12019C612F8760FCE59238B55812C79D00186A37
 
-io.vavr                         = 0x1D339B6A68AE2E8DAEDA65D5276962CA56E73C81
+io.vavr                         = \
+                                  0x1D339B6A68AE2E8DAEDA65D5276962CA56E73C81, \
+                                  0x2E732921F44FD0DB434DB5CC55A58E21609DEC6E
 
 isorelax                        = noSig
 
