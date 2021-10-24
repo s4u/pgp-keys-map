@@ -640,7 +640,8 @@ org.apache.xmlbeans:xmlbeans:[3.0.0,3.0.2] = \
 org.apache.xmlbeans:xmlbeans:3.1.0 = \
                                   0x6072A0C8CE08EAAABF39ED4F2D15E54A1556F3A4
 org.apache.xmlbeans:xmlbeans:[4.0.0,) = \
-                                  0x24188560524400B142BE3386A93E1C4B26062CE3
+                                  0x24188560524400B142BE3386A93E1C4B26062CE3, \
+                                  0x6BA4DA8B1C88A49428A29C3D0C69C1EF41181E13
 
 org.apache.xmlgraphics:batik-*:jar:1.7 = badSig
 
