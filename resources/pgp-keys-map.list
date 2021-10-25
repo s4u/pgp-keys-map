@@ -830,7 +830,9 @@ org.jsoup                       = 0xF3184BCD55F4D016E30D4C9BF42E87F9665015C9
 
 org.junit.*                     = 0xFF6E2C001948C5F2F38B0CC385911F425EC61B51
 
-org.junit-pioneer               = 0x8756C4F765C9AC3CB6B85D62379CE192D401AB61
+org.junit-pioneer               = \
+                                  0x110688FBA8BA3992DD2F2F1B6746229D0F629EDB, \
+                                  0x8756C4F765C9AC3CB6B85D62379CE192D401AB61
 
 org.jvnet.mimepull              = 0xB506C29E4B7EF88CE0F0E6D3A7C6AFD280CA7CF0
 
