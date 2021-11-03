@@ -595,7 +595,9 @@ org.apache.neethi               = 0x51B52DC5DD452F92BE342CC2858FC4C4F43856A3
 
 org.apache.pdfbox               = 0xA602970FE1BF5C9C8A9491B97A3C9FE21DFDBF44
 
-org.apache.poi                  = 0x24188560524400B142BE3386A93E1C4B26062CE3
+org.apache.poi                  = \
+                                  0x24188560524400B142BE3386A93E1C4B26062CE3, \
+                                  0x6BA4DA8B1C88A49428A29C3D0C69C1EF41181E13
 
 org.apache.santuario            = 0xDB45ECD19B97514F727105AE67BF80B10AD53983
 
