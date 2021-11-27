@@ -323,7 +323,9 @@ javax.activation                = 0x4F7E32D440EF90A83011A8FC6425559C47CC79C4
 javax.annotation:jsr250-api     = noSig
 javax.annotation                = 0x4F7E32D440EF90A83011A8FC6425559C47CC79C4
 
-javax.enterprise                = 0xB1FC0E1FA329669191F8306F5BCEE695141E6086
+javax.enterprise                = \
+                                  0xB1FC0E1FA329669191F8306F5BCEE695141E6086, \
+                                  0xF2F5A9AFBD6C3FAE324194DCB00369BF54A1AC32
 
 javax.el:el-api:1.0                     = noSig
 javax.el:el-api:[1.1,)                  = 0x69859CF50A3C1EB40A90D5FD2D6641C6AF88103E
