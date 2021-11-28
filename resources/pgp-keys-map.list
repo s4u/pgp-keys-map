@@ -606,6 +606,8 @@ org.apache.poi                  = \
 
 org.apache.santuario            = 0xDB45ECD19B97514F727105AE67BF80B10AD53983
 
+org.apache.servicemix.bundles   = 0x1AA8CF92D409A73393D0B736BFF2EE42C8282E76
+
 org.apache.struts               = \
                                   0xCE4460D20B66C7E1687475BAD388AD829F3E96F7, \
                                   0x0E008698344E62B90633B7C62841610663AFBB1F
