@@ -109,8 +109,11 @@ commons-validator               = \
 
 com.aoapps                      = 0x3FF945C37048D113E997AEC7CE70AA9A5BD10E01
 com.aoapps.platform             = 0x3FF945C37048D113E997AEC7CE70AA9A5BD10E01
+com.aoapps:*:~.*-(SNAPSHOT|\d{8,}\.\d{6}-\d+)          = 0xA10BFD39C3ADFC8B6119984DB849C247CF8CCA52
+com.aoapps.platform:*:~.*-(SNAPSHOT|\d{8,}\.\d{6}-\d+) = 0xA10BFD39C3ADFC8B6119984DB849C247CF8CCA52
 
 com.aoindustries                = 0x3FF945C37048D113E997AEC7CE70AA9A5BD10E01
+com.aoindustries:*:~.*-(SNAPSHOT|\d{8,}\.\d{6}-\d+) = 0xA10BFD39C3ADFC8B6119984DB849C247CF8CCA52
 
 com.beust                       = \
                                   0x324E460B9DB8F4515F3EAED9930C5B1EA41B1AA1, \
@@ -204,10 +207,12 @@ com.pholser                     = \
                                   0x92F6B50F73DF09039114B367DED1E9914638F44D
 
 com.pragmatickm                 = 0x3FF945C37048D113E997AEC7CE70AA9A5BD10E01
+com.pragmatickm:*:~.*-(SNAPSHOT|\d{8,}\.\d{6}-\d+) = 0xA10BFD39C3ADFC8B6119984DB849C247CF8CCA52
 
 com.puppycrawl.tools            = 0x06D34ED6FF73DE368A772A781063FE98BCECB758
 
 com.semanticcms                 = 0x3FF945C37048D113E997AEC7CE70AA9A5BD10E01
+com.semanticcms:*:~.*-(SNAPSHOT|\d{8,}\.\d{6}-\d+) = 0xA10BFD39C3ADFC8B6119984DB849C247CF8CCA52
 
 com.servlets                    = noSig
 
