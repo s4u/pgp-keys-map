@@ -201,6 +201,7 @@ com.lowagie                     = noSig
 com.mks.api                     = 0xF5FE3E099957FCC561BE34C2D9EB0830E9BFA161
 
 com.newmediaworks               = 0x940C50A840DF4E9BC77FF3E587B44025897B20B0
+com.newmediaworks:*:~.*-(SNAPSHOT|\d{8,}\.\d{6}-\d+) = 0xA10BFD39C3ADFC8B6119984DB849C247CF8CCA52
 
 com.pholser                     = \
                                   0x517B94F8D0A46317A28D8AB30DA8A5EC02D11EAD, \
