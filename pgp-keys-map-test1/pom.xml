@@ -762,7 +762,7 @@
         <dependency>
             <groupId>org.mortbay.jasper</groupId>
             <artifactId>apache-jsp</artifactId>
-            <version>[10.0.10]</version>
+            <version>[10.0.14]</version>
         </dependency>
         <dependency>
             <groupId>org.ostermiller</groupId>
