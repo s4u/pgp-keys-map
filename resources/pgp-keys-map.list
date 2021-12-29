@@ -167,6 +167,8 @@ com.google.code.gson            = 0xC7BE5BCC9FEC15518CFDA882B0F3710FA64900E7
 
 com.google.googlejavaformat     = 0xE77417AC194160A3FABD04969A259C7EE636C5ED
 
+com.google.inject               = 0xE78AA45938D10249E08CC1C752E6585E0102B84D
+
 com.google.protobuf:protobuf-java = \
                                   0x3D11126EA77E4E07FBABB38614A84C976D265B25, \
                                   0x696B6199A2A9D8C29CE78CC0D041CAD2E452550F, \
