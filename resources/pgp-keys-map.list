@@ -112,6 +112,10 @@ com.aoapps.platform             = 0x3FF945C37048D113E997AEC7CE70AA9A5BD10E01
 
 com.aoindustries                = 0x3FF945C37048D113E997AEC7CE70AA9A5BD10E01
 
+com.github.ben-manes.caffeine   = 0x635EE627345F3C1DD422B2E207D3516820BCF6B1
+
+com.github.docker-java          = 0x08B09F787B6745E796CE6DBE100306F2B3793BF3
+
 com.beust                       = \
                                   0x324E460B9DB8F4515F3EAED9930C5B1EA41B1AA1, \
                                   0x67497E9D680CE8E95BD6B8F85AD66315FC018797, \
@@ -164,6 +168,7 @@ com.google.code.gson            = 0xC7BE5BCC9FEC15518CFDA882B0F3710FA64900E7
 com.google.googlejavaformat     = 0xE77417AC194160A3FABD04969A259C7EE636C5ED
 
 com.google.protobuf:protobuf-java = \
+                                  0x3D11126EA77E4E07FBABB38614A84C976D265B25, \
                                   0x696B6199A2A9D8C29CE78CC0D041CAD2E452550F, \
                                   0xE7D86375B2E8A347EBCA8DA9C2E8DCFEA41DA422, \
                                   0xF1A51E051F527E0C8E24D54D4B1E11D5A4B91E89
@@ -178,6 +183,9 @@ com.google.*                    = \
                                   0xAC6A8BC1BA5426F13D93060E806E7D417A281864, \
                                   0x03F8609791A33A03CED8976A8DCCCDFAEFE2EFBD
 
+com.h2database                  = 0x0CFA413799E2464C7D7E26220A4B343F2A55FDAE
+
+com.helger                      = 0x670BE7D076A0C89F5F07625AE57428DA9E879E7D
 
 com.hp.hpl.jena                 = noSig
 
@@ -195,6 +203,8 @@ com.jcraft                      = 0x34D6FF19930ADF43AC127792A50569C7CA7FA1F0
 
 com.lowagie                     = noSig
 
+com.mattbertolini               = 0x0D23D5975075143A9DE198953165E1E333C131A5
+
 com.mks.api                     = 0xF5FE3E099957FCC561BE34C2D9EB0830E9BFA161
 
 com.newmediaworks               = 0x940C50A840DF4E9BC77FF3E587B44025897B20B0
@@ -207,6 +217,8 @@ com.pragmatickm                 = 0x3FF945C37048D113E997AEC7CE70AA9A5BD10E01
 
 com.puppycrawl.tools            = 0x06D34ED6FF73DE368A772A781063FE98BCECB758
 
+com.rabbitmq                    = 0x0A9AF2115F4687BD29803A206B73A36E6026DFCA
+
 com.semanticcms                 = 0x3FF945C37048D113E997AEC7CE70AA9A5BD10E01
 
 com.servlets                    = noSig
@@ -214,6 +226,8 @@ com.servlets                    = noSig
 com.stripe:stripe-java          = 0xC33033E4B583FE612EDE877C05D02D3D57ABFF46
 
 com.sun.activation              = 0xCAE38BC93D90B852D88465DD3A1959EEF8726006
+
+com.sun.istack                  = 0x70CD19BFD9F6C330027D6F260315BFB7970A144F
 
 com.sun.mail:jakarta.mail       = 0x9D58EA982B3FB7BB8A9488F47E0DC505BB5D48AF
 
@@ -238,6 +252,8 @@ com.sun.xml.bind                = \
                                   0x4F332021E20F59100C978257021E3BE573F727ED
 
 com.sun.xml.bind.external       = 0x06A4D15D9FA796BA5DECF592CE8B1D1D2530EDC5
+
+com.sun.xml.fastinfoset         = 0x70CD19BFD9F6C330027D6F260315BFB7970A144F
 
 com.sun.xml.messaging.saaj      = 0xB506C29E4B7EF88CE0F0E6D3A7C6AFD280CA7CF0
 
@@ -283,9 +299,15 @@ info.picocli                    = 0x8756C4F765C9AC3CB6B85D62379CE192D401AB61
 
 informa:informa                 = noSig
 
+io.dropwizard.*                 = 0xEDA86E9FB607B5FC9223FB767D4868B53E31E7AD
+
 io.github.resilience4j          = \
                                   0x8756C4F765C9AC3CB6B85D62379CE192D401AB61, \
                                   0x94FAC9D5B165E80F1F2D9A103FFA7DB1EC0FF1A2
+
+io.leangen.geantyref            = 0x41B962CF9AA2A26FF1F234D2A6144824624A3CBA
+
+io.reactivex.rxjava2            = 0x1D9AA7F9E1E2824728B8CD1794B291AEF984A085
 
 io.reformanda.semper            = 0x12019C612F8760FCE59238B55812C79D00186A37
 
@@ -315,6 +337,8 @@ jakarta.xml.soap                = 0xCB3B6379F3D113FA3D7CB45F2776BC4F5165A5EB
 
 jakarta.xml.ws                  = 0xCB3B6379F3D113FA3D7CB45F2776BC4F5165A5EB
 
+jakarta.ws.rs                   = 0x4BD9AEC34B75BE14431C8878160A876EB62C9DBE
+
 jalopy                          = noSig
 
 javax.activation:activation     = noSig
@@ -341,6 +365,8 @@ javax.jdo                       = 0xD3830A5B227A10D3B88BFE442D21AB6565461B79
 javax.jws                       = 0x70CD19BFD9F6C330027D6F260315BFB7970A144F
 
 javax.mail                      = noSig
+
+javax.persistence               = 0x01E3B0B6126DCD94009F48930A71E49A4906BF73
 
 javax.servlet:jsp-api           = noSig
 javax.servlet:jstl              = noSig
@@ -441,12 +467,15 @@ net.minidev                     = \
                                   0x1D04A424F505394DBED15D451D0690E353BE126D, \
                                   0x2F39E2A1EB9BC4E78F403B22F6BC09712C8DF6EC
 
+net.sf.jopt-simple:jopt-simple  = 0x517B94F8D0A46317A28D8AB30DA8A5EC02D11EAD
+
 net.sf.jtidy                    = 0x4F752A9878E937049EF3FBA7D4012DDA1F1F0F82
 
 net.sf.saxon                    = \
                                   0x4C5F68D09D42BA7FAC888DF9A929EA2321FDBF8F, \
                                   0xD9AA7402BA75F78720D975211D185615D0A84648
 
+net.sourceforge.argparse4j      = 0xF4F3B91474D1EB29889BD0EF7E8403D5D673C366
 net.sourceforge.barbecue:barbecue = noSig
 net.sourceforge.jchardet        = noSig
 net.sourceforge.saxon           = noSig
@@ -495,7 +524,9 @@ org.apache.axis2                = \
 org.apache.bcel                 = 0x2DB4F1EF0FA761ECC4EA935C86FDC7E2A11262CB
 
 org.apache.commons:commons-math3 = \
-                                  0x41A1A08C62FCA78B79D3081164A16FAAEC16A4BE
+                                  0x41A1A08C62FCA78B79D3081164A16FAAEC16A4BE, \
+                                  0x12D16069219C90212A974D119AE296FD02E9F65B
+
 org.apache.commons              = \
                                   0x2DB4F1EF0FA761ECC4EA935C86FDC7E2A11262CB, \
                                   0x636DE9055C4C75C7BD9830771241BC872C5E4EC0, \
@@ -679,6 +710,8 @@ org.assertj                     = \
                                   0xA778FDE933A96DDA827840D8E2B3D84202B812D9, \
                                   0xBE685132AFD2740D9095F9040CC0B712FEE75827
 
+org.awaitility                  = 0x07E20F0103D9DFC697C490D0368557390486F2C5
+
 org.beanshell                   = noSig
 
 org.bouncycastle                = 0x08F0AAB4D0C1A4BDDE340765B341DDB020FCB6AB
@@ -756,6 +789,9 @@ org.codehaus.*                  = \
                                   0xFA77DCFEF2EE6EB2DEBEDD2C012579464D01C06A, \
                                   0xFB11D4BB7B244678337AAD8BC7BF26D0BB617866
 
+
+org.conscrypt                   = 0x1597AB231B7ADD7E14B1D9C43F00DB67AE236E2E
+
 org.dom4j                       = 0x8F9A3C6D105B9F57844A721D79E193516BE7998F
 
 org.easymock                    = 0xE85AED155021AF8A6C6B7A4A7C7D8456294423BA
@@ -775,9 +811,14 @@ org.eclipse.jgit                = 0x7C669810892CBD3148FA92995B05CCDE140C2876
 
 org.eclipse.jetty               = 0x5989BAF76217B843D66BE55B2D0E1FB8FE4B68B4
 
+org.eclipse.jetty.http2         = 0x5989BAF76217B843D66BE55B2D0E1FB8FE4B68B4
+
 org.eclipse.jetty.toolchain     = \
                                   0x1A2D608BF6D37AEF12D53A4F37B0A85F5CE89B0C, \
                                   0xF254B35617DC255D9344BCFA873A8E86B4372146
+
+org.eclipse.jetty.toolchain.setuid \
+                                = 0x2A684B57436A81FA8706B53C61C3351A438A3B7D
 
 org.eclipse.jetty.websocket     = 0x5989BAF76217B843D66BE55B2D0E1FB8FE4B68B4
 
@@ -798,9 +839,18 @@ org.glassfish.external          = 0x98B8EC91D603095B68BB257D5E06B3EFC614EB37
 
 org.glassfish.gmbal             = 0x98B8EC91D603095B68BB257D5E06B3EFC614EB37
 
+org.glassfish.grizzly           = 0x5C6C110AC6ED91594D92B795C0DF20AC84F198AE
+
 org.glassfish.ha                = 0x5D5E2FA03AA30ED092A50117FD8776B8DA948C3D
 
-org.glassfish.jaxb              = 0x06A4D15D9FA796BA5DECF592CE8B1D1D2530EDC5
+org.glassfish.hk2.external      = 0x5D5E2FA03AA30ED092A50117FD8776B8DA948C3D
+
+org.glassfish.hk2               = 0x5D5E2FA03AA30ED092A50117FD8776B8DA948C3D
+
+org.glassfish.jaxb              = 0x06A4D15D9FA796BA5DECF592CE8B1D1D2530EDC5, \
+                                  0x70CD19BFD9F6C330027D6F260315BFB7970A144F
+
+org.glassfish.jersey.*          = 0x2EABB8F15F15E18885312232372703E4D5313120
 
 org.glassfish.pfl               = 0x98B8EC91D603095B68BB257D5E06B3EFC614EB37
 
@@ -812,11 +862,24 @@ org.hamcrest                    = \
                                   0x4DB1A49729B053CAF015CEE9A6ADFC93EF34893E, \
                                   0xE3A9F95079E84CE201F7CF60BEDE11EAF1164480
 
-org.hibernate.validator:hibernate-validator:(,6.1.1.Final] = noSig
+org.hibernate:hibernate-core:5.6.3.Final \
+                                = noSig
+
+org.hibernate.common:hibernate-commons-annotations:5.1.2.Final \
+                                = noSig
+
+org.hibernate.validator:hibernate-validator:(,6.2.0.Final] \
+                                = noSig
 
 org.iq80.snappy                 = 0x9E93DB1192CEE3D3B581AABB37E9D58EA4598641
 
+org.jadira.usertype             = 0xD30CD2DFA1569B6A0191DB6DCDA5A0E6CFBCFF1E
+
 org.jacoco                      = 0xA413F67D71BEEC23ADD0CE0ACB43338E060CF9FA
+
+org.jboss:jandex:2.2.3.Final    = noSig
+
+org.jboss.spec.javax.transaction:jboss-transaction-api_1.2_spec:1.1.1.Final = noSig
 
 org.jfree:jfreechart            = 0x1A6782E4EBF49045C8040D1B93157E22A3A5461C
 
@@ -830,12 +893,16 @@ org.javassist                   = \
                                   0xE3E28CF9BAD6548DA332530069DA36AE31C5C4B3, \
                                   0xE5C3B1929191DF06136CCB2B164779204E106A76
 
+org.jdbi                        = 0xDC9CCF59D8F02F9935A1C31EB4FABF12D1EFC080
+
 org.jdom:jdom:1.1               = noSig
 org.jdom                        = \
                                   0x5897253BEA3046AEEA95A067E93671C7272B7B3F, \
                                   0x9A4555C237785CA8A6DC1FE58799AF90C06EFBBD
 
 org.jboss.logging:jboss-logging:(,3.4.1.Final] = noSig
+
+org.jetbrains:annotations       = 0x8756C4F765C9AC3CB6B85D62379CE192D401AB61
 
 org.jibx                        = 0x3B8193C7FCCD41A77F055B6D8F147D14613F136D
 
@@ -851,11 +918,14 @@ org.junit-pioneer               = \
 
 org.jvnet.mimepull              = 0xB506C29E4B7EF88CE0F0E6D3A7C6AFD280CA7CF0
 
-org.jvnet.staxex                = 0x06A4D15D9FA796BA5DECF592CE8B1D1D2530EDC5
+org.jvnet.staxex                = 0x06A4D15D9FA796BA5DECF592CE8B1D1D2530EDC5, \
+                                  0x70CD19BFD9F6C330027D6F260315BFB7970A144F
 
 org.kopitubruk.util             = 0xBED8150B4DF16120DEAFD461D90AF6F50CA9ADC1
 
 org.libreoffice                 = 0xC2839ECAD9408FBE9531C3E9F434A1EFAFEEAEA3
+
+org.liquibase                   = 0xBAF4CE3CC55E6523CF5881A78AFE608B21FE903C
 
 org.lucee:xalan                 = 0x26BA3E8B6A185070F538B1C15C3F925A060D5930
 org.lucee:xalan-serializer      = 0x26BA3E8B6A185070F538B1C15C3F925A060D5930
@@ -878,6 +948,8 @@ org.nibor.autolink              = 0x624B96CEB9896889C97B258F7DC3076FE22D4F88
 
 org.objenesis                   = 0xE85AED155021AF8A6C6B7A4A7C7D8456294423BA
 
+org.openjdk.jmh                 = 0x019082BC00E0324E2AEF4CF00D3B328562A119A7
+
 org.opentest4j                  = 0xFF6E2C001948C5F2F38B0CC385911F425EC61B51
 
 org.osgi:org.osgi.compendium    = noSig
@@ -896,6 +968,10 @@ org.projectlombok                = 0xD421D1DF4570BFB13E485D0BF95ADD0A28D2F139
 
 org.ow2.asm:*:[6.0,7.2)         = noSig
 org.ow2.asm                     = 0xA5BD02B93E7A40482EB1D66A5F69AD087600B22C
+
+org.reactivestreams             = 0xA5B2DDE7843E7CA3E8CAABD02383163BC40844FD
+
+org.rnorth.duct-tape:duct-tape  = 0x8756C4F765C9AC3CB6B85D62379CE192D401AB61
 
 org.simplify4u.*                = \
                                   0x57EB3F12030A57BAA31CAAD5BE3E2A5CB80794EE, \
@@ -931,6 +1007,8 @@ org.springframework.*           = \
                                   0xE2ACB037933CDEAAB7BF77D49A2C7A98E457C53D
 
 org.swinglabs.swingx            = 0x335189B9470DEC927660267824193FC03304997D
+
+org.testcontainers              = 0xD33620F0D0864EC924483F6F3FF95B4331B1F3B7
 
 org.testng                      = \
                                   0x7CD52B5A8295137C88FB5748DDDAFA7674E54418, \
