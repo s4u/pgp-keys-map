@@ -898,6 +898,7 @@ org.jdbi                        = 0xDC9CCF59D8F02F9935A1C31EB4FABF12D1EFC080
 org.jdom:jdom:1.1               = noSig
 org.jdom                        = \
                                   0x5897253BEA3046AEEA95A067E93671C7272B7B3F, \
+                                  0x78DF98EF7F95578FD545B9A159A7C2A1BD98C013, \
                                   0x9A4555C237785CA8A6DC1FE58799AF90C06EFBBD
 
 org.jboss.logging:jboss-logging:(,3.4.1.Final] = noSig
