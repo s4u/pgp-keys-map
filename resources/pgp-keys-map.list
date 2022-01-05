@@ -588,7 +588,9 @@ org.apache.james                = \
 
 org.apache.jackrabbit           = 0xEAA526B91DD83BA3E1B9636FA730529CA355A63E
 
-org.apache.logging.log4j        = 0x53C935821AA6A755BD337DB53595395EB3D8E1BA
+org.apache.logging.log4j        = \
+                                  0x53C935821AA6A755BD337DB53595395EB3D8E1BA, \
+                                  0x748F15B2CF9BA8F024155E6ED7C92B70FA1C814D
 
 org.apache.maven.wagon:*:1.0-beta-2 = noSig
 
