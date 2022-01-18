@@ -444,7 +444,8 @@ log4j                           = 0x9D23533896A9784703585B6286E02C5A42196CA8
 
 logkit                          = noSig
 
-mysql:mysql-connector-java      = 0xA4A9406876FCBD3C456770C88C718D3B5072E1F5
+mysql:mysql-connector-java:(,8.0.27] = 0xA4A9406876FCBD3C456770C88C718D3B5072E1F5
+mysql:mysql-connector-java:[8.0.28,) = 0x859BE8D7C586F538430B19C2467B942D3A79BD29
 
 nekohtml                        = noSig
 
