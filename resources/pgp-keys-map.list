@@ -1028,7 +1028,9 @@ org.tmatesoft:svnkit                 = noSig
 org.tmatesoft.svnkit:svnkit:(,1.3.5] = noSig
 org.tmatesoft.svnkit:svnkit-javahl   = noSig
 org.tmatesoft.svnkit:trilead-ssh2    = noSig
-org.tmatesoft.*                 = 0x4D90040F09023A4A74DF2F54ABAAE54F37E6F8E1
+org.tmatesoft.*                 = \
+                                  0x36DFABCC7D7F357C9E04536D06294B7D913FB160, \
+                                  0x4D90040F09023A4A74DF2F54ABAAE54F37E6F8E1
 
 org.tukaani                     = 0x3690C240CE51B4670D30AD1C38EE757D69184620
 
