@@ -256,6 +256,11 @@
             <version>[4.0.0]</version>
         </dependency>
         <dependency>
+            <groupId>jakarta.inject</groupId>
+            <artifactId>jakarta.inject-api</artifactId>
+            <version>[1.0.5]</version>
+        </dependency>
+        <dependency>
             <groupId>jakarta.servlet</groupId>
             <artifactId>jakarta.servlet-api</artifactId>
             <version>[5.0.0]</version>
@@ -459,6 +464,11 @@
             <groupId>net.java.dev.jna</groupId>
             <artifactId>platform</artifactId>
             <version>[3.5.2]</version>
+        </dependency>
+        <dependency>
+            <groupId>net.sourceforge.argparse4j</groupId>
+            <artifactId>argparse4j</artifactId>
+            <version>0.9.0</version>
         </dependency>
         <dependency>
             <groupId>net.sourceforge.barbecue</groupId>
@@ -758,6 +768,11 @@
             <groupId>org.glassfish.web</groupId>
             <artifactId>jakarta.servlet.jsp.jstl</artifactId>
             <version>[2.0.0]</version>
+        </dependency>
+        <dependency>
+            <groupId>org.jdbi</groupId>
+            <artifactId>jdbi3-jodatime2</artifactId>
+            <version>[3.27.1]</version>
         </dependency>
         <dependency>
             <groupId>org.jdom</groupId>
