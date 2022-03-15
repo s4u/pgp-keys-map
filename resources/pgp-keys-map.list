@@ -821,7 +821,9 @@ org.eclipse.jdt.core.compiler   = 0x45DAD8AED069092BC7BE9843ECA081A9790D4FC4
 
 org.eclipse.jgit                = 0x7C669810892CBD3148FA92995B05CCDE140C2876
 
-org.eclipse.jetty               = 0x5989BAF76217B843D66BE55B2D0E1FB8FE4B68B4
+org.eclipse.jetty               = \
+                                  0x5989BAF76217B843D66BE55B2D0E1FB8FE4B68B4, \
+                                  0x8B096546B1A8F02656B15D3B1677D141BCF3584D
 
 org.eclipse.jetty.http2         = 0x5989BAF76217B843D66BE55B2D0E1FB8FE4B68B4
 
@@ -832,7 +834,9 @@ org.eclipse.jetty.toolchain     = \
 org.eclipse.jetty.toolchain.setuid \
                                 = 0x2A684B57436A81FA8706B53C61C3351A438A3B7D
 
-org.eclipse.jetty.websocket     = 0x5989BAF76217B843D66BE55B2D0E1FB8FE4B68B4
+org.eclipse.jetty.websocket     = \
+                                  0x5989BAF76217B843D66BE55B2D0E1FB8FE4B68B4, \
+                                  0x8B096546B1A8F02656B15D3B1677D141BCF3584D
 
 # version (,0.0.0],[0.0.0,) is workaround for https://github.com/s4u/pgpverify-maven-plugin/issues/135
 org.eclipse.sisu:*:(,0.0.0],[0.0.0,) = 0xCF17E92C9FFA55316B5DB83901D734EE5EE9C3F8
