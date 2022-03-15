@@ -165,7 +165,9 @@ com.google.collections:google-collections:1.0 = noSig
 
 com.google.code.gson            = 0xC7BE5BCC9FEC15518CFDA882B0F3710FA64900E7
 
-com.google.googlejavaformat     = 0xE77417AC194160A3FABD04969A259C7EE636C5ED
+com.google.googlejavaformat     = \
+                                  0xE77417AC194160A3FABD04969A259C7EE636C5ED, \
+                                  0xEE0CA873074092F806F59B65D364ABAA39A47320
 
 com.google.protobuf:protobuf-java = \
                                   0x3D11126EA77E4E07FBABB38614A84C976D265B25, \
