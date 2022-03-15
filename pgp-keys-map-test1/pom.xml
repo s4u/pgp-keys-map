@@ -830,6 +830,11 @@
             <version>[10.0.14]</version>
         </dependency>
         <dependency>
+            <groupId>org.mozilla</groupId>
+            <artifactId>rhino</artifactId>
+            <version>[1.7.14]</version>
+        </dependency>
+        <dependency>
             <groupId>org.ostermiller</groupId>
             <artifactId>utils</artifactId>
             <!-- Cannot use "[1.07.00]" due to missing maven-metadata.xml at

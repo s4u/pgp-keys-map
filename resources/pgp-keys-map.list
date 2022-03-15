@@ -952,6 +952,8 @@ org.mortbay.jasper              = 0x1A2D608BF6D37AEF12D53A4F37B0A85F5CE89B0C
 
 org.mozilla                     = 0xEA0B70B5050192C98CFA7E4F3F36885C24DF4B75
 
+org.mozilla:rhino               = 0xE9AF5293C334C7C0B583227D2F45F85CDF082E68
+
 org.netbeans.lib                = noSig
 
 org.nibor.autolink              = 0x624B96CEB9896889C97B258F7DC3076FE22D4F88
