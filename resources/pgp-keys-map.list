@@ -898,9 +898,9 @@ org.javassist                   = \
                                   0xE3E28CF9BAD6548DA332530069DA36AE31C5C4B3, \
                                   0xE5C3B1929191DF06136CCB2B164779204E106A76
 
-org.jdbi::(,3.27.0)             = 0xDC9CCF59D8F02F9935A1C31EB4FABF12D1EFC080
-org.jdbi::[3.27.0,)             = 0x82FD4193F39D3240EA40EDC2165C5B4B496D5C62
-
+org.jdbi                        = \
+                                  0xDC9CCF59D8F02F9935A1C31EB4FABF12D1EFC080, \
+                                  0x82FD4193F39D3240EA40EDC2165C5B4B496D5C62
 
 org.jdom:jdom:1.1               = noSig
 org.jdom                        = \
