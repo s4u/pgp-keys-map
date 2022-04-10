@@ -458,6 +458,8 @@ net.bytebuddy                   = \
                                   0xB4AC8CDC141AF0AE468D16921DA784CCB5C46DD5, \
                                   0xF42B96B8648B5C4A1C43A62FBB2914C1FA0811C3
 
+net.i2p.crypto                  = 0x43C79B4BBD131821E17D2CA77B2F0491728B8E02
+
 net.java.dev.javacc             = noSig
 
 net.java.dev.jna                = \
@@ -659,6 +661,8 @@ org.apache.poi                  = \
 org.apache.santuario            = 0xDB45ECD19B97514F727105AE67BF80B10AD53983
 
 org.apache.servicemix.bundles   = 0x1AA8CF92D409A73393D0B736BFF2EE42C8282E76
+
+org.apache.sshd                 = 0xDC98224C6421A7A5BB87F346ED2378CD09A08CDE
 
 org.apache.struts               = \
                                   0xCE4460D20B66C7E1687475BAD388AD829F3E96F7, \
