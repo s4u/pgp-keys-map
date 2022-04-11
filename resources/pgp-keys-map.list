@@ -510,6 +510,7 @@ org.antlr:gunit:(,3.4-beta4]                  = noSig
 org.antlr:maven-gunit-plugin:(,3.4-beta4]     = noSig
 org.antlr:stringtemplate                      = noSig
 org.antlr                       = \
+                                  0x5719E50EAC5A4B1DD390B72C2A742740E08E7F8D, \
                                   0x842AFB86375D805422835BFD82B5574242C20D6F, \
                                   0xB2D1AC7BE5A3EEB9773A49FE6EB9DE4D7E01B1E1, \
                                   0xB01128C8FD304FE48E6EED2C347CD0EAED975C5F, \
