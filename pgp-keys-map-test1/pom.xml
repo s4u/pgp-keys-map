@@ -495,7 +495,7 @@
         <dependency>
             <groupId>org.antlr</groupId>
             <artifactId>gunit</artifactId>
-            <version>[3.5.2]</version>
+            <version>[3.5.3]</version>
         </dependency>
         <dependency>
             <groupId>org.antlr</groupId>
