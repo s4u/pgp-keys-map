@@ -144,6 +144,11 @@
             <type>pom</type>
         </dependency>
         <dependency>
+            <groupId>com.puppycrawl.tools</groupId>
+            <artifactId>checkstyle</artifactId>
+            <version>[10.1]</version>
+        </dependency>
+        <dependency>
             <groupId>com.rabbitmq</groupId>
             <artifactId>amqp-client</artifactId>
             <version>[5.14.2]</version>
@@ -228,6 +233,11 @@
             <groupId>dnsjava</groupId>
             <artifactId>dnsjava</artifactId>
             <version>[3.5.0]</version>
+        </dependency>
+        <dependency>
+            <groupId>info.picocli</groupId>
+            <artifactId>picocli</artifactId>
+            <version>[4.6.3]</version>
         </dependency>
         <dependency>
             <groupId>io.dropwizard</groupId>
@@ -850,6 +860,11 @@
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
             <version>[1.18.22]</version>
+        </dependency>
+        <dependency>
+            <groupId>org.reflections</groupId>
+            <artifactId>reflections</artifactId>
+            <version>[0.10.2]</version>
         </dependency>
         <dependency>
             <groupId>org.slf4j</groupId>
