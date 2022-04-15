@@ -154,7 +154,8 @@ com.googlecode.javaewah        = 0x015479E1055341431B4545AB72475FD306B9CAB7
 
 com.google.errorprone:error_prone_annotations = \
                                   0x5CE325996A35213326AE2C68912D2C0ECCDA55C0, \
-                                  0x6F656B7F6BFB238D38ACF81F3C27D97B0C83A85C
+                                  0x6F656B7F6BFB238D38ACF81F3C27D97B0C83A85C, \
+                                  0xEE0CA873074092F806F59B65D364ABAA39A47320
 com.google.errorprone           = \
                                   0x56053CEDBA17E065DE7FB97BEBA8E97B15086E24, \
                                   0x7615AD56144DF2376F49D98B1669C4BB543E0445, \
