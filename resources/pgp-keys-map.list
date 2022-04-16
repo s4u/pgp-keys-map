@@ -298,7 +298,9 @@ eu.medsea.mimeutil:mime-util    = noSig
 
 geronimo-spec                   = noSig
 
-info.picocli                    = 0x8756C4F765C9AC3CB6B85D62379CE192D401AB61
+info.picocli                    = \
+                                  0x8756C4F765C9AC3CB6B85D62379CE192D401AB61, \
+                                  0xAA417737BD805456DB3CBDDE6601E5C08DCCBB96
 
 informa:informa                 = noSig
 
@@ -999,6 +1001,8 @@ org.ow2.asm:*:[6.0,7.2)         = noSig
 org.ow2.asm                     = 0xA5BD02B93E7A40482EB1D66A5F69AD087600B22C
 
 org.reactivestreams             = 0xA5B2DDE7843E7CA3E8CAABD02383163BC40844FD
+
+org.reflections:reflections     = 0x3F2A008A91D11A7FAC4A0786F13D3E721D56BD54
 
 org.rnorth.duct-tape:duct-tape  = 0x8756C4F765C9AC3CB6B85D62379CE192D401AB61
 
