@@ -702,6 +702,7 @@ org.apache.ws.xmlschema         = \
                                   0xDB45ECD19B97514F727105AE67BF80B10AD53983
 
 org.apache.xbean                = \
+                                  0x1AA8CF92D409A73393D0B736BFF2EE42C8282E76, \
                                   0x223D3A74B068ECA354DC385CE126833F9CF64915, \
                                   0x82D8419BA697F0E7FB85916EE91287822FDB81B1, \
                                   0xEA23DB1360D9029481E7F2EFECDFEA3CB4493B94
