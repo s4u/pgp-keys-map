@@ -835,6 +835,11 @@
             <version>[2.0.0]</version>
         </dependency>
         <dependency>
+            <groupId>org.hdrhistogram</groupId>
+            <artifactId>HdrHistogram</artifactId>
+            <version>[2.1.12]</version>
+        </dependency>
+        <dependency>
             <groupId>org.jdbi</groupId>
             <artifactId>jdbi3-jodatime2</artifactId>
             <version>[3.28.0]</version>
