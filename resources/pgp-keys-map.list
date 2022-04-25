@@ -458,6 +458,8 @@ mysql:mysql-connector-java:[8.0.28,) = 0x859BE8D7C586F538430B19C2467B942D3A79BD2
 
 nekohtml                        = noSig
 
+net.arnx                        = 0xEA1CC8EB96ACB305D55872774330D21C2BC8B5E3
+
 net.bytebuddy                   = \
                                   0xB4AC8CDC141AF0AE468D16921DA784CCB5C46DD5, \
                                   0xF42B96B8648B5C4A1C43A62FBB2914C1FA0811C3
