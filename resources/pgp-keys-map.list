@@ -593,7 +593,7 @@ org.apache.geronimo.specs       = \
 
 org.apache.groovy               = 0x34441E504A937F43EB0DAEF96A65176A0FB1CD0B
 
-org.apache.httpcomponents       = \
+org.apache.httpcomponents.*     = \
                                   0x0785B3EFF60B1B1BEA94E0BB7C25280EAE63EBE5, \
                                   0x2DB4F1EF0FA761ECC4EA935C86FDC7E2A11262CB
 
