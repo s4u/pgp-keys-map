@@ -310,6 +310,8 @@ informa:informa                 = noSig
 
 io.dropwizard.*                 = 0xEDA86E9FB607B5FC9223FB767D4868B53E31E7AD
 
+io.github.classgraph            = 0x1F47744C9B6E14F2049C2857F1F111AF65925306
+
 io.github.resilience4j          = \
                                   0x8756C4F765C9AC3CB6B85D62379CE192D401AB61, \
                                   0x94FAC9D5B165E80F1F2D9A103FFA7DB1EC0FF1A2
