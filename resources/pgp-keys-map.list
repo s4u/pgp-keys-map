@@ -869,6 +869,10 @@ org.fusesource.hawtbuf          = 0xE5B8247AF8A619A28F90FDFC9FF25980F5BA7E4F
 
 org.glassfish                   = 0x7AA34304FF173025AA394C7C2C026998703FFA67
 
+org.glassfish:javax.json        = \
+                                  0x4F7E32D440EF90A83011A8FC6425559C47CC79C4, \
+                                  0x70CD19BFD9F6C330027D6F260315BFB7970A144F
+
 org.glassfish.external          = 0x98B8EC91D603095B68BB257D5E06B3EFC614EB37
 
 org.glassfish.gmbal             = 0x98B8EC91D603095B68BB257D5E06B3EFC614EB37
