@@ -982,6 +982,8 @@ org.jvnet.staxex                = 0x06A4D15D9FA796BA5DECF592CE8B1D1D2530EDC5, \
 
 org.kopitubruk.util             = 0xBED8150B4DF16120DEAFD461D90AF6F50CA9ADC1
 
+org.latencyutils                = 0x7A1D848E7C2AF85EEBA69C99E7BF252CF360097E
+
 org.libreoffice                 = \
                                   0x1C67D33B45FF883CF72675872B72BCDB418E6BC6, \
                                   0xC2839ECAD9408FBE9531C3E9F434A1EFAFEEAEA3
