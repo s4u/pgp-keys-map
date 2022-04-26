@@ -912,6 +912,11 @@
             <version>[1.18.24]</version>
         </dependency>
         <dependency>
+            <groupId>org.reactivestreams</groupId>
+            <artifactId>reactive-streams</artifactId>
+            <version>[1.0.3]</version>
+        </dependency>
+        <dependency>
             <groupId>org.reflections</groupId>
             <artifactId>reflections</artifactId>
             <version>[0.10.2]</version>
