@@ -146,7 +146,7 @@
         <dependency>
             <groupId>com.puppycrawl.tools</groupId>
             <artifactId>checkstyle</artifactId>
-            <version>[10.1]</version>
+            <version>[10.2]</version>
         </dependency>
         <dependency>
             <groupId>com.rabbitmq</groupId>
@@ -1043,6 +1043,11 @@
             <groupId>org.webjars.npm</groupId>
             <artifactId>graphlib</artifactId>
             <version>[2.1.8]</version>
+        </dependency>
+        <dependency>
+            <groupId>org.xmlresolver</groupId>
+            <artifactId>xmlresolver</artifactId>
+            <version>[4.3.0]</version>
         </dependency>
         <dependency>
             <groupId>edu.berkeley.cs.jqf</groupId>
