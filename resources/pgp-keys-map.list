@@ -316,6 +316,11 @@ io.github.resilience4j          = \
 
 io.leangen.geantyref            = 0x41B962CF9AA2A26FF1F234D2A6144824624A3CBA
 
+io.netty                        = \
+                                  0x0D35D3F60078655126908E8AF3D1600878E85A3D, \
+                                  0x176E27B72061F21D6FE6286241CB03A1BB3BAD60, \
+                                  0x7E22D50A7EBD9D2CD269B2D4056ACA74D46000BF
+
 io.reactivex.rxjava2            = 0x1D9AA7F9E1E2824728B8CD1794B291AEF984A085
 
 io.reformanda.semper            = 0x12019C612F8760FCE59238B55812C79D00186A37
