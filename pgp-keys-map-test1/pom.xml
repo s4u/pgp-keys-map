@@ -518,6 +518,11 @@
             <version>[3.3.2]</version>
         </dependency>
         <dependency>
+            <groupId>org.abego.treelayout</groupId>
+            <artifactId>org.abego.treelayout.core</artifactId>
+            <version>[1.0.3]</version>
+        </dependency>
+        <dependency>
             <groupId>org.antlr</groupId>
             <artifactId>antlr-runtime</artifactId>
             <version>[3.5.3]</version>
