@@ -1024,7 +1024,9 @@ org.projectlombok                = 0xD421D1DF4570BFB13E485D0BF95ADD0A28D2F139
 org.ow2.asm:*:[6.0,7.2)         = noSig
 org.ow2.asm                     = 0xA5BD02B93E7A40482EB1D66A5F69AD087600B22C
 
-org.reactivestreams             = 0xA5B2DDE7843E7CA3E8CAABD02383163BC40844FD
+org.reactivestreams             = \
+                                  0xA5B2DDE7843E7CA3E8CAABD02383163BC40844FD, \
+                                  0xE83AABBB95CA37431E20422043203BE58F49479D
 
 org.reflections:reflections     = 0x3F2A008A91D11A7FAC4A0786F13D3E721D56BD54
 
