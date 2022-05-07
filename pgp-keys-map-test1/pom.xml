@@ -250,6 +250,11 @@
             <version>[2.0.29]</version>
         </dependency>
         <dependency>
+            <groupId>io.github.classgraph</groupId>
+            <artifactId>classgraph</artifactId>
+            <version>[4.8.146]</version>
+        </dependency>
+        <dependency>
             <groupId>io.netty</groupId>
             <artifactId>netty-codec-http2</artifactId>
             <version>[4.1.76.Final]</version>
