@@ -913,6 +913,8 @@ org.hamcrest                    = \
                                   0x4DB1A49729B053CAF015CEE9A6ADFC93EF34893E, \
                                   0xE3A9F95079E84CE201F7CF60BEDE11EAF1164480
 
+org.hdrhistogram                = 0xE113159331A1F87BFC2A93D0960D2E8635A91268
+
 org.hibernate.*                 = noSig
 
 org.iq80.snappy                 = 0x9E93DB1192CEE3D3B581AABB37E9D58EA4598641
