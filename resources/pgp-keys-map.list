@@ -302,6 +302,8 @@ eu.medsea.mimeutil:mime-util    = noSig
 
 geronimo-spec                   = noSig
 
+guru.nidi.*                     = 0x7285B9747FA1B77E008CD9CAC78DCFD987057597
+
 info.picocli                    = \
                                   0x8756C4F765C9AC3CB6B85D62379CE192D401AB61, \
                                   0xAA417737BD805456DB3CBDDE6601E5C08DCCBB96
