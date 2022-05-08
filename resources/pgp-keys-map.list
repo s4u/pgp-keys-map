@@ -914,6 +914,8 @@ org.glassfish.pfl               = 0x98B8EC91D603095B68BB257D5E06B3EFC614EB37
 org.glassfish.web:jakarta.servlet.jsp.jstl = \
                                   0x7BE1BB0B4DE4CFB872E90E51296863EC7506AB74
 
+org.graalvm.*                   = 0xFE72F1BFE9632B1FE049AC3E5BCD80B78ACD3A37
+
 org.hamcrest:hamcrest-core:1.1  = noSig
 org.hamcrest                    = \
                                   0x4DB1A49729B053CAF015CEE9A6ADFC93EF34893E, \
