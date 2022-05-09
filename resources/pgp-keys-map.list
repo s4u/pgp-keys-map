@@ -1025,7 +1025,9 @@ org.opentest4j                  = 0xFF6E2C001948C5F2F38B0CC385911F425EC61B51
 
 org.osgi:org.osgi.compendium    = noSig
 
-org.osgi                        = 0x1AF010D408C1852AB6EFD4B651CDB4A9DAAC1CBC
+org.osgi                        = \
+                                  0x1AF010D408C1852AB6EFD4B651CDB4A9DAAC1CBC, \
+                                  0xEAFC1F3B2FCED6AFD046C7D5734AEF3D43509290
 
 org.ostermiller:utils           = noSig
 
