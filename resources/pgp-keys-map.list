@@ -959,7 +959,9 @@ org.jdom                        = \
 
 org.jboss.logging:jboss-logging:(,3.4.1.Final] = noSig
 
-org.jetbrains:annotations       = 0x8756C4F765C9AC3CB6B85D62379CE192D401AB61
+org.jetbrains:annotations       = \
+                                  0x8756C4F765C9AC3CB6B85D62379CE192D401AB61, \
+                                  0xB46DC71E03FEEB7F89D1F2491F7A8F87B9D8F501
 
 org.jetbrains.kotlin            = 0x2FBA29D08D2E25EE84C132C30729A0AFF8999A87
 
