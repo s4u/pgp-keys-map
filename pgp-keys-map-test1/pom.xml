@@ -900,6 +900,11 @@
             <version>[2.1.12]</version>
         </dependency>
         <dependency>
+            <groupId>org.hibernate.validator</groupId>
+            <artifactId>hibernate-validator</artifactId>
+            <version>[8.0.0.Alpha3]</version>
+        </dependency>
+        <dependency>
             <groupId>org.jdbi</groupId>
             <artifactId>jdbi3-jodatime2</artifactId>
             <version>[3.28.0]</version>
