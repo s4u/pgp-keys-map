@@ -145,7 +145,7 @@
         <dependency>
             <groupId>com.pragmatickm</groupId>
             <artifactId>pragmatickm-parent</artifactId>
-            <version>[1.12.0]</version>
+            <version>[1.13.0]</version>
             <type>pom</type>
         </dependency>
         <dependency>
