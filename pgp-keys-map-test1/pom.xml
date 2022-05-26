@@ -760,7 +760,7 @@
         <dependency>
             <groupId>org.apache.ws.commons.axiom</groupId>
             <artifactId>axiom-api</artifactId>
-            <version>[1.3.0]</version>
+            <version>[1.4.0]</version>
         </dependency>
         <dependency>
             <groupId>org.apache.ws.xmlschema</groupId>
