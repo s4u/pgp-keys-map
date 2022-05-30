@@ -115,7 +115,7 @@
         <dependency>
             <groupId>com.google.protobuf</groupId>
             <artifactId>protobuf-java</artifactId>
-            <version>[3.21.0]</version>
+            <version>[3.21.1]</version>
         </dependency>
         <dependency>
             <groupId>com.google.code.maven-scm-provider-svnjava</groupId>
