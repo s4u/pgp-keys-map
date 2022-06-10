@@ -740,7 +740,7 @@
         <dependency>
             <groupId>org.apache.tomcat</groupId>
             <artifactId>tomcat-api</artifactId>
-            <version>[10.1.0-M15]</version>
+            <version>[10.1.0-M16]</version>
         </dependency>
         <dependency>
             <groupId>org.apache.tomcat.embed</groupId>
