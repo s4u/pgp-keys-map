@@ -302,7 +302,7 @@
         <dependency>
             <groupId>io.projectreactor</groupId>
             <artifactId>reactor-core</artifactId>
-            <version>[3.4.18]</version>
+            <version>[3.4.19]</version>
         </dependency>
         <dependency>
             <groupId>io.projectreactor.netty</groupId>
@@ -1024,7 +1024,7 @@
         <dependency>
             <groupId>org.rocksdb</groupId>
             <artifactId>rocksdbjni</artifactId>
-            <version>[7.2.2]</version>
+            <version>[7.3.1]</version>
         </dependency>
         <dependency>
             <groupId>org.slf4j</groupId>
@@ -1106,7 +1106,7 @@
         <dependency>
             <groupId>com.newmediaworks</groupId>
             <artifactId>nmw-oss-parent</artifactId>
-            <version>[1.16.1]</version>
+            <version>[1.16.2]</version>
             <type>pom</type>
         </dependency>
         <dependency>
