@@ -292,7 +292,7 @@
         <dependency>
             <groupId>io.netty</groupId>
             <artifactId>netty-codec-http2</artifactId>
-            <version>[4.1.77.Final]</version>
+            <version>[4.1.78.Final]</version>
         </dependency>
         <dependency>
             <groupId>io.netty</groupId>
@@ -861,7 +861,7 @@
         <dependency>
             <groupId>org.eclipse.jdt</groupId>
             <artifactId>ecj</artifactId>
-            <version>[3.29.0]</version>
+            <version>[3.30.0]</version>
         </dependency>
         <dependency>
             <groupId>org.eclipse.jdt.core.compiler</groupId>
