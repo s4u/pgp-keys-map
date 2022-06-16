@@ -998,7 +998,8 @@ org.libreoffice                 = \
                                   0x1C67D33B45FF883CF72675872B72BCDB418E6BC6, \
                                   0xC2839ECAD9408FBE9531C3E9F434A1EFAFEEAEA3
 
-org.liquibase                   = 0xBAF4CE3CC55E6523CF5881A78AFE608B21FE903C
+org.liquibase:*:(,4.8.0)       = 0xBAF4CE3CC55E6523CF5881A78AFE608B21FE903C
+org.liquibase:*:[4.8.0,)       = 0xCE8CCE6925A669E933D1CFFCC604A7DC47B41156
 
 org.lucee:xalan                 = 0x26BA3E8B6A185070F538B1C15C3F925A060D5930
 org.lucee:xalan-serializer      = 0x26BA3E8B6A185070F538B1C15C3F925A060D5930
@@ -1093,7 +1094,9 @@ org.springframework.*           = \
 
 org.swinglabs.swingx            = 0x335189B9470DEC927660267824193FC03304997D
 
-org.testcontainers              = 0xD33620F0D0864EC924483F6F3FF95B4331B1F3B7
+org.testcontainers:*:(,1.17.0)  = 0xD33620F0D0864EC924483F6F3FF95B4331B1F3B7
+org.testcontainers:*:[1.17.0,1.17.1] = 0x08B09F787B6745E796CE6DBE100306F2B3793BF3
+org.testcontainers:*:[1.17.2,)  = 0x2655176F748FD83725B4805FF2A01147D830C125
 
 org.testng                      = \
                                   0x7CD52B5A8295137C88FB5748DDDAFA7674E54418, \
