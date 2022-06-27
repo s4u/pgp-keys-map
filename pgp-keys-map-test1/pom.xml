@@ -997,7 +997,7 @@
         <dependency>
             <groupId>org.openrewrite.maven</groupId>
             <artifactId>rewrite-maven-plugin</artifactId>
-            <version>[4.25.2]</version>
+            <version>[4.25.3]</version>
         </dependency>
         <dependency>
             <groupId>org.osgi</groupId>
