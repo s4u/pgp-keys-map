@@ -220,6 +220,8 @@ com.newmediaworks               = 0x940C50A840DF4E9BC77FF3E587B44025897B20B0
 
 com.opencsv                     = 0xAB1DC33940689C44669107094989E0E939C2999B
 
+com.paypal.sdk                  = 0xF757E7E141E0844E351734EDE9F2C86A0DE39B39
+
 com.pholser                     = \
                                   0x517B94F8D0A46317A28D8AB30DA8A5EC02D11EAD, \
                                   0x92F6B50F73DF09039114B367DED1E9914638F44D
