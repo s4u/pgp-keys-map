@@ -217,6 +217,8 @@ com.mks.api                     = 0xF5FE3E099957FCC561BE34C2D9EB0830E9BFA161
 
 com.newmediaworks               = 0x940C50A840DF4E9BC77FF3E587B44025897B20B0
 
+com.opencsv                     = 0xAB1DC33940689C44669107094989E0E939C2999B
+
 com.pholser                     = \
                                   0x517B94F8D0A46317A28D8AB30DA8A5EC02D11EAD, \
                                   0x92F6B50F73DF09039114B367DED1E9914638F44D
