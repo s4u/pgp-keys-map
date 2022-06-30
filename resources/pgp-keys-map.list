@@ -857,6 +857,8 @@ org.eclipse.aether              = \
                                   0xBA926F64CA647B6D853A38672E2010F8A7FF4A41, \
                                   0xFB11D4BB7B244678337AAD8BC7BF26D0BB617866
 
+org.eclipse.angus               = 0x284E7978CDDCEC682D4C6C435CDC001823AE5BEB
+
 org.eclipse.core:resources:3.3.0-v20070604 = noSig
 
 org.eclipse.jdt:ecj             = 0x462E0F0FD51D11AB1FF74EC77AA1F762B414F87E
