@@ -887,7 +887,8 @@ org.eclipse.jetty.toolchain.setuid \
 
 org.eclipse.jetty.websocket     = \
                                   0x5989BAF76217B843D66BE55B2D0E1FB8FE4B68B4, \
-                                  0x8B096546B1A8F02656B15D3B1677D141BCF3584D
+                                  0x8B096546B1A8F02656B15D3B1677D141BCF3584D, \
+                                  0xB59B67FD7904984367F931800818D9D68FB67BAC
 
 # version (,0.0.0],[0.0.0,) is workaround for https://github.com/s4u/pgpverify-maven-plugin/issues/135
 org.eclipse.sisu:*:(,0.0.0],[0.0.0,) = 0xCF17E92C9FFA55316B5DB83901D734EE5EE9C3F8
