@@ -21,7 +21,7 @@
     <parent>
         <artifactId>pgp-keys-map</artifactId>
         <groupId>org.simplify4u</groupId>
-        <version>2022.05.13-SNAPSHOT</version>
+        <version>2022.07.02</version>
     </parent>
 
     <artifactId>org-apache-maven-plugins-test</artifactId>
