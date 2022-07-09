@@ -651,6 +651,7 @@ org.apache.maven.*              = \
                                   0x042B29E928995B9DB963C636C7CA19B7B620D787, \
                                   0x0CDE80149711EB46DFF17AE421A24B3F8B0F594A, \
                                   0x190D5A957FF22273E601F7A7C92C5FEC70161C62, \
+                                  0x29BEA2A645F2D6CED7FB12E02B172E3E156466E8, \
                                   0x32118CF76C9EC5D918E54967CA80D1F0EB6CA4BA, \
                                   0x31FAE244A81D64507B47182E1B2718089CE964B8, \
                                   0x341EE4BF9F5CFFFF954201660A3939A4C560DD8B, \
