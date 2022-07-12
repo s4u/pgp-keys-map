@@ -1022,7 +1022,7 @@
         <dependency>
             <groupId>org.openrewrite.maven</groupId>
             <artifactId>rewrite-maven-plugin</artifactId>
-            <version>[4.26.1]</version>
+            <version>[4.27.0]</version>
         </dependency>
         <dependency>
             <groupId>org.osgi</groupId>
