@@ -932,7 +932,7 @@
         <dependency>
             <groupId>org.hibernate.validator</groupId>
             <artifactId>hibernate-validator</artifactId>
-            <version>[8.0.0.CR2]</version>
+            <version>[8.0.0.CR3]</version>
         </dependency>
         <dependency>
             <groupId>org.jdbi</groupId>
