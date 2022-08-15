@@ -68,7 +68,7 @@
         <dependency>
             <groupId>com.aoapps</groupId>
             <artifactId>ao-oss-parent</artifactId>
-            <version>[1.19.5]</version>
+            <version>[1.19.6]</version>
             <type>pom</type>
         </dependency>
         <dependency>
@@ -155,7 +155,7 @@
         <dependency>
             <groupId>com.pragmatickm</groupId>
             <artifactId>pragmatickm-parent</artifactId>
-            <version>[1.13.5]</version>
+            <version>[1.13.6]</version>
             <type>pom</type>
         </dependency>
         <dependency>
@@ -171,7 +171,7 @@
         <dependency>
             <groupId>com.semanticcms</groupId>
             <artifactId>semanticcms-parent</artifactId>
-            <version>[1.15.5]</version>
+            <version>[1.15.6]</version>
             <type>pom</type>
         </dependency>
         <dependency>
@@ -972,7 +972,7 @@
         <dependency>
             <groupId>org.jibx</groupId>
             <artifactId>jibx-bind</artifactId>
-            <version>[1.3.3]</version>
+            <version>[1.4.1]</version>
         </dependency>
         <dependency>
             <groupId>org.junit-pioneer</groupId>
@@ -1141,7 +1141,7 @@
         <dependency>
             <groupId>com.newmediaworks</groupId>
             <artifactId>nmw-oss-parent</artifactId>
-            <version>[1.16.5]</version>
+            <version>[1.16.6]</version>
             <type>pom</type>
         </dependency>
         <dependency>
@@ -1157,7 +1157,7 @@
         <dependency>
             <groupId>org.mockito</groupId>
             <artifactId>mockito-core</artifactId>
-            <version>[4.6.1]</version>
+            <version>[4.7.0]</version>
         </dependency>
         <dependency>
             <groupId>org.mockito</groupId>
