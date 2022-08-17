@@ -880,9 +880,11 @@ org.eclipse.jgit                = 0x7C669810892CBD3148FA92995B05CCDE140C2876
 
 org.eclipse.jetty               = \
                                   0x5989BAF76217B843D66BE55B2D0E1FB8FE4B68B4, \
-                                  0x8B096546B1A8F02656B15D3B1677D141BCF3584D
+                                  0x8B096546B1A8F02656B15D3B1677D141BCF3584D, \
+                                  0xB59B67FD7904984367F931800818D9D68FB67BAC
 
-org.eclipse.jetty.http2         = 0x5989BAF76217B843D66BE55B2D0E1FB8FE4B68B4
+org.eclipse.jetty.http2         = 0x5989BAF76217B843D66BE55B2D0E1FB8FE4B68B4, \
+                                  0xB59B67FD7904984367F931800818D9D68FB67BAC
 
 org.eclipse.jetty.toolchain     = \
                                   0x1A2D608BF6D37AEF12D53A4F37B0A85F5CE89B0C, \
