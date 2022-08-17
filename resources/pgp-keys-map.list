@@ -591,7 +591,9 @@ org.apache.commons              = \
 
 org.apache.cxf                  = 0x51B52DC5DD452F92BE342CC2858FC4C4F43856A3
 
-org.apache.directory.api        = 0x63CE676698B26D3A36D77527223BD93328686142
+org.apache.directory.api        = \
+                                  0x4D2DB2916149BAA9D0C92F3731474E5E7C6B7034, \
+                                  0x63CE676698B26D3A36D77527223BD93328686142
 
 org.apache.felix                = \
                                   0x1AA8CF92D409A73393D0B736BFF2EE42C8282E76, \
