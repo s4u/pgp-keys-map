@@ -1091,7 +1091,9 @@ org.simplify4u.*                = \
 org.skyscreamer                 = 0xC89074FC8BE681B7C7EAAB6E4C5EED3C53B75933
 
 org.slf4j:*:(,1.6.4]            = noSig
-org.slf4j                       = 0x475F3B8E59E6E63AA78067482C7B12F2A511E325
+org.slf4j                       = \
+                                  0x475F3B8E59E6E63AA78067482C7B12F2A511E325, \
+                                  0x60200AC4AE761F1614D6C46766D68DAA073BE985
 
 org.sonatype.goodies            = 0x0DCF749D41A80E58041AAE1728F57F70167C0B3A
 org.sonatype.gossip             = \
