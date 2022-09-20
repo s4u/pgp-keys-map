@@ -1227,7 +1227,7 @@
         <dependency>
             <groupId>org.xmlresolver</groupId>
             <artifactId>xmlresolver</artifactId>
-            <version>[4.5.1]</version>
+            <version>[4.5.2]</version>
         </dependency>
         <dependency>
             <groupId>edu.berkeley.cs.jqf</groupId>
