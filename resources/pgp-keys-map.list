@@ -116,6 +116,13 @@ com.aoindustries                = 0x3FF945C37048D113E997AEC7CE70AA9A5BD10E01
 
 com.github.ben-manes.caffeine   = 0x635EE627345F3C1DD422B2E207D3516820BCF6B1
 
+com.github.cliftonlabs:json-simple:(,2.1.2] \
+                                = 0xE543A38B156A6200EA0A0D4E3AAEECBE57E27E2E
+com.github.cliftonlabs:json-simple:[2.2.0,3.1.0] \
+                                = 0xD4173520C54781C310C6E10C4425263EB7F112F0
+com.github.cliftonlabs:json-simple:[3.1.1,) \
+                                = 0xA5A6CA64706880C873677EEF1E831E5567C07466
+
 com.github.docker-java          = 0x08B09F787B6745E796CE6DBE100306F2B3793BF3
 
 com.beust                       = \
