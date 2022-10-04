@@ -593,6 +593,9 @@ org.apache.axis2                = \
 
 org.apache.bcel                 = 0x2DB4F1EF0FA761ECC4EA935C86FDC7E2A11262CB
 
+org.apache.commons:commons-digester3 = \
+                                  0xA9F885A21BA0EFB7D0991E6CCAF5EC5919FEA27D
+
 org.apache.commons:commons-math3 = \
                                   0x41A1A08C62FCA78B79D3081164A16FAAEC16A4BE, \
                                   0x12D16069219C90212A974D119AE296FD02E9F65B
