@@ -332,7 +332,7 @@
         <dependency>
             <groupId>io.projectreactor.netty</groupId>
             <artifactId>reactor-netty-core</artifactId>
-            <version>[1.0.23]</version>
+            <version>[1.0.24]</version>
         </dependency>
         <dependency>
             <groupId>io.prometheus</groupId>
