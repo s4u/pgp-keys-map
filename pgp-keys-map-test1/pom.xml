@@ -1299,6 +1299,11 @@
             <version>[2.0.2]</version>
             <classifier>sources</classifier>
         </dependency>
+        <dependency>
+            <groupId>org.codehaus.jsr166-mirror</groupId>
+            <artifactId>extra166y</artifactId>
+            <version>[1.7.0]</version>
+        </dependency>
     </dependencies>
 
     <build>

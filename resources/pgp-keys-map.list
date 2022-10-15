@@ -818,6 +818,8 @@ org.codehaus.groovy             = \
 
 org.codehaus.jackson = noSig
 
+org.codehaus.jsr166-mirror      = noSig
+
 
 org.codehaus.mojo               = \
                                   0x3C52836F134ED0C6983F73F200ECB4C4ED5885AC, \
