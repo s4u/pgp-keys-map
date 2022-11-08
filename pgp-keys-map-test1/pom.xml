@@ -186,7 +186,7 @@
         <dependency>
             <groupId>com.semanticcms</groupId>
             <artifactId>semanticcms-parent</artifactId>
-            <version>[1.15.8]</version>
+            <version>[1.15.9]</version>
             <type>pom</type>
         </dependency>
         <dependency>
