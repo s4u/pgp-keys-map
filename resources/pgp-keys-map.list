@@ -825,12 +825,16 @@ org.codehaus.jackson = noSig
 
 org.codehaus.jsr166-mirror      = noSig
 
-
 org.codehaus.mojo               = \
+                                  0x02C66D06BB72026643F93BAED29E3DA204D79A77, \
+                                  0x2A5AB419C0FB38AB767AAD2C4B3F4EDDC66C0F69, \
+                                  0x32118CF76C9EC5D918E54967CA80D1F0EB6CA4BA, \
                                   0x3C52836F134ED0C6983F73F200ECB4C4ED5885AC, \
                                   0x84789D24DF77A32433CE1F079EB80E92EB2135B1, \
                                   0xD433F9C895710DB8AB087FA6B7C3B43D18EAA8B7, \
-                                  0xF1A427244820987F912BC6FE2B20ACA625D33968
+                                  0xF1A427244820987F912BC6FE2B20ACA625D33968, \
+                                  0xF254B35617DC255D9344BCFA873A8E86B4372146, \
+                                  0xFA77DCFEF2EE6EB2DEBEDD2C012579464D01C06A
 
 org.codehaus.plexus:plexus-archiver:[1.0-alpha-3,1.0-alpha-12] = noSig
 org.codehaus.plexus:plexus-container-default:(,1.5.2] = noSig
@@ -856,38 +860,31 @@ org.codehaus.plexus:plexus-utils:(,2.0.2] = noSig
 org.codehaus.plexus:plexus-velocity:(,1.1.8] = noSig
 
 org.codehaus.plexus             = \
-                                  0x09A808E1930F779CC6C54807E4C753D85335E876
-
-org.codehaus.woodstox:woodstox-core-asl:(,4.1.4] = noSig
-org.codehaus.woodstox:woodstox-core-asl = 0x2A21DE22697E264345A764832D1F2506C6ECEDF4
-org.codehaus.woodstox:stax2-api:(,3.1.1] = noSig
-
-org.codehaus.*                  = \
-                                  0x02C66D06BB72026643F93BAED29E3DA204D79A77, \
-                                  0x064F04959CD99ACCC4DFB54C9CD8549ACF9BD0CE, \
+                                  0x09A808E1930F779CC6C54807E4C753D85335E876, \
                                   0x190D5A957FF22273E601F7A7C92C5FEC70161C62, \
                                   0x250EC75D1D52E967CE132C548B0378A57CD8E243, \
                                   0x29BEA2A645F2D6CED7FB12E02B172E3E156466E8, \
-                                  0x2A5AB419C0FB38AB767AAD2C4B3F4EDDC66C0F69, \
                                   0x32118CF76C9EC5D918E54967CA80D1F0EB6CA4BA, \
                                   0x47063E8BA7A6450E4A52E7AE466CAED6E0747D50, \
                                   0x4E532BB2FF51BCE63B39A33AA43EC0D4271F7981, \
-                                  0x6214760097DC5CFAD0175AC2C9FBAA83A8753994, \
                                   0x6A814B1F869C2BBEAB7CB7271A2A1C94BDE89688, \
-                                  0x82F833963889D7ED06F1E4DC6525FD70CC303655, \
                                   0x849FB4F1AF3D17CDE4DE5E710704ADDF1D821345, \
-                                  0x8DFD5079DB622FF7229B8F6C5CF02FE7D6179A28, \
                                   0x906E5E684729C006267DDD4B105DE36038D8C6C5, \
                                   0xAE9E53FC28FF2AB1012273D0BF1518E0160788A2, \
                                   0xB02137D875D833D9B23392ECAE5A7FB608A0221C, \
-                                  0xB920D295BF0E61CB4CF0896C33CD6733AF5EC452, \
                                   0xBA926F64CA647B6D853A38672E2010F8A7FF4A41, \
-                                  0xE3D03669CC36EBAF9731359D5ED02B023D5BBA70, \
                                   0xF254B35617DC255D9344BCFA873A8E86B4372146, \
                                   0xF404C15F367293CCCC0AF7B244146BCAA1F1E051, \
                                   0xFA77DCFEF2EE6EB2DEBEDD2C012579464D01C06A, \
                                   0xFB11D4BB7B244678337AAD8BC7BF26D0BB617866
 
+org.codehaus.woodstox:woodstox-core-asl:(,4.1.4] = noSig
+org.codehaus.woodstox:woodstox-core-asl = 0x2A21DE22697E264345A764832D1F2506C6ECEDF4
+org.codehaus.woodstox:stax2-api:(,3.1.1] = noSig
+
+org.codehaus.woodstox           = \
+                                  0x064F04959CD99ACCC4DFB54C9CD8549ACF9BD0CE, \
+                                  0x6214760097DC5CFAD0175AC2C9FBAA83A8753994
 
 org.conscrypt                   = 0x1597AB231B7ADD7E14B1D9C43F00DB67AE236E2E
 
