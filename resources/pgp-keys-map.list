@@ -130,6 +130,8 @@ com.github.cliftonlabs:json-simple:[3.1.1,) \
 
 com.github.docker-java          = 0x08B09F787B6745E796CE6DBE100306F2B3793BF3
 
+com.github.luben                = 0x9AC5712CABE9635B65663AB0711C0A9A896FE336
+
 com.beust                       = \
                                   0x324E460B9DB8F4515F3EAED9930C5B1EA41B1AA1, \
                                   0x67497E9D680CE8E95BD6B8F85AD66315FC018797, \
