@@ -767,6 +767,7 @@ org.apache.xbean                = \
                                   0x1AA8CF92D409A73393D0B736BFF2EE42C8282E76, \
                                   0x223D3A74B068ECA354DC385CE126833F9CF64915, \
                                   0x82D8419BA697F0E7FB85916EE91287822FDB81B1, \
+                                  0xC758F9CC982AC877E7B295DD6E97418B04B11DCB, \
                                   0xEA23DB1360D9029481E7F2EFECDFEA3CB4493B94
 
 org.apache.xmlbeans:*:(,2.6.0]  = 0x2AFAD8F5F972D31FB5358DF078BE85D9669C4AB5
