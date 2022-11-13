@@ -862,9 +862,6 @@ org.codehaus.plexus:plexus-utils:jar:sources:1.5.1 = 0x69859CF50A3C1EB40A90D5FD2
 org.codehaus.plexus:plexus-utils:(,2.0.2] = noSig
 org.codehaus.plexus:plexus-velocity:(,1.1.8] = noSig
 
-# key only deployed on pgp.mit.edu, due to many timeouts allow without key
-org.codehaus.plexus:plexus-archiver:4.5.0   = 0x09A808E1930F779CC6C54807E4C753D85335E876,  noKey
-
 org.codehaus.plexus             = \
                                   0x09A808E1930F779CC6C54807E4C753D85335E876, \
                                   0x190D5A957FF22273E601F7A7C92C5FEC70161C62, \
