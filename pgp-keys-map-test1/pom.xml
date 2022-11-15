@@ -158,6 +158,11 @@
             <version>[4.1.0]</version>
         </dependency>
         <dependency>
+            <groupId>com.mysql</groupId>
+            <artifactId>mysql-connector-j</artifactId>
+            <version>[8.0.31]</version>
+        </dependency>
+        <dependency>
             <groupId>com.opencsv</groupId>
             <artifactId>opencsv</artifactId>
             <version>[5.7.1]</version>
@@ -563,7 +568,15 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
+            <!--
+            Version 8.0.31, which is intended to be a relocation to com.mysql:mysql-connector-j,
+            is malformed and failing to perform the intended relocation. The pom was erroneously
+            uploaded as "mysql-connector-j-8.0.31.pom" instead of "mysql-connector-java-8.0.31.pom".
+            Staying on version 8.0.30 until this issue is resolved.
+            -->
             <version>[8.0.30]</version>
+            <!-- pom-only since the final release is expected to be a relocation to com.mysql:mysql-connector-j -->
+            <type>pom</type>
         </dependency>
         <dependency>
             <groupId>net.arnx</groupId>
