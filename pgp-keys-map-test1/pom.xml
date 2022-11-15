@@ -667,6 +667,11 @@
         </dependency>
         <dependency>
             <groupId>org.apache.commons</groupId>
+            <artifactId>commons-compress</artifactId>
+            <version>[1.22]</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.commons</groupId>
             <artifactId>commons-digester3</artifactId>
             <version>[3.2]</version>
         </dependency>
