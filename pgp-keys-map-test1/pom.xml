@@ -1322,6 +1322,11 @@
             <artifactId>extra166y</artifactId>
             <version>[1.7.0]</version>
         </dependency>
+        <dependency>
+            <groupId>org.codehaus.plexus</groupId>
+            <artifactId>plexus-classworlds</artifactId>
+            <version>[2.7.0]</version>
+        </dependency>
     </dependencies>
 
     <build>
