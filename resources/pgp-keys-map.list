@@ -839,7 +839,7 @@ org.codehaus.jackson = noSig
 
 org.codehaus.jsr166-mirror      = noSig
 
-org.codehaus.mojo               = \
+org.codehaus.mojo.*             = \
                                   0x02C66D06BB72026643F93BAED29E3DA204D79A77, \
                                   0x2A5AB419C0FB38AB767AAD2C4B3F4EDDC66C0F69, \
                                   0x32118CF76C9EC5D918E54967CA80D1F0EB6CA4BA, \
