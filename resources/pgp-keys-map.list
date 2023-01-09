@@ -193,6 +193,7 @@ com.google.googlejavaformat     = \
 com.google.protobuf:protobuf-java = \
                                   0x187366A3FFE6BF8F94B9136A9987B20C8F6A3064, \
                                   0x2E5B73C6EFD2EB453104C2EAE6EC76B4C6D3AE8E, \
+                                  0x3C7C956B0ADCE8A006F392201E516D29843497DC, \
                                   0x3D11126EA77E4E07FBABB38614A84C976D265B25, \
                                   0x51608DEA69F297BEA56ADF9BAEAA0761DF8CA3A1, \
                                   0x696B6199A2A9D8C29CE78CC0D041CAD2E452550F, \
