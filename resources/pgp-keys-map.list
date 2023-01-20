@@ -1147,6 +1147,7 @@ org.sonatype.*                  = \
 
 
 org.springframework.*           = \
+                                  0x48B086A7D843CFA258E83286928FBF39003C0425, \
                                   0x8756C4F765C9AC3CB6B85D62379CE192D401AB61, \
                                   0xE2ACB037933CDEAAB7BF77D49A2C7A98E457C53D
 
