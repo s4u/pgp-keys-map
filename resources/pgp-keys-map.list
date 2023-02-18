@@ -1145,6 +1145,7 @@ org.sonatype.*                  = \
                                   0xBA926F64CA647B6D853A38672E2010F8A7FF4A41, \
                                   0xE78AA45938D10249E08CC1C752E6585E0102B84D
 
+org.spockframework.*            = 0x76E94E8FF0AB5AF3B6F8366972FEFD1572EB75E1
 
 org.springframework.*           = \
                                   0x48B086A7D843CFA258E83286928FBF39003C0425, \
