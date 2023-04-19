@@ -192,6 +192,8 @@ com.google.googlejavaformat     = \
                                   0xE77417AC194160A3FABD04969A259C7EE636C5ED, \
                                   0xEE0CA873074092F806F59B65D364ABAA39A47320
 
+com.google.inject               = 0xD5F46BC0B86AF5DC56DF58F05E975CB00C643DBF
+
 com.google.protobuf:protobuf-java = \
                                   0x187366A3FFE6BF8F94B9136A9987B20C8F6A3064, \
                                   0x2E5B73C6EFD2EB453104C2EAE6EC76B4C6D3AE8E, \
