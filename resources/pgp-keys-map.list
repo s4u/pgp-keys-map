@@ -358,7 +358,9 @@ io.github.x-stream              = 0x050A37A2E0577F4BAA095B52602EC18D20C4661C
 
 io.leangen.geantyref            = 0x41B962CF9AA2A26FF1F234D2A6144824624A3CBA
 
-io.micrometer.*                 = 0xE2ACB037933CDEAAB7BF77D49A2C7A98E457C53D
+io.micrometer.*                 = \
+                                  0x48B086A7D843CFA258E83286928FBF39003C0425, \
+                                  0xE2ACB037933CDEAAB7BF77D49A2C7A98E457C53D
 
 io.netty                        = \
                                   0x0D35D3F60078655126908E8AF3D1600878E85A3D, \
