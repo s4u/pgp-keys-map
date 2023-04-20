@@ -765,10 +765,10 @@ org.apache.taglibs              = 0x8B46CA49EF4837B8C7F292DAA54AD08EA7A0233C
 
 org.apache.tomcat.*             = \
                                   0x48F8E69F6390C9F25CFEDCD268248959359E722B, \
+                                  0x5C3C5F3E314C866292F359A8F3AD5C94A67F707E, \
                                   0x713DA88BE50911535FE716F5208B0AB1D63011C7, \
-                                  0xA9C5DF4D22E99998D9875A5110C01C5A2F6059E7
-
-org.apache.tomcat.maven         = 0xF254B35617DC255D9344BCFA873A8E86B4372146
+                                  0xA9C5DF4D22E99998D9875A5110C01C5A2F6059E7, \
+                                  0xF254B35617DC255D9344BCFA873A8E86B4372146
 
 org.apache.velocity:velocity:1.5 = noSig
 org.apache.velocity.tools:velocity-tools:2.0-alpha1 = noSig
