@@ -574,7 +574,7 @@
             uploaded as "mysql-connector-j-8.0.31.pom" instead of "mysql-connector-java-8.0.31.pom".
             Staying on version 8.0.30 until this issue is resolved.
             -->
-            <version>[8.0.32]</version>
+            <version>[8.0.33]</version>
             <!-- pom-only since the final release is expected to be a relocation to com.mysql:mysql-connector-j -->
             <type>pom</type>
         </dependency>
