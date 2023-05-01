@@ -1127,6 +1127,8 @@ org.rocksdb                     = \
                                   0x728A7334903B4DF01FC61495FFDA7EDC249A7C8E, \
                                   0xD4A08A8AB731BF576354A8183EF2B4866A540119
 
+org.semver                      = 0xFE1E782E5E9B706C77D5CF003D356AD03133D493
+
 org.simplify4u.*                = \
                                   0x57EB3F12030A57BAA31CAAD5BE3E2A5CB80794EE, \
                                   0x6636274B2E8BEA9D15A61143F8484389379ACEAC
