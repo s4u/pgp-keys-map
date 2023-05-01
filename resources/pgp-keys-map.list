@@ -600,6 +600,7 @@ org.antlr                       = \
 
 org.apache.ant                  = \
                                   0x06A228AAB83A18A8DF7B84B08614D6AB265B4C63, \
+                                  0x0A123C1ED3F13A6A0140E166C71FB765CD9DE313, \
                                   0x8DA70C00DF7AF1B0D2F9DC74DDBCC1270A29D081, \
                                   0x0BADE59B0EC24E68C03CA4815EFAD9FE82A7FBCD, \
                                   0xCE8075A251547BEE249BC151A2115AE15F6B8B72
