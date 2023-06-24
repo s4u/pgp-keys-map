@@ -1049,6 +1049,8 @@ org.jetbrains:annotations       = \
 
 org.jetbrains.kotlin            = 0x2FBA29D08D2E25EE84C132C30729A0AFF8999A87
 
+org.jetbrains.kotlinx           = 0xBC900CD2FC9A9D906ECBA48BE3822B59020A349D
+
 org.jibx                        = 0x3B8193C7FCCD41A77F055B6D8F147D14613F136D
 
 org.json                        = 0xCDCAA216B086A7B603B638C5145D819475314D97
