@@ -1177,6 +1177,7 @@ org.testcontainers:*:[1.17.2,)  = 0x2655176F748FD83725B4805FF2A01147D830C125
 
 org.testng                      = \
                                   0x7CD52B5A8295137C88FB5748DDDAFA7674E54418, \
+                                  0xC4F54D8622C95CC3F098721A0F13D5631D6AF36D, \
                                   0xDCBA03381EF6C89096ACD985AC5EC74981F9CDA6
 
 org.tmatesoft.sqljet:sqljet:(,1.0.4] = noSig
