@@ -396,6 +396,8 @@ io.vavr                         = \
 
 isorelax                        = noSig
 
+it.unimi.dsi                    = 0x0CB5871FB7BF3B351614BBF6CA85FFE638D4407A
+
 jakarta.activation              = 0xCAE38BC93D90B852D88465DD3A1959EEF8726006 # master key
 jakarta.annotation              = 0xF6CE460FDBE1AABD1A96456737ECFC571637667C # master key
 
