@@ -167,6 +167,8 @@ com.github.spotbugs             = \
 
 com.github.spullara.mustache.java = 0xA22931805BEA371C4B607CD9CCC16740C5666D5A
 
+com.github.stephenc.jcip        = 0x042B29E928995B9DB963C636C7CA19B7B620D787
+
 com.github.virtuald             = 0x1D657819C1D8DE42D96881C1D5C6377EDE50786B
 
 com.google.code.findbugs:jsr305:(,2.0.1] = noSig
