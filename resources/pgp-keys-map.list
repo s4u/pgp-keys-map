@@ -321,7 +321,9 @@ com.vladsch.flexmark            = 0x4008F9DFF7DBC968F35F9E712642156411CCE8B3
 
 com.yworks                      = 0xF5B2464C77784BC252CA10B75420D536C1EC35CE
 
-com.zaxxer:SparseBitSet         = 0x9579802DC3E15DE9C389239FC0D48A119CE7EE7B
+com.zaxxer:SparseBitSet         = \
+                                  0x9579802DC3E15DE9C389239FC0D48A119CE7EE7B, \
+                                  0xF3A90E6B10E809F851AB4FC54CC08E7F47C3EC76
 
 de.danielbechler                = 0x476E96B433F354264ED7C37848F3F13498FF6AF8
 
