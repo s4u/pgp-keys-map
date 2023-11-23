@@ -202,8 +202,9 @@ com.google.inject               = 0xD5F46BC0B86AF5DC56DF58F05E975CB00C643DBF
 
 com.google.j2objc               = 0xEB1B3DE71713C9EC2E87CC26EE92349AD86DE446
 
-com.google.protobuf:protobuf-java = \
+com.google.protobuf             = \
                                   0x187366A3FFE6BF8F94B9136A9987B20C8F6A3064, \
+                                  0x1A55F091AD28C07F831FA44D7905DE25C78AD456, \
                                   0x2E5B73C6EFD2EB453104C2EAE6EC76B4C6D3AE8E, \
                                   0x3C7C956B0ADCE8A006F392201E516D29843497DC, \
                                   0x3D11126EA77E4E07FBABB38614A84C976D265B25, \
