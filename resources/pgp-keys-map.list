@@ -247,7 +247,10 @@ com.mattbertolini               = \
 
 com.mks.api                     = 0xF5FE3E099957FCC561BE34C2D9EB0830E9BFA161
 
-com.mysql:mysql-connector-j:[8.0.31,) = 0xF046369B06B761AC86D9849F71B329993BFFCFDD
+com.mysql                       = \
+                                  0xC8D37E9675158FF5B29B6D6452FC3551DA8DC57E, \
+                                  0xF046369B06B761AC86D9849F71B329993BFFCFDD
+
 
 com.newmediaworks               = 0x940C50A840DF4E9BC77FF3E587B44025897B20B0
 
