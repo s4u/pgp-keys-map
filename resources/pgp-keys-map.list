@@ -851,7 +851,9 @@ org.awaitility                  = 0x07E20F0103D9DFC697C490D0368557390486F2C5
 
 org.beanshell                   = noSig
 
-org.bouncycastle                = 0x08F0AAB4D0C1A4BDDE340765B341DDB020FCB6AB
+org.bouncycastle                = \
+                                  0x08F0AAB4D0C1A4BDDE340765B341DDB020FCB6AB, \
+                                  0x7B121B76A7ED6CE6E60AD51784E913A8E3A748C0
 
 org.checkerframework            = 0x19BEAB2D799C020F17C69126B16698A4ADF4D638
 
