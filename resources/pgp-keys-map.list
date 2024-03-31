@@ -320,6 +320,7 @@ com.thoughtworks.qdox:*:(,1.12] = noSig
 com.thoughtworks.*              = \
                                   0x050A37A2E0577F4BAA095B52602EC18D20C4661C, \
                                   0x31FAE244A81D64507B47182E1B2718089CE964B8, \
+                                  0x7E6557B314B189FD4EA5B680FE66BCA17E67AE6F, \
                                   0xB02137D875D833D9B23392ECAE5A7FB608A0221C
 
 com.vaadin.external.google      = 0xCC57399D74CD7E4768ED6FA4CA62973FBF0451C0
