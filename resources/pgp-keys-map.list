@@ -976,7 +976,9 @@ org.eclipse.sisu:*:(,0.0.0],[0.0.0,) = 0xCF17E92C9FFA55316B5DB83901D734EE5EE9C3F
 
 org.eclipse.mylyn.github        = 0xE1812B73F4E57524C27259EFE50638B3056D2AF3
 
-org.eclipse.packager            = 0x10DA7C61C910F79491F78F0FDFD48B446B2F168F
+org.eclipse.packager            = \
+                                  0x10DA7C61C910F79491F78F0FDFD48B446B2F168F, \
+                                  0xCAFE8E040FD28E7873171932BBE1070F76B97956
 
 org.freemarker:*:(,2.3.19]      = noSig
 org.freemarker:*:2.3.27-incubating = 0x04DE676E3FFFD9C2DD767C2FA25D65D27C13ADCE
