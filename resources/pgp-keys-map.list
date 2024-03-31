@@ -1228,9 +1228,10 @@ org.vafer                       = \
                                   0x3909C28792327FAD38100EAF04633A577C200941, \
                                   0x79156E0351AF8604DE9B186B09A79E1E15A04694
 
-org.webjars:jquery-mobile       = 0x341C2AE47D5FF3A7EDFB5989E57A697A70CFE5F9
-org.webjars:jquery-ui           = 0x341C2AE47D5FF3A7EDFB5989E57A697A70CFE5F9
-org.webjars                     = 0xFA1703B1D287CAEA3A60F931E0130A3ED5A2079E
+org.webjars                     = \
+                                  0x341C2AE47D5FF3A7EDFB5989E57A697A70CFE5F9, \
+                                  0x82F94BBDF95C247BBD21396B9A0B94DEC0FFA7EE, \
+                                  0xFA1703B1D287CAEA3A60F931E0130A3ED5A2079E
 
 org.webjars.npm                 = 0x33C4D7C209080D60CA2CDDBC5AF2C7818C7B0958
 org.webjars.npm                 = 0xFA1703B1D287CAEA3A60F931E0130A3ED5A2079E
