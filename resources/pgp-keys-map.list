@@ -711,7 +711,8 @@ org.apache.ivy                  = \
 
 org.apache.james                = \
                                   0x16786C85121310443EBE4F4B0E1C43C3FB35B6CE, \
-                                  0x7E22D50A7EBD9D2CD269B2D4056ACA74D46000BF
+                                  0x7E22D50A7EBD9D2CD269B2D4056ACA74D46000BF, \
+                                  0xD02DF4AE22341CD32156D52338E2D3879FDF70B6
 
 org.apache.jackrabbit           = 0xEAA526B91DD83BA3E1B9636FA730529CA355A63E
 
