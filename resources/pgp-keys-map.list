@@ -243,6 +243,8 @@ com.jayway.jsonpath             = 0x41D266DB4427983A1A4AFB0C3684155E9365C30E
 com.jcraft:jsch:(,0.1.42]       = noSig
 com.jcraft                      = 0x34D6FF19930ADF43AC127792A50569C7CA7FA1F0
 
+com.kohlschutter.*              = 0xB5C082F1158B8C92AE3E5E1C29B8FEA02804261C
+
 com.lowagie                     = noSig
 
 com.mattbertolini               = \
