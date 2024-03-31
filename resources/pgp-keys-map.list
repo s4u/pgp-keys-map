@@ -345,6 +345,8 @@ de.rototor.pdfbox               = 0x8608E5C5E09DCCE835B50BCD1158D77CDB3A70BB
 
 de.zeigermann.xml:xml-im-exporter:1.1 = noSig
 
+dev.failsafe                    = 0xCDE577234159E222BC56E50F9C61220417AAA02E
+
 dnsjava:dnsjava                 = 0xE06A36F67D8C1BD13F1F278D0CA7139CBC7026F9
 
 dom4j:dom4j                     = noSig
