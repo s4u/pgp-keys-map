@@ -721,10 +721,11 @@ org.apache.maven.wagon:*:1.0-beta-2 = noSig
 org.apache.maven.*              = \
                                   0x042B29E928995B9DB963C636C7CA19B7B620D787, \
                                   0x0CDE80149711EB46DFF17AE421A24B3F8B0F594A, \
+                                  0x1083EA117629CBDBF77FD6060E593F2ED433A5AD, \
                                   0x190D5A957FF22273E601F7A7C92C5FEC70161C62, \
                                   0x29BEA2A645F2D6CED7FB12E02B172E3E156466E8, \
-                                  0x32118CF76C9EC5D918E54967CA80D1F0EB6CA4BA, \
                                   0x31FAE244A81D64507B47182E1B2718089CE964B8, \
+                                  0x32118CF76C9EC5D918E54967CA80D1F0EB6CA4BA, \
                                   0x341EE4BF9F5CFFFF954201660A3939A4C560DD8B, \
                                   0x34D924503BAF25291978F7C54F9BDB78DB596386, \
                                   0x429E6335123A642267EF0CDB8F0FABD30F353251, \
@@ -732,8 +733,8 @@ org.apache.maven.*              = \
                                   0x503BFAAE645286D11EC18181F704B943ED330E1B, \
                                   0x522CA055B326A636D833EF6A0551FD3684FCBBB7, \
                                   0x6A814B1F869C2BBEAB7CB7271A2A1C94BDE89688, \
-                                  0x6C4982557FD21F69E64E08863B58205B9D7013A9, \
                                   0x6BDACA2C0493CCA133B372D09C4F7E9D98B1CC53, \
+                                  0x6C4982557FD21F69E64E08863B58205B9D7013A9, \
                                   0x6E13156C0EE653F0B984663AB95BBD3FA43C4492, \
                                   0x7C9CFAF9C409737872FE044AF397D776F65C0178, \
                                   0x82C9EC0E52C47A936A849E0113D979595E6D01E1, \
