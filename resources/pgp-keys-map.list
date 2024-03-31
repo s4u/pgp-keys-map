@@ -1107,8 +1107,10 @@ org.libreoffice                 = \
                                   0x1C67D33B45FF883CF72675872B72BCDB418E6BC6, \
                                   0xC2839ECAD9408FBE9531C3E9F434A1EFAFEEAEA3
 
-org.liquibase:*:(,4.8.0)       = 0xBAF4CE3CC55E6523CF5881A78AFE608B21FE903C
-org.liquibase:*:[4.8.0,)       = 0xCE8CCE6925A669E933D1CFFCC604A7DC47B41156
+org.liquibase:*                 = \
+                                  0x4F474D657AAB9B387B812DA2915C4D2EC1FE0D33, \
+                                  0xBAF4CE3CC55E6523CF5881A78AFE608B21FE903C, \
+                                  0xCE8CCE6925A669E933D1CFFCC604A7DC47B41156
 
 org.lucee:xalan                 = 0x26BA3E8B6A185070F538B1C15C3F925A060D5930
 org.lucee:xalan-serializer      = 0x26BA3E8B6A185070F538B1C15C3F925A060D5930
