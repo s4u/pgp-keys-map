@@ -881,6 +881,9 @@ org.codehaus.jackson = noSig
 
 org.codehaus.jsr166-mirror      = noSig
 
+org.codehaus.modello.*          = 0x84789D24DF77A32433CE1F079EB80E92EB2135B1, \
+                                  0x88BE34F94BDB2B5357044E2E3A387D43964143E3
+
 org.codehaus.mojo.*             = \
                                   0x02C66D06BB72026643F93BAED29E3DA204D79A77, \
                                   0x2A5AB419C0FB38AB767AAD2C4B3F4EDDC66C0F69, \
