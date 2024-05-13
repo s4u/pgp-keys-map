@@ -950,6 +950,7 @@ org.codehaus.woodstox:stax2-api:(,3.1.1] = noSig
 
 org.codehaus.woodstox           = \
                                   0x064F04959CD99ACCC4DFB54C9CD8549ACF9BD0CE, \
+                                  0x28118C070CB22A0175A2E8D43D12CA2AC19F3181, \
                                   0x6214760097DC5CFAD0175AC2C9FBAA83A8753994
 
 org.conscrypt                   = 0x1597AB231B7ADD7E14B1D9C43F00DB67AE236E2E
