@@ -1195,9 +1195,9 @@ org.slf4j                       = \
                                   0x475F3B8E59E6E63AA78067482C7B12F2A511E325, \
                                   0x60200AC4AE761F1614D6C46766D68DAA073BE985
 
-org.smooks:*                    = \
+org.smooks.*                    = \
                                   0xBFB2DFBEEAD74E7FAF4C374E70B4AB04102637CC, \
-                                  0xCD3DEDD153E8EA8C1DCC7D768989D427C62B9674,
+                                  0xCD3DEDD153E8EA8C1DCC7D768989D427C62B9674, \
                                   0X70AAA039F84946A2D494B4E9BCA0F51125CD0AEF
 
 org.sonatype.goodies            = 0x0DCF749D41A80E58041AAE1728F57F70167C0B3A
