@@ -780,6 +780,8 @@ org.apache.poi                  = \
                                   0x24188560524400B142BE3386A93E1C4B26062CE3, \
                                   0x6BA4DA8B1C88A49428A29C3D0C69C1EF41181E13
 
+org.apache.rat                  = 0x6BFAB2E3C6490B421B25C76C9C8C892F91F8E6D1
+
 org.apache.santuario            = 0xDB45ECD19B97514F727105AE67BF80B10AD53983
 
 org.apache.servicemix.bundles   = 0x1AA8CF92D409A73393D0B736BFF2EE42C8282E76
