@@ -32,7 +32,7 @@ Especially you can help, when:
                     <plugin>
                         <groupId>org.simplify4u.plugins</groupId>
                         <artifactId>pgpverify-maven-plugin</artifactId>
-                        <version>1.17.0</version>
+                        <version>1.18.1</version>
                         <executions>
                             <execution>
                                 <goals>
@@ -50,7 +50,7 @@ Especially you can help, when:
                             <dependency>
                                 <groupId>org.simplify4u</groupId>
                                 <artifactId>pgp-keys-map</artifactId>
-                                <version>2023.06.24</version>
+                                <version>2024.04.04</version>
                             </dependency>
                         </dependencies>
                     </plugin>
