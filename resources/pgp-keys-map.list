@@ -991,7 +991,9 @@ org.eclipse.jetty.*             = \
 
 
 # version (,0.0.0],[0.0.0,) is workaround for https://github.com/s4u/pgpverify-maven-plugin/issues/135
-org.eclipse.sisu:*:(,0.0.0],[0.0.0,) = 0xCF17E92C9FFA55316B5DB83901D734EE5EE9C3F8
+org.eclipse.sisu:*:(,0.0.0],[0.0.0,) = \
+                                  0x88BE34F94BDB2B5357044E2E3A387D43964143E3, \
+                                  0xCF17E92C9FFA55316B5DB83901D734EE5EE9C3F8
 
 org.eclipse.mylyn.github        = 0xE1812B73F4E57524C27259EFE50638B3056D2AF3
 
