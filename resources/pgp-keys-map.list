@@ -140,6 +140,8 @@ com.github.docker-java          = \
                                   0x2655176F748FD83725B4805FF2A01147D830C125, \
                                   0x08B09F787B6745E796CE6DBE100306F2B3793BF3
 
+com.github.javaparser           = 0x6DE9B8077FBB2F8A019F4904BD17A565509DEE20
+
 com.github.luben                = 0x9AC5712CABE9635B65663AB0711C0A9A896FE336
 
 com.github.oowekyala.ooxml      = 0x68AF82B99C3C9ADFE5CA661767AB3C2A8FC5C42E
