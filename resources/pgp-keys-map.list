@@ -160,6 +160,7 @@ com.fasterxml.*                 = \
 
 com.github.javaparser           = \
                                   0x253E8E4C6FB28D11748115C1249DEE8E2C07A0A2, \
+                                  0x6DE9B8077FBB2F8A019F4904BD17A565509DEE20, \
                                   0x8756C4F765C9AC3CB6B85D62379CE192D401AB61, \
                                   0xA55830120AED177E1AA4F66A431B8F80403A7DC1, \
                                   0xFC2C31FC25FEDE4E7AD0D18C2BFD7825A8984FBE
