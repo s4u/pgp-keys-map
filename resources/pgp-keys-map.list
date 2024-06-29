@@ -142,6 +142,8 @@ com.github.docker-java          = \
 
 com.github.luben                = 0x9AC5712CABE9635B65663AB0711C0A9A896FE336
 
+com.github.oowekyala.ooxml      = 0x68AF82B99C3C9ADFE5CA661767AB3C2A8FC5C42E
+
 com.beust                       = \
                                   0x324E460B9DB8F4515F3EAED9930C5B1EA41B1AA1, \
                                   0x67497E9D680CE8E95BD6B8F85AD66315FC018797, \
