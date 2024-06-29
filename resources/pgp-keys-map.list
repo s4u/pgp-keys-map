@@ -1167,6 +1167,8 @@ org.ostermiller:utils           = noSig
 
 org.parboiled                   = 0x4BC63FB0B94CC4133EE21C949339BFE6A3BCCE65
 
+org.pcollections                = 0xE0D98C5FD55A8AF232290E58DEE12B9896F97E34
+
 org.pegdown                     = 0x3F103DC095ED9F871823EB92DFC9AD09D6418136
 
 org.postgresql:postgresql       = 0x3750777B9C4B7D233B9D0C40307A96FBA0292109
