@@ -28,7 +28,7 @@
 
     <properties>
         <spring-core.version>6.1.12</spring-core.version>
-        <spring-boot.version>3.3.2</spring-boot.version>
+        <spring-boot.version>3.3.3</spring-boot.version>
     </properties>
 
     <dependencies>
