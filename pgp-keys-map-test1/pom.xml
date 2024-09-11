@@ -945,7 +945,7 @@
         <dependency>
             <groupId>org.eclipse.packager</groupId>
             <artifactId>packager-core</artifactId>
-            <version>[0.20.0]</version>
+            <version>[0.21.0]</version>
         </dependency>
         <dependency>
             <groupId>org.freemarker</groupId>
