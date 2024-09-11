@@ -203,7 +203,8 @@ com.google.googlejavaformat     = \
                                   0xE77417AC194160A3FABD04969A259C7EE636C5ED, \
                                   0xEE0CA873074092F806F59B65D364ABAA39A47320
 
-com.google.inject               = 0xD5F46BC0B86AF5DC56DF58F05E975CB00C643DBF
+com.google.inject               = 0x56CEE778E1531BD70ECB0F47BEC27E87C49F2E2B, \
+                                  0xD5F46BC0B86AF5DC56DF58F05E975CB00C643DBF
 
 com.google.j2objc               = 0xEB1B3DE71713C9EC2E87CC26EE92349AD86DE446
 
