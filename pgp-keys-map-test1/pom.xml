@@ -980,7 +980,7 @@
         <dependency>
             <groupId>org.jdbi</groupId>
             <artifactId>jdbi3-jodatime2</artifactId>
-            <version>[3.45.4]</version>
+            <version>[3.46.0]</version>
         </dependency>
         <dependency>
             <groupId>org.jdom</groupId>
