@@ -816,6 +816,7 @@ org.apache.tomcat.*             = \
 org.apache.velocity:velocity:1.5 = noSig
 org.apache.velocity.tools:velocity-tools:2.0-alpha1 = noSig
 org.apache.velocity.*           = \
+                                  0x6F9D10E747DC79485ABB4F72B709E61252F136DD, \
                                   0x7B9751FC3F01F134F476464CD0EB627D4885CED1, \
                                   0xCE4439C1BEF3DA83B1832F9DBEFEEF227A98B809
 
