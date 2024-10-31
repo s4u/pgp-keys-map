@@ -373,6 +373,8 @@ info.picocli                    = \
 
 informa:informa                 = noSig
 
+io.airlift                      = 0x9E93DB1192CEE3D3B581AABB37E9D58EA4598641
+
 io.dropwizard.*                 = 0xEDA86E9FB607B5FC9223FB767D4868B53E31E7AD
 
 io.github.classgraph            = 0x1F47744C9B6E14F2049C2857F1F111AF65925306
