@@ -414,7 +414,8 @@ io.rsocket                      = 0x9B32CBC0F3F6BA4C13D611FC21871D2A9AB66A31
 
 io.vavr                         = \
                                   0x1D339B6A68AE2E8DAEDA65D5276962CA56E73C81, \
-                                  0x2E732921F44FD0DB434DB5CC55A58E21609DEC6E
+                                  0x2E732921F44FD0DB434DB5CC55A58E21609DEC6E, \
+                                  0x7F47B049D502F6E82C3AD35F9FF2FD540E29F945
 
 isorelax                        = noSig
 
