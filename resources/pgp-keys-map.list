@@ -782,7 +782,9 @@ org.apache.maven.*              = \
 
 org.apache.mina                 = 0x4D2DB2916149BAA9D0C92F3731474E5E7C6B7034
 
-org.apache.neethi               = 0x51B52DC5DD452F92BE342CC2858FC4C4F43856A3
+org.apache.neethi               = \
+                                  0x51B52DC5DD452F92BE342CC2858FC4C4F43856A3, \
+                                  0xDB45ECD19B97514F727105AE67BF80B10AD53983
 
 org.apache.pdfbox               = 0xA602970FE1BF5C9C8A9491B97A3C9FE21DFDBF44
 
