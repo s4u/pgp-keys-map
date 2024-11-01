@@ -1226,6 +1226,7 @@ org.smooks.*                    = \
                                   0x70AAA039F84946A2D494B4E9BCA0F51125CD0AEF
 
 org.sonatype.goodies            = 0x0DCF749D41A80E58041AAE1728F57F70167C0B3A
+
 org.sonatype.gossip             = \
                                   0x045B3D6AE9500CE0F930DFE48D948CAF35543C27, \
                                   0xDE45C032E8D246D675003184BC20477D4C4559D2
@@ -1233,6 +1234,7 @@ org.sonatype.gshell             = 0xDE45C032E8D246D675003184BC20477D4C4559D2
 org.sonatype.jline              = \
                                   0x045B3D6AE9500CE0F930DFE48D948CAF35543C27, \
                                   0xDE45C032E8D246D675003184BC20477D4C4559D2
+
 org.sonatype.ossindex           = 0x0DCF749D41A80E58041AAE1728F57F70167C0B3A
 org.sonatype.ossindex.maven     = 0x0DCF749D41A80E58041AAE1728F57F70167C0B3A
 
@@ -1240,6 +1242,7 @@ org.sonatype.plexus             = noSig
 
 org.sonatype.*                  = \
                                   0x2BCBDD0F23EA1CAFCC11D4860374CF2E8DD1BDFD, \
+                                  0x6C0D8AA121AE5808F43805A6C26BAB2B209A8FF4, \
                                   0x9FFED7A118D45A44E4A1E47130E6F80434A72A7F, \
                                   0xBA926F64CA647B6D853A38672E2010F8A7FF4A41, \
                                   0xE78AA45938D10249E08CC1C752E6585E0102B84D
