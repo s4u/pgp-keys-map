@@ -679,6 +679,7 @@ org.apache.directory.api        = \
 
 org.apache.felix                = \
                                   0x1AA8CF92D409A73393D0B736BFF2EE42C8282E76, \
+                                  0x524E21A269663147319D55F8DD2B17ACA29BD7AB, \
                                   0x605321BC2706D57CFC783D227AE9960C1F9C6B25, \
                                   0xA4DED8965C2E1C818217CB91CE2B7FF675D78E92, \
                                   0xDE35B0D7C01E70F492DD39891AE23E5B33C8561D, \
