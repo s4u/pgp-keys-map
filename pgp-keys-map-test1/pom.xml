@@ -884,7 +884,7 @@
         <dependency>
             <groupId>org.codehaus.plexus</groupId>
             <artifactId>plexus-sec-dispatcher</artifactId>
-            <version>[4.0.2]</version>
+            <version>[4.0.3]</version>
         </dependency>
         <dependency>
             <!-- In version 1.5.1, only sources are signed -->
