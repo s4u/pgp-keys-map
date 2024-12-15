@@ -1063,7 +1063,8 @@ org.hamcrest                    = \
 org.hdrhistogram                = 0xE113159331A1F87BFC2A93D0960D2E8635A91268
 
 org.hibernate.*                 = noSig
-org.hibernate.validator         = 0x894F14D98D7F20D5E82645E3DFE102108BF9381F
+org.hibernate.validator         = 0x1452F35849B50750F6A3BBB4B54011358B352F85, \
+                                  0x894F14D98D7F20D5E82645E3DFE102108BF9381F
 
 org.iq80.snappy                 = 0x9E93DB1192CEE3D3B581AABB37E9D58EA4598641
 
