@@ -51,6 +51,7 @@ classworlds                     = noSig
 
 commons-beanutils:*:(,1.7.0]    = noSig
 commons-beanutils               = \
+                                  0x2DB4F1EF0FA761ECC4EA935C86FDC7E2A11262CB, \
                                   0xB6E73D84EA4FCC47166087253FAAD2CD5ECBB314, \
                                   0xD196A5E3E70732EEB2E5007F1861C322C56014B2, \
                                   0xDDDEE87612E9FB95F5C8D91E411063A3A0FFD119, \
