@@ -130,7 +130,7 @@
         <dependency>
             <groupId>com.google.protobuf</groupId>
             <artifactId>protobuf-java</artifactId>
-            <version>[4.29.2]</version>
+            <version>[4.29.3]</version>
         </dependency>
         <dependency>
             <groupId>com.google.code.maven-scm-provider-svnjava</groupId>
