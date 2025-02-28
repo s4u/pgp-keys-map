@@ -41,7 +41,7 @@ cglib:cglib:2.2_beta1           = 0x69859CF50A3C1EB40A90D5FD2D6641C6AF88103E
 cglib:cglib:[2.2.2,3.1]         = 0xE78AA45938D10249E08CC1C752E6585E0102B84D
 cglib:cglib:[3.2.0,)            = 0x07DBC3C1AB1F4468471656061C8D5EF0DF2B70D4
 
-ch.qos.logback                  = \
+ch.qos.logback.*                = \
                                   0x475F3B8E59E6E63AA78067482C7B12F2A511E325, \
                                   0x60200AC4AE761F1614D6C46766D68DAA073BE985
 
