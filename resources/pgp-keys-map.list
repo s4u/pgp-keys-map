@@ -395,6 +395,8 @@ io.micrometer.*                 = \
                                   0x48B086A7D843CFA258E83286928FBF39003C0425, \
                                   0xE2ACB037933CDEAAB7BF77D49A2C7A98E457C53D
 
+io.moderne                      = 0x503D3E786E8325D4FAB9BBBD1C9D74A1F9401A8A
+
 io.netty                        = \
                                   0x0D35D3F60078655126908E8AF3D1600878E85A3D, \
                                   0x176E27B72061F21D6FE6286241CB03A1BB3BAD60, \
