@@ -642,6 +642,9 @@ org.antlr                       = \
                                   0xB01128C8FD304FE48E6EED2C347CD0EAED975C5F, \
                                   0xD54A395B5CF3F86EB45F6E426B1B008864323B92
 
+org.apache.activemq.*           = \
+                                  0x1AA8CF92D409A73393D0B736BFF2EE42C8282E76
+
 org.apache.ant                  = \
                                   0x06A228AAB83A18A8DF7B84B08614D6AB265B4C63, \
                                   0x0A123C1ED3F13A6A0140E166C71FB765CD9DE313, \
