@@ -256,7 +256,8 @@ com.lowagie                     = noSig
 
 com.mattbertolini               = \
                                   0x0D23D5975075143A9DE198953165E1E333C131A5, \
-                                  0x3C2458CC053AA1A514CF0B1F3462028A54DD5D35
+                                  0x3C2458CC053AA1A514CF0B1F3462028A54DD5D35, \
+                                  0xA79709746F919544046F020C605515C701A83A32
 
 com.mks.api                     = 0xF5FE3E099957FCC561BE34C2D9EB0830E9BFA161
 
