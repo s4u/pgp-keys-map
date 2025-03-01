@@ -96,6 +96,11 @@
             <artifactId>activemq-client</artifactId>
             <version>[6.1.5]</version>
         </dependency>
+        <dependency>
+            <groupId>org.glassfish.mq</groupId>
+            <artifactId>mq-client</artifactId>
+            <version>[6.5.1]</version>
+        </dependency>
     </dependencies>
 
 </project>
