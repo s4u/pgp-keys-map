@@ -1042,6 +1042,8 @@ org.glassfish:javax.json        = \
                                   0x4F7E32D440EF90A83011A8FC6425559C47CC79C4, \
                                   0x70CD19BFD9F6C330027D6F260315BFB7970A144F
 
+org.glassfish:jakarta.json      = 0xD58760A74BFDE983E890B455005B27E7CA8E530D
+
 org.glassfish.expressly         = 0xBBE1CA7ED79C93C289BB3F0953F5BBD6ED7429C9
 
 org.glassfish.external          = 0x98B8EC91D603095B68BB257D5E06B3EFC614EB37
@@ -1061,7 +1063,11 @@ org.glassfish.jaxb              = 0x06A4D15D9FA796BA5DECF592CE8B1D1D2530EDC5, \
 
 org.glassfish.jersey.*          = 0x2EABB8F15F15E18885312232372703E4D5313120
 
+org.glassfish.mq.*              = 0xD2A2882AA58A952F61E78D1A275A0A000FD3F235
+
 org.glassfish.pfl               = 0x98B8EC91D603095B68BB257D5E06B3EFC614EB37
+
+org.glassfish.tyrus.*           = 0x96880D0E96F6A4528BC47B1A1630982555403F73
 
 org.glassfish.web:jakarta.servlet.jsp.jstl = \
                                   0x7BE1BB0B4DE4CFB872E90E51296863EC7506AB74
