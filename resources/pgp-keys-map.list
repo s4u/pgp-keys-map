@@ -1065,6 +1065,8 @@ org.glassfish.mq.*              = 0xD2A2882AA58A952F61E78D1A275A0A000FD3F235
 
 org.glassfish.pfl               = 0x98B8EC91D603095B68BB257D5E06B3EFC614EB37
 
+org.glassfish.tyrus.*           = 0x96880D0E96F6A4528BC47B1A1630982555403F73
+
 org.glassfish.web:jakarta.servlet.jsp.jstl = \
                                   0x7BE1BB0B4DE4CFB872E90E51296863EC7506AB74
 
