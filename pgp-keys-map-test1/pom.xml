@@ -1030,7 +1030,7 @@
         <dependency>
             <groupId>org.libreoffice</groupId>
             <artifactId>libreoffice</artifactId>
-            <version>[24.2.3]</version>
+            <version>[24.8.4]</version>
         </dependency>
         <dependency>
             <groupId>org.liquibase</groupId>
