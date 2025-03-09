@@ -23,6 +23,7 @@ Especially you can help, when:
 
 # Usage
 
+```xml
     <project>
         ...
         <build>
@@ -32,7 +33,7 @@ Especially you can help, when:
                     <plugin>
                         <groupId>org.simplify4u.plugins</groupId>
                         <artifactId>pgpverify-maven-plugin</artifactId>
-                        <version>1.18.2</version>
+                        <version><!-- use the latest version --></version>
                         <executions>
                             <execution>
                                 <goals>
@@ -50,7 +51,7 @@ Especially you can help, when:
                             <dependency>
                                 <groupId>org.simplify4u</groupId>
                                 <artifactId>pgp-keys-map</artifactId>
-                                <version>2024.04.04</version>
+                                <version><!-- use the latest version --></version>
                             </dependency>
                         </dependencies>
                     </plugin>
@@ -69,3 +70,4 @@ Especially you can help, when:
         </build>
         ...
     </project>
+```
