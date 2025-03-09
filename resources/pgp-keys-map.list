@@ -424,7 +424,7 @@ io.vavr                         = \
                                   0x0942F59B726DA4BD2837DD44F45F03308EE961FF, \
                                   0x1D339B6A68AE2E8DAEDA65D5276962CA56E73C81, \
                                   0x2E732921F44FD0DB434DB5CC55A58E21609DEC6E
-                                  # 0x7F47B049D502F6E82C3AD35F9FF2FD540E29F945 - revoked key
+                                  # 0x7F47B049D502F6E82C3AD35F9FF2FD540E29F945 - revoked and removed key
 
 isorelax                        = noSig
 
@@ -617,12 +617,13 @@ net.sourceforge.jchardet        = noSig
 net.sourceforge.saxon           = noSig
 
 
-# was signed by 0xEBB241A545CB17C87FACB2EBD0BF1D737C9A1C22 which is revoked but not at all servers
-net.sourceforge.pmd:*:7.7.0 = noKey, 0xEBB241A545CB17C87FACB2EBD0BF1D737C9A1C22
+# was signed by 0xEBB241A545CB17C87FACB2EBD0BF1D737C9A1C22
+# which is revoked and public key is not available - but not at all servers
+net.sourceforge.pmd:*:7.7.0     = \
+                                  !0xEBB241A545CB17C87FACB2EBD0BF1D737C9A1C22, \
+                                  0xEBB241A545CB17C87FACB2EBD0BF1D737C9A1C22
 
-net.sourceforge.pmd             = \
-                                  0x912E716EF6D98746F8EEB4D182DE7BE82166E84E
-                                  # 0xEBB241A545CB17C87FACB2EBD0BF1D737C9A1C22 - key revoked
+net.sourceforge.pmd             = 0x912E716EF6D98746F8EEB4D182DE7BE82166E84E
 
 msv                             = noSig
 
