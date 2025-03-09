@@ -760,6 +760,7 @@ org.apache.maven.wagon:*:1.0-beta-2 = noSig
 
 org.apache.maven.*              = \
                                   0x042B29E928995B9DB963C636C7CA19B7B620D787, \
+                                  0x0766A15E29835E00A5E0A75952B7C8248994CB15, \
                                   0x0CDE80149711EB46DFF17AE421A24B3F8B0F594A, \
                                   0x1083EA117629CBDBF77FD6060E593F2ED433A5AD, \
                                   0x190D5A957FF22273E601F7A7C92C5FEC70161C62, \
