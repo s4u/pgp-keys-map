@@ -25,7 +25,7 @@
     </parent>
 
     <artifactId>pgp-keys-map</artifactId>
-    <version>2025.03.15</version>
+    <version>2025.03.16-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>PGP keys map to maven artifacts</name>
@@ -68,14 +68,14 @@
         <connection>scm:git:git@github.com:s4u/pgp-keys-map.git</connection>
         <developerConnection>${project.scm.connection}</developerConnection>
         <url>https://github.com/s4u/pgp-keys-map</url>
-        <tag>v2025.03.15</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <properties>
         <maven.test.skip />
         <maven.site.skip>true</maven.site.skip>
         <scmpublish.skipDeploy>true</scmpublish.skipDeploy>
-        <project.build.outputTimestamp>2025-03-15T14:14:30Z</project.build.outputTimestamp>
+        <project.build.outputTimestamp>2025-03-15T14:14:36Z</project.build.outputTimestamp>
     </properties>
 
     <build>

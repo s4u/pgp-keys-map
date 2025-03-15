@@ -20,7 +20,7 @@
     <parent>
         <artifactId>pgp-keys-map</artifactId>
         <groupId>org.simplify4u</groupId>
-        <version>2025.03.15</version>
+        <version>2025.03.16-SNAPSHOT</version>
     </parent>
 
     <artifactId>org-springframework-test</artifactId>
