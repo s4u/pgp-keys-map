@@ -1352,6 +1352,11 @@
             <artifactId>jboss-logging</artifactId>
             <version>[3.6.1.Final]</version>
         </dependency>
+        <dependency>
+            <groupId>org.apache.lucene</groupId>
+            <artifactId>lucene-core</artifactId>
+            <version>[10.2.0]</version>
+        </dependency>
     </dependencies>
 
     <build>

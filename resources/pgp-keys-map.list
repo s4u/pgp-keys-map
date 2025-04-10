@@ -756,6 +756,12 @@ org.apache.logging.log4j        = \
                                   0x53C935821AA6A755BD337DB53595395EB3D8E1BA, \
                                   0x748F15B2CF9BA8F024155E6ED7C92B70FA1C814D
 
+org.apache.lucene               = \
+                                  0x651C7C87D3EFF5A25264A0331C296D0B9B64D26A, \
+                                  0x9A56AE5DDB7C01163B39DE72A14898310E6E898E, \
+                                  0xD5FFBD04BFCE9312213DC81C5E1D02AC7CF99ADC, \
+                                  0xE1E371D044F2BA2975FF85A899F1E44F529DDE03
+
 org.apache.maven.wagon:*:1.0-beta-2 = noSig
 
 org.apache.maven.*              = \
