@@ -435,6 +435,10 @@ jakarta.annotation              = 0xF6CE460FDBE1AABD1A96456737ECFC571637667C # m
 
 jakarta.el                      = 0x7AA34304FF173025AA394C7C2C026998703FFA67
 
+jakarta.enterprise:jakarta.enterprise.cdi-api = 0x6ACBD5073DF2D83775916804928B20E9AD5298CC
+jakarta.enterprise:jakarta.enterprise.cdi-el-api = 0x6ACBD5073DF2D83775916804928B20E9AD5298CC
+jakarta.enterprise:jakarta.enterprise.lang-model = 0x6ACBD5073DF2D83775916804928B20E9AD5298CC
+
 jakarta.inject                  = 0x6ACBD5073DF2D83775916804928B20E9AD5298CC
 
 jakarta.jms                     = 0x84407E95050FB588296690862591BA36FD00E56A
