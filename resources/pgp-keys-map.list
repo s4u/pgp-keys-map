@@ -463,6 +463,9 @@ jakarta.transaction             = 0x1A2A6D7F079CF627566ABD869B26CED3E3BA51C3
 
 jakarta.validation              = 0x84E640DF8E94CB8CD2BEB9AE99059A5DDE1B175D, \
                                   0xA1B15E118E16C24FA2D5436FE68A99D89687FA14
+
+jakarta.websocket               = 0xFFA95B1DD22FE6D191189AFA718E28A09E67016B
+
 jakarta.xml.bind                = 0xDD46DEC275B1F230ACCE4EEB083891AD4774845A # master key
 
 jakarta.xml.soap                = 0xCB3B6379F3D113FA3D7CB45F2776BC4F5165A5EB
