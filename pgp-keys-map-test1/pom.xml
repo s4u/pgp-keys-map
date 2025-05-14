@@ -788,7 +788,7 @@
         <dependency>
             <groupId>org.apache.tomcat</groupId>
             <artifactId>tomcat-api</artifactId>
-            <version>[11.0.6]</version>
+            <version>[11.0.7]</version>
         </dependency>
         <dependency>
             <groupId>org.apache.tomcat.embed</groupId>
