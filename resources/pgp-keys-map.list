@@ -1122,7 +1122,8 @@ org.jboss.spec.javax.transaction:jboss-transaction-api_1.2_spec:1.1.1.Final = no
 
 org.jcommander                  = 0x1D85469D8559C2E1DF5F925131D2D79DF7E85DD3
 
-org.jfree:jfreechart            = 0x1A6782E4EBF49045C8040D1B93157E22A3A5461C
+org.jfree:jfreechart            = 0x1A6782E4EBF49045C8040D1B93157E22A3A5461C,
+                                  0x76A0712EF95F23AD27E6577C9BCEE37704862F01
 
 org.javaruntype                 = 0x839323A4780D5BF9A6978970152888E10EF880B3
 
