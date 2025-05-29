@@ -1055,7 +1055,7 @@
         <dependency>
             <groupId>org.mortbay.jasper</groupId>
             <artifactId>apache-jsp</artifactId>
-            <version>[11.0.4]</version>
+            <version>[11.0.7]</version>
         </dependency>
         <dependency>
             <groupId>org.mozilla</groupId>
