@@ -1345,7 +1345,8 @@ org.xerial.snappy               = \
 
 org.xmlresolver                 = 0x4C5F68D09D42BA7FAC888DF9A929EA2321FDBF8F
 
-org.xmlunit                     = 0xCE8075A251547BEE249BC151A2115AE15F6B8B72
+org.xmlunit                     = 0xBC26C53AF531F8B4B3F5930AAFBD3AF8EAFA72DA, \
+                                  0xCE8075A251547BEE249BC151A2115AE15F6B8B72
 
 org.yaml                        = 0x120D6F34E627ED3A772EBBFE55C7E5E701832382, \
                                   0x2FC53E6B1F681184F4CCD637F5C81DE10A0B8ECC
