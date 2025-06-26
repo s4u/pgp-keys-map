@@ -632,7 +632,8 @@ net.sourceforge.pmd:*:7.7.0     = \
                                   !0xEBB241A545CB17C87FACB2EBD0BF1D737C9A1C22, \
                                   0xEBB241A545CB17C87FACB2EBD0BF1D737C9A1C22
 
-net.sourceforge.pmd             = 0x912E716EF6D98746F8EEB4D182DE7BE82166E84E
+net.sourceforge.pmd             = 0x2EFA55D0785C31F956F2F87EA0B5CA1A4E086838, \
+                                  0x912E716EF6D98746F8EEB4D182DE7BE82166E84E
 
 msv                             = noSig
 
