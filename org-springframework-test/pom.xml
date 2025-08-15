@@ -27,7 +27,7 @@
     <packaging>pom</packaging>
 
     <properties>
-        <spring-core.version>6.2.9</spring-core.version>
+        <spring-core.version>6.2.10</spring-core.version>
         <spring-boot.version>3.5.4</spring-boot.version>
     </properties>
 
