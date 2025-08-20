@@ -170,6 +170,7 @@ com.github.spotbugs             = \
                                   0x3B9CD44BEEDFBDFABA22717BEEA8F6DF3031CD02, \
                                   0x787F7A150BC86005D13BE40BE5B9E4A8C7850FE7, \
                                   0x9857C388D7D1D9D031274CD0A5DEF5A76F94A471, \
+                                  0xD878D4A823EAE731B729D1A8D2151178A123C97F, \
                                   0xEAD73BAFA397701858506C241756B920EECF0E90
 
 com.github.spullara.mustache.java = 0xA22931805BEA371C4B607CD9CCC16740C5666D5A
