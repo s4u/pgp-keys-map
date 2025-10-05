@@ -21,7 +21,7 @@
     <parent>
         <artifactId>parent</artifactId>
         <groupId>org.simplify4u</groupId>
-        <version>2.22.1</version>
+        <version>3.0.0</version>
     </parent>
 
     <artifactId>pgp-keys-map</artifactId>
@@ -156,12 +156,6 @@
                         </execution>
                     </executions>
                 </plugin>
-                <plugin>
-                    <!-- disable extension for nexus-staging - we want this only in root module -->
-                    <groupId>org.sonatype.plugins</groupId>
-                    <artifactId>nexus-staging-maven-plugin</artifactId>
-                    <extensions>false</extensions>
-                </plugin>
             </plugins>
         </pluginManagement>
 
@@ -244,15 +238,13 @@
                 </executions>
             </plugin>
             <plugin>
-                <groupId>org.sonatype.plugins</groupId>
-                <artifactId>nexus-staging-maven-plugin</artifactId>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-deploy-plugin</artifactId>
                 <inherited>false</inherited>
                 <executions>
                     <execution>
+                        <id>default-deploy</id>
                         <phase>deploy</phase>
-                        <goals>
-                            <goal>deploy</goal>
-                        </goals>
                     </execution>
                 </executions>
             </plugin>
