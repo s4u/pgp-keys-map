@@ -704,7 +704,8 @@ org.apache.commons              = \
                                   0x636DE9055C4C75C7BD9830771241BC872C5E4EC0, \
                                   0xB6E73D84EA4FCC47166087253FAAD2CD5ECBB314, \
                                   0xCD5464315F0B98C77E6E8ECD9DAADC1C9FCC82D0, \
-                                  0xCE8075A251547BEE249BC151A2115AE15F6B8B72
+                                  0xCE8075A251547BEE249BC151A2115AE15F6B8B72, \
+                                  0xF4DD59C90148BDC52BEB90A4530AA5F25C25011F
 
 org.apache.cxf                  = 0x51B52DC5DD452F92BE342CC2858FC4C4F43856A3
 
