@@ -389,6 +389,8 @@ io.github.resilience4j          = \
                                   0x8756C4F765C9AC3CB6B85D62379CE192D401AB61, \
                                   0x94FAC9D5B165E80F1F2D9A103FFA7DB1EC0FF1A2
 
+io.github.weblegacy             = 0x21F8E7306A66F05CAA8046F8480913580EEEC892
+
 io.github.x-stream              = 0x050A37A2E0577F4BAA095B52602EC18D20C4661C
 
 io.leangen.geantyref            = 0x41B962CF9AA2A26FF1F234D2A6144824624A3CBA
