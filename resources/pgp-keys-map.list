@@ -340,6 +340,8 @@ com.thoughtworks.*              = \
                                   0x7E6557B314B189FD4EA5B680FE66BCA17E67AE6F, \
                                   0xB02137D875D833D9B23392ECAE5A7FB608A0221C
 
+com.univocity                   = 0x1ABE38B92F812C1F7BF1D647D0D1B9A54EFD603D
+
 com.vaadin.external.google      = 0xCC57399D74CD7E4768ED6FA4CA62973FBF0451C0
 
 com.vladsch.flexmark            = 0x4008F9DFF7DBC968F35F9E712642156411CCE8B3
