@@ -31,6 +31,7 @@ backport-util-concurrent        = noSig
 biz.aQute:bndlib:0.0.145        = noSig
 biz.aQute.bnd                   = \
                                   0x32D98FFD50617F6ED7E6ABD236FEECF06C2DA10B, \
+                                  0xAC955DB96DD5FDBA632AAE6CD04F7B941B8A039F, \
                                   0xC668130C58722C9DC1C0FC633F1EB974E7AB9B37, \
                                   0xF4FD8D1EA4A590D774A6BA777B534D9959CF9EAC
 
