@@ -288,7 +288,8 @@ com.semanticcms                 = 0x3FF945C37048D113E997AEC7CE70AA9A5BD10E01
 
 com.servlets                    = noSig
 
-com.stripe:stripe-java          = 0xC33033E4B583FE612EDE877C05D02D3D57ABFF46
+# key revoked and public key is not available
+com.stripe:stripe-java          = !0xC33033E4B583FE612EDE877C05D02D3D57ABFF46
 
 com.sun.activation              = 0xCAE38BC93D90B852D88465DD3A1959EEF8726006
 
