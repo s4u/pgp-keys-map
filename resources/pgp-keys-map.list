@@ -139,8 +139,9 @@ com.github.cliftonlabs:json-simple:[3.1.1,) \
                                 = 0xA5A6CA64706880C873677EEF1E831E5567C07466
 
 com.github.docker-java          = \
+                                  0x08B09F787B6745E796CE6DBE100306F2B3793BF3, \
                                   0x2655176F748FD83725B4805FF2A01147D830C125, \
-                                  0x08B09F787B6745E796CE6DBE100306F2B3793BF3
+                                  0x6E7F910017655622A899639EE7D88DB8427DE651
 
 com.github.luben                = 0x9AC5712CABE9635B65663AB0711C0A9A896FE336
 
