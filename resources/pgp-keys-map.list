@@ -1205,6 +1205,7 @@ org.libreoffice                 = \
 
 org.liquibase:*                 = \
                                   0x4F474D657AAB9B387B812DA2915C4D2EC1FE0D33, \
+                                  0xA1DD405BE11C10B68642177F9CB34520F4F52C15, \
                                   0xBAF4CE3CC55E6523CF5881A78AFE608B21FE903C, \
                                   0xCE8CCE6925A669E933D1CFFCC604A7DC47B41156
 
