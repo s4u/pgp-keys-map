@@ -90,6 +90,7 @@ commons-digester                = \
 
 commons-fileupload:*:(,1.1.1]   = noSig
 commons-fileupload              = \
+                                  0x2DB4F1EF0FA761ECC4EA935C86FDC7E2A11262CB, \
                                   0xA9C5DF4D22E99998D9875A5110C01C5A2F6059E7, \
                                   0xB6E73D84EA4FCC47166087253FAAD2CD5ECBB314
 
