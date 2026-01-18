@@ -985,7 +985,7 @@
         <dependency>
             <groupId>org.jdbi</groupId>
             <artifactId>jdbi3-jodatime2</artifactId>
-            <version>[3.49.6]</version>
+            <version>[3.51.0]</version>
         </dependency>
         <dependency>
             <groupId>org.jdom</groupId>
