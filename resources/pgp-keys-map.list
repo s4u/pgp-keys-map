@@ -1399,6 +1399,8 @@ stax                            = noSig
 
 taglibs                         = noSig
 
+tools.jackson.core              = 0x28118C070CB22A0175A2E8D43D12CA2AC19F3181
+
 velocity                        = noSig
 
 wsdl4j:wsdl4j:(,1.6.2]          = noSig
