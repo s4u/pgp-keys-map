@@ -423,6 +423,7 @@ io.projectreactor.*             = \
 
 io.prometheus                   = \
                                   0x55C895C9A9A107F87E6E3BDC3C9B410084525C69, \
+                                  0xE74BC778A315F77D0E89E42FEE5F0C3805A24B16, \
                                   0xF0E31196852A34F8855710BD4A6CE7EBC7F4F54B
 
 io.quarkus.*                    = 0x7119B89FEB81209430E65C62C2AD9C8A7D4E988A
