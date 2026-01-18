@@ -766,6 +766,7 @@ org.apache.httpcomponents.*     = \
 org.apache.ivy                  = \
                                   0x7B8E57E91F116BECF9ACE6AF37A0E062971731FB, \
                                   0x8DA70C00DF7AF1B0D2F9DC74DDBCC1270A29D081, \
+                                  0x9C60C6B3A5A9DF8FEDD299D65BE0BA8CB80602AE, \
                                   0xCE8075A251547BEE249BC151A2115AE15F6B8B72
 
 org.apache.james                = \
