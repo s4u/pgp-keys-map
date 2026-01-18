@@ -849,6 +849,7 @@ org.apache.santuario            = 0xDB45ECD19B97514F727105AE67BF80B10AD53983
 org.apache.servicemix.bundles   = 0x1AA8CF92D409A73393D0B736BFF2EE42C8282E76
 
 org.apache.sshd                 = \
+                                  0x2D06E41326CC1A8258B1937C081CA8E4186AA7B6, \
                                   0xDC98224C6421A7A5BB87F346ED2378CD09A08CDE, \
                                   0xEA23DB1360D9029481E7F2EFECDFEA3CB4493B94
 
