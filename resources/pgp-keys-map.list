@@ -1214,7 +1214,8 @@ org.mockito                     = \
 
 org.mortbay.jasper              = \
                                   0x1A2D608BF6D37AEF12D53A4F37B0A85F5CE89B0C, \
-                                  0x5989BAF76217B843D66BE55B2D0E1FB8FE4B68B4
+                                  0x5989BAF76217B843D66BE55B2D0E1FB8FE4B68B4, \
+                                  0xF254B35617DC255D9344BCFA873A8E86B4372146
 
 org.mozilla                     = 0xEA0B70B5050192C98CFA7E4F3F36885C24DF4B75
 
