@@ -249,7 +249,9 @@ com.hynnet:jacob                = 0x1E31CD81EFF9A0D43E59BA026D346B32FC3FC9CF
 com.intellij                    = 0x746B94E2EB774FD0BAD985DC53FBF61FE95B3726
 
 com.ibm.icu:icu4j:(,4.0.1]     = noSig
-com.ibm.icu                     = 0xCB3190CA7842439E57F3712E44CE7BF2825EA2CD
+com.ibm.icu                     = \
+                                  0xCB3190CA7842439E57F3712E44CE7BF2825EA2CD, \
+                                  0xE52F07877A5805F9AF4AB0ACD46C5610D06E7001
 
 com.jayway.jsonpath             = 0x41D266DB4427983A1A4AFB0C3684155E9365C30E
 
