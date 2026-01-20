@@ -1333,9 +1333,11 @@ org.springframework.*           = \
 
 org.swinglabs.swingx            = 0x335189B9470DEC927660267824193FC03304997D
 
-org.testcontainers:*:(,1.17.0)  = 0xD33620F0D0864EC924483F6F3FF95B4331B1F3B7
-org.testcontainers:*:[1.17.0,1.17.1] = 0x08B09F787B6745E796CE6DBE100306F2B3793BF3
-org.testcontainers:*:[1.17.2,)  = 0x2655176F748FD83725B4805FF2A01147D830C125
+org.testcontainers              = \
+                                  0x08B09F787B6745E796CE6DBE100306F2B3793BF3, \
+                                  0x2655176F748FD83725B4805FF2A01147D830C125, \
+                                  0x6E7F910017655622A899639EE7D88DB8427DE651, \
+                                  0xD33620F0D0864EC924483F6F3FF95B4331B1F3B7
 
 org.testng                      = \
                                   0x7CD52B5A8295137C88FB5748DDDAFA7674E54418, \
