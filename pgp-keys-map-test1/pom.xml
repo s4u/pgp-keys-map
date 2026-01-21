@@ -970,7 +970,7 @@
         <dependency>
             <groupId>org.graalvm.sdk</groupId>
             <artifactId>graal-sdk</artifactId>
-            <version>[25.0.1]</version>
+            <version>[25.0.2]</version>
         </dependency>
         <dependency>
             <groupId>org.hdrhistogram</groupId>
