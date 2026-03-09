@@ -104,7 +104,8 @@ commons-logging:*:(,1.1.0]      = noSig
 commons-logging                 = \
                                   0x0CC641C3A62453AB390066C4A41F13C999945293, \
                                   0x2DB4F1EF0FA761ECC4EA935C86FDC7E2A11262CB, \
-                                  0xB920D295BF0E61CB4CF0896C33CD6733AF5EC452
+                                  0xB920D295BF0E61CB4CF0896C33CD6733AF5EC452, \
+                                  0xF4DD59C90148BDC52BEB90A4530AA5F25C25011F
 
 commons-httpclient:*:(,3.0.1]   = noSig
 commons-httpclient:commons-httpclient:pom:3.1 = noSig
