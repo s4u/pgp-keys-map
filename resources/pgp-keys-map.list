@@ -707,7 +707,8 @@ org.apache.axis2                = \
                                   0x2D3C43AC36E5BCFC9696F996CE13E82AEE08B906, \
                                   0x2DE77CF47E529C5357A38D7BD4E81F01116FFC04
 
-org.apache.bcel                 = 0x2DB4F1EF0FA761ECC4EA935C86FDC7E2A11262CB
+org.apache.bcel                 = 0x2DB4F1EF0FA761ECC4EA935C86FDC7E2A11262CB, \
+                                  0xF4DD59C90148BDC52BEB90A4530AA5F25C25011F
 
 org.apache.commons:commons-compress = \
                                   0x8378BFAAD82FE5AA602AC356031EE010CA15D1EE
