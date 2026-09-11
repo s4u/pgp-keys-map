@@ -56,6 +56,42 @@ Conventions in force throughout the file — match them:
 
 A change to the list should normally come with a matching test-module entry that actually exercises it.
 
+## Adding a new key
+
+A failing `pgpverify:check` names both the artifact and the key it was signed with - in a local build or in a PR's CI log:
+
+```
+[ERROR] Not allowed artifact org.apache.felix:org.apache.felix.metatype:jar:1.2.4 and keyID:
+        org.apache.felix:org.apache.felix.metatype:1.2.4 = 0x5FD5145A8BD0317A94DC77133FCF529FF2F27A06
+```
+
+`Unsigned artifact is listed with key in keys map` is not automatically a `noSig` case - the `.asc` may simply not have been published yet when that build ran. Check Central first.
+
+Then confirm the key. A keyserver only tells you what a UID claims; look for an authoritative publication:
+
+```bash
+curl -sS "https://keyserver.ubuntu.com/pks/lookup?op=get&options=mr&search=0x<fingerprint>" -o key.asc
+curl -sS https://downloads.apache.org/<project>/KEYS          # Apache project KEYS file
+curl -sS https://people.apache.org/keys/committer/<id>.asc    # Apache committer key page
+```
+
+A KEYS file lists short ids (`pub 4096R/F2F27A06`), so match on the last 8 hex digits of the fingerprint. Verify that the signature really validates against the artifact from Central - `gpgv` does this without importing into a keyring:
+
+```bash
+gpg --dearmor < key.asc > key.gpg
+gpgv --keyring key.gpg <artifact>.jar.asc <artifact>.jar
+```
+
+One PR per key:
+
+- branch from `master`, a single added fingerprint, placed in fingerprint order inside the entry
+- commit subject `New signing key for <project>`, body naming the artifact and the key
+- label `enhancement`
+- description: the key, the artifact it signs, and a link to the source confirming it. No personal names in the title, no CI error output, and no link to the PR that was failing
+- if no KEYS file or equivalent carries the key, say so in the description rather than leaving the reader to discover it
+
+Dependency bump PRs that fail only because a key is missing get a comment linking the key PR; they go green after that PR is merged and the branch is rebased.
+
 ## Releasing / CI
 
 Workflows delegate to reusable `s4u/.github` workflows (`maven-build.yml` on master/tags, `maven-pr.yml` on PRs, plus release-drafter and auto-approve). Versions are date-based (`YYYY.MM.DD`).
