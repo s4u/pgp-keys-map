@@ -638,6 +638,8 @@ net.sf.jopt-simple:jopt-simple  = 0x517B94F8D0A46317A28D8AB30DA8A5EC02D11EAD
 
 net.sf.jtidy                    = 0x4F752A9878E937049EF3FBA7D4012DDA1F1F0F82
 
+net.sf.kxml                     = noSig
+
 net.sf.saxon                    = \
                                   0x4C5F68D09D42BA7FAC888DF9A929EA2321FDBF8F, \
                                   0xD9AA7402BA75F78720D975211D185615D0A84648
