@@ -12,8 +12,8 @@ Everything else in the repo exists to *test* that data file.
 ## Build and test
 
 ```bash
-mvn verify                       # build the keys-map jar and verify every test module against it
-mvn verify -pl pgp-keys-map-test1   # exercise a single test module
+mvn verify                              # build the keys-map jar and verify every test module against it
+mvn verify -pl pgp-keys-map-test1 -am   # exercise a single test module (-am builds the keys-map jar first)
 ```
 
 `test-not-used-keys.sh` is kept in the repo for historical purposes only — do not run it, and never act on its output. Keys are not removed from the map: an entry stays valid for every artifact version ever signed with that key, while the test modules only exercise a thin slice of the map — so the script reports almost every key as "not used" and none of that is a reason to delete anything.
