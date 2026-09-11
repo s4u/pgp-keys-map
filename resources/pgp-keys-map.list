@@ -24,6 +24,8 @@ aopalliance                     = noSig
 
 asm:asm                         = noSig
 
+at.yawk.lz4                     = 0x03E427B088EE7D454D1DDF4CEF470EC23A40A3B5
+
 avalon-framework                = noSig
 
 backport-util-concurrent        = noSig
