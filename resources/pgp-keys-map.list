@@ -1051,6 +1051,8 @@ org.codehaus.woodstox           = \
                                   0x28118C070CB22A0175A2E8D43D12CA2AC19F3181, \
                                   0x6214760097DC5CFAD0175AC2C9FBAA83A8753994
 
+org.commonmark                  = 0x47FF105DF431FF5416B821FEAECDB81D38EA9C89
+
 org.conscrypt                   = 0x1597AB231B7ADD7E14B1D9C43F00DB67AE236E2E
 
 org.dom4j                       = 0x8F9A3C6D105B9F57844A721D79E193516BE7998F
