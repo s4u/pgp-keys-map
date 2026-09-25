@@ -244,7 +244,8 @@ com.google.*                    = \
 
 com.h2database                  = \
                                   0x0CFA413799E2464C7D7E26220A4B343F2A55FDAE, \
-                                  0xCF6FCDD747FD9C32304B180B58BD11D32974088F
+                                  0xCF6FCDD747FD9C32304B180B58BD11D32974088F, \
+                                  0xD09CCACA34B6BCB1A98068DD739D53C0A4CF0287
 
 com.helger                      = 0x670BE7D076A0C89F5F07625AE57428DA9E879E7D
 
