@@ -277,6 +277,7 @@ com.mattbertolini               = \
 com.mks.api                     = 0xF5FE3E099957FCC561BE34C2D9EB0830E9BFA161
 
 com.mysql                       = \
+                                  0xAC0DEC49536DBA0E75C27D56E3BA60ACAC1A05AE, \
                                   0xC8D37E9675158FF5B29B6D6452FC3551DA8DC57E, \
                                   0xF046369B06B761AC86D9849F71B329993BFFCFDD
 
@@ -1148,6 +1149,7 @@ org.glassfish.web:jakarta.servlet.jsp.jstl = \
                                   0x7BE1BB0B4DE4CFB872E90E51296863EC7506AB74
 
 org.graalvm.*                   = \
+                                  0xAC0DEC49536DBA0E75C27D56E3BA60ACAC1A05AE, \
                                   0xC8D37E9675158FF5B29B6D6452FC3551DA8DC57E, \
                                   0xF046369B06B761AC86D9849F71B329993BFFCFDD, \
                                   0xFE72F1BFE9632B1FE049AC3E5BCD80B78ACD3A37
