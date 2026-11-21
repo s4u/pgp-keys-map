@@ -812,6 +812,7 @@ org.apache.logging.log4j        = \
                                   0x748F15B2CF9BA8F024155E6ED7C92B70FA1C814D
 
 org.apache.lucene               = \
+                                  0x50E3EE1C91C7E0CB4DFB007B369424FC98F3F6EC, \
                                   0x651C7C87D3EFF5A25264A0331C296D0B9B64D26A, \
                                   0x9A56AE5DDB7C01163B39DE72A14898310E6E898E, \
                                   0xD5FFBD04BFCE9312213DC81C5E1D02AC7CF99ADC, \
